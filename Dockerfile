@@ -3,7 +3,7 @@ FROM ubuntu:20.04
 WORKDIR /melisma
 
 RUN apt update
-RUN apt install -y build-essential automake git unzip wget
+RUN apt install -y build-essential autoconf automake libtool git unzip wget
 
 # Get melisma codebase
 RUN wget https://www.link.cs.cmu.edu/music-analysis/melisma2003.tar.gz
