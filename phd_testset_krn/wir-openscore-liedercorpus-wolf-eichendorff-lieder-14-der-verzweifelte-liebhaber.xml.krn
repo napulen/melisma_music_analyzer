@@ -1,12 +1,8 @@
-!!!COM: Hugo Wolf
-!!!OTL: Eichendorff-Lieder
-!!!OMV: Der verzweifelte Liebhaber
 **kern	**dynam
 *I"Voice	*
 *clefG2	*
 *k[b-e-]	*
 *M6/8	*
-!LO:TX:a:B:t=Rasch und unmutig	!LO:DY:a
 8dd	f
 =1	=1
 4ee-	.
@@ -31,7 +27,6 @@
 8A-XJ 8e- 8a-X 8cc 8ee- 8gg	.
 8A-XL 8e- 8a-X 8cc 8ee- 8gg 8ccc	.
 *MM110	*
-!LO:TX:t=[quarter]=110	!LO:DY:a
 8g	mf
 8gJ	.
 =5	=5
@@ -45,20 +40,15 @@
 8GJ 8d 8g 8b- 8dd 8ff	.
 8G 8d 8g 8b- 8dd 8ff 8bb-	.
 *MM100	*
-!LO:TX:t=[quarter]=100	!
 8r	.
-!	!LO:DY:a
 8f	mp
 =7	=7
-!LO:TX:a:i:t=sehr zurückhaltend	!
 4b-	.
 8b-	.
 *MM85	*
-!LO:TX:t=[quarter]=85	!
 [4EE- [4E- [4A [4c#X [4g 4a	.
 8EE-] 8E-] 8A] 8c#] 8g]	.
 =8	=8
-!LO:TX:a:i:t=a tempo	!
 [8dL	.
 8DD 8D 8d_	.
 8DDJ 8D 8d]	.
@@ -77,7 +67,6 @@
 8DJ 8F#X 8c 8a 8aa	.
 8G 8B- 8g 8b- 8gg	.
 8r	.
-!	!LO:DY:a
 8dd	p
 =11	=11
 [8EE-L [8E- 8G [8cc	.
@@ -199,7 +188,6 @@
 8EE-J 8BB- 8E- 8ee-] 8gg 8bb- 8eee-	.
 8EE- 8BB- 8E- 8ee- 8gg 8bb- 8eee-	.
 8r	.
-!LO:TX:a:i:t=bedeutend langsamer	!LO:DY:a
 8dd	p
 =27	=27
 [4E- [4G [4e- [4g 4cc#X	.
@@ -220,10 +208,8 @@
 =30	=30
 [4.D [4.F#X [4.d [4.a [4.dd [4.ff#X [4.aa	.
 4D_ 4F#_ 4d_ 4a_ 4dd_ 4ff#_ 4aa_	.
-!	!LO:DY:a
 8D] 8F#] 8d] 8a] 8dd] 8ff#] 8aa]	f
 =31	=31
-!LO:TX:a:i:t=rasch	!
 8EnL 8Bn 8en [8g	.
 8g]	.
 8gJ	.
@@ -248,4 +234,3 @@
 4.r	.
 ==	==
 *-	*-
-!!!YEM: OpenScore (CC0)

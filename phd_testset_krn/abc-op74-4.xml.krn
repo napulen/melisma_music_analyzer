@@ -1,15 +1,10 @@
-!!!COM: L van Beethoven
-!!!OTL: String Quartet
-!!!OMV: op74_no10_mov4.mxl
 **kern	**dynam
 *I"Violin I	*
 *I'Vln. I	*
 *clefG2	*
 *k[b-e-a-]	*
 *M2/4	*
-!LO:TX:a:B:t=Allegretto con Variazioni	!
 *MM100	*
-!LO:TX:t=[quarter]=100	!
 [8.E-L [8.G [8.B- [8.e- 8.b-	p
 16E-Jk_ 16G_ 16B-_ 16e-_ 16a-	.
 =1	=1
@@ -30,7 +25,6 @@
 =4	=4
 8D'] 8F] 8B- 8f	.
 8r	.
-!LO:TX:a:i:t=cresc.	!
 [8.BB-L [8.F [8.d 8.a-	.
 16BB-Jk_ 16F_ 16d_ 16g	.
 =5	=5
@@ -66,7 +60,6 @@
 [4D 4d [4f#X [4dd	.
 =12	=12
 4D] 4f#X] 4an 4dd]	.
-!LO:TX:b:i:t=cresc.	!
 8.FnL 8.B- 8.fn 8.a-X 8.dd	.
 16GJk 16e- 16g 16ccn	.
 =13	=13
@@ -112,7 +105,6 @@
 =21	=21
 8E-'L 8G	.
 8BB-'J 8B-	.
-!LO:TX:b:i:t=sempre f e staccato	!
 8GG'L 8e- 8eee-	.
 8EE-'J 8g 8bb-	.
 =22	=22
@@ -212,7 +204,6 @@
 12c	.
 12A-J	.
 =41	=41
-!LO:TX:b:i:t=sempre dolce e p	!
 [12E-L 12G [12e- [12g [12b-	.
 12E-_ 12B- 12e-_ 12g_ 12b-_	.
 12E-J_ 12A- 12e-_ 12g_ 12b-_	.
@@ -524,7 +515,6 @@
 =80	=80
 8EE-L 8G	.
 8gJ 8b- 8eee-	.
-!LO:TX:b:i:t=sempre p e dolce	!
 8EE-L [8b-	.
 8DDJ 8b-]	.
 =81	=81
@@ -566,7 +556,6 @@
 4GG 4G 4Bn 4g	.
 [4g 4gg	.
 =89	=89
-!LO:TX:a:i:t=sempre p e dolce	!
 8CCL 8g_ [8b- [8een	.
 8GGJ 8g] 8b-] 8ee]	.
 8AA-L [8f [8a- [8ff	.
@@ -597,7 +586,6 @@
 [8BB-L 8d [8f 8a-	.
 8BB-J_ 8B- 8f_ 8b-	.
 =95	=95
-!LO:TX:b:i:t=cresc.	!
 8BB-L] [8A- 8f_ [8b-	.
 8DJ 8A-] 8f] 8b-]	.
 8E-L [8G [8B- [8g	.
@@ -608,7 +596,6 @@
 8DL [8B- [8f [8b-	.
 8BB-J 8B-_ 8f] 8b-]	.
 =97	=97
-!LO:TX:b:i:t=sotto voce	!
 8EE-L 8B-] [8g	.
 8FFJ 8A- 8f 8g]	.
 8GGL 8G 8e- [8ee-	.
@@ -625,7 +612,6 @@
 8BB-J 8D 8B- 8f 8b-]	.
 =100	=100
 4EE- 4E- 4B- 4e- 4g	.
-!LO:TX:b:i:t=sempre f	!
 [8b-L	.
 8GG'J 8E- 8B- 8b-_	.
 =101	=101
@@ -768,7 +754,6 @@
 =120	=120
 8EE-L 8B- 8e- 8g 8eee-	.
 8e-J	.
-!LO:TX:a:B:t=un poco più vivace	!
 12EE-L	.
 12EE-	.
 12EE-J	.
@@ -854,7 +839,6 @@
 12EE-L [12e- [12b- [12gg	.
 12EE- 12e-_ 12b-_ 12gg_	.
 12EE-J 12e-] 12b-] 12gg]	.
-!LO:TX:b:i:t=sempre pp	!
 12DD-XL [12B- [12g [12gg	.
 [24DD-Xk 24B-_ 24g] 24gg]	.
 24DD-K] 24B-_ [24f [24ff	.
@@ -1037,7 +1021,6 @@
 [24CK 24B-] 24e-] 24g] 24gg_	.
 12CJ] 12B- 12e- 12g 12gg_	.
 =151	=151
-!LO:TX:a:i:t=cresc.	!
 [12BB-L 12B- 12e- 12g 12gg]	.
 24BB-k] [24B- [24e- [24g [24ff	.
 [24CK 24B-] 24e-] 24g] 24ff]	.
@@ -1101,7 +1084,6 @@
 [12BB-L 12B- 12g [12ee-	.
 12BB-_ 12B- 12g 12ee-_	.
 12BB-J] 12B- 12g 12ee-]	.
-!LO:TX:a:i:t=cresc.	!
 [12B-L 12f [12dd	.
 24B-k_ [24f 24dd]	.
 [24A-K 24B-] 24f] [24bb-	.
@@ -1248,8 +1230,6 @@
 [24E-'k [24G 24g] 24ee-]	.
 24E-'K] 24G]	.
 12G'J 12B-	.
-!LO:TX:a:B:t=accel.	!
-!LO:TX:a:i:t=cresc. poco a poco	!
 12E-'L 12G 12g 12b-	.
 12E-' 12G 12g 12b-	.
 12G'J 12B- 12e- 12g	.
@@ -1303,9 +1283,7 @@
 12BB- 12B- 12ff 12ddd	.
 12B-J 12b- 12dd 12ff	.
 =185	=185
-!LO:TX:a:B:t=Allegro	!
 *MM120	*
-!LO:TX:t=[quarter]=120	!
 8E- 8e- 8gg 8eee-	f
 8r	.
 16BB-LL 16B- 16b- 16bb-	.

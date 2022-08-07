@@ -1,6 +1,3 @@
-!!!COM: Music21
-!!!OTL: score.mxl
-!!!OMV: score.mxl
 **kern
 *I"Score
 *clefG2
@@ -8,7 +5,6 @@
 *M4/4
 *met(c)
 =1
-!LO:TX:a:B:t=Andante
 8BBL [8f#
 8C#J 8f#]
 8DL [8b
@@ -44,7 +40,6 @@
 8G#XJ 8c#] 8b]
 8AnL [8f# [8a
 8F#J 8f#_ 8a]
-!!linebreak:original
 =5
 8BL 8f#_ [8g
 8BBJ 8f#] 8g_
@@ -83,7 +78,6 @@
 8F#J 8a] 8b]
 8GL [8g [8ee
 8AJ 8g] 8ee_
-!!linebreak:original
 =9
 8BBL [8f# 8ee_
 8C#J 8f#] 8ee]
@@ -120,7 +114,6 @@
 8BJ 8dd] 8ee]
 8c#L [8cc# [8aa
 8dJ 8cc#] 8aa_
-!!linebreak:original
 =13
 8EL [8b 8aa_
 8F#J 8b] 8aa]
@@ -166,9 +159,7 @@
 8FF#L_ 8cc# 8ee
 8FF#J_ 8b 8dd
 2FF#m] 2a#X 2cc#
-!!pagebreak:original
-=18!|:
-8F#L [8aan
+=188F#L [8aan
 8GnJ 8cc# 8aa_
 8AL 8ff# 8aa_
 8F#J 8ee 8aa_
@@ -203,7 +194,6 @@
 8AAJ 8dd_ 8ff#
 8GG#XL 8dd_ 8gg#X
 8FF#J 8dd_ 8aa
-!!linebreak:original
 =22
 8EE#XL 8dd] [8bb
 8F#J 8cc# 8bb]
@@ -231,7 +221,6 @@
 8G#XJ 8g#] 8b
 8AL 8f# [8cc#
 8F#J 8en 8cc#_
-!!linebreak:original
 =25
 8BL [8d 8cc#_
 8AJ 8d_ 8cc#]
@@ -259,7 +248,6 @@
 8C#J 8f#]
 8D#XL [8ccn
 8EnJ 8cc_
-!!linebreak:original
 =28
 8F#L 8ccn_ [8dd#X
 8AJ 8cc] 8dd#]
@@ -296,7 +284,6 @@
 8DJ 8d] [8b
 8F#L [8c# 8b]
 8FF#J 8c#] 8a
-!!pagebreak:original
 =32
 8GGL [8B 8d
 8BBJ 8B] [8g
@@ -333,7 +320,6 @@
 8F#J 8ee 8gg]
 8G#XL 8dd [8ff#
 8A#XJ 8cc# 8ff#_
-!!linebreak:original
 =36
 8BL [8dd 8ff#]
 8BBJ 8dd] 8aa
@@ -370,7 +356,6 @@
 8F#J 8ee] 8ff#_
 8BL [8dd 8ff#_
 8AnJ 8dd_ 8ff#]
-!!linebreak:original
 =40
 8G#XL 8dd_ [8ee
 8F#J 8dd] 8ee_
@@ -407,7 +392,6 @@
 8BJ [8g 8ee_
 8A#XL 8g] 8ee_
 8AnJ 8f# 8ee_
-!!linebreak:original
 =44
 8G#XL [8b 8ee]
 8GnJ 8b_ [8ee

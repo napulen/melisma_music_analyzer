@@ -1,6 +1,3 @@
-!!!COM: Beethoven
-!!!OTL: op.18 no.1 mvmnt.3
-!!!OMV: op.18 no.1 mvmnt.3
 **kern	**dynam
 *I"Violin I	*
 *I'Vln. I	*
@@ -35,7 +32,6 @@
 2r	.
 =7	=7
 2.GT 2.f 2.bn 2.dd	.
-!!linebreak:original
 =8	=8
 4c 4e 4cc 4ee	.
 2r	.
@@ -58,7 +54,6 @@
 =14	=14
 2F 2c 2a-X	.
 4A-X' 4c 4f 4cc	.
-!!pagebreak:original
 =15	=15
 [4G [4c [4e 4cc	.
 4G~] 4c] 4e] 4b-	.
@@ -80,7 +75,6 @@
 4E-X' 4e-X [4ee-X [4gg-X	.
 4g-X' 4ee-_ 4gg-_	.
 4a-X' 4ee-_ 4gg-_	.
-!!linebreak:original
 =20	=20
 [4B-' 4b- 4ee-X] 4gg-X]	.
 4B-'] 4dd 4ff	.
@@ -111,7 +105,6 @@
 4C' 4c 4ff 4aa-X	.
 4c' 4cc	.
 4bbn' 4ccc	.
-!!linebreak:original
 =27	=27
 4C' 4c 4ee 4gg	.
 4c' 4cc	.
@@ -152,9 +145,7 @@
 4C' 4bb-	.
 4BB-' 4G 4c 4e	.
 4GG' 4G 4c 4e	.
-!!pagebreak:original
 =37	=37
-!LO:TX:b:Bi:t=Cresc.	!
 4FF' [4A [4c [4f	.
 4AA' 4A] 4c] 4f_	.
 4BBn' 4A-X [4d 4f_	.
@@ -176,7 +167,6 @@
 4AA 4d] [4e [4a	.
 4C 4c 4e] 4a]	.
 4E [4e 4g#X 4bn	p
-!!linebreak:original
 =42	=42
 4A' 4e] 4a 4cc	.
 2r	.
@@ -211,7 +201,6 @@
 4FF 4F 4A 4f	.
 4cc'	.
 4cc'	.
-!!linebreak:original
 =53	=53
 [4GGT [4G	.
 2GGT] 2G] 2B- 2e	.
@@ -250,13 +239,11 @@
 4B- 4d 4g 4dd	sf
 4BB- 4d	.
 4BB- 4d	.
-!!pagebreak:original
 =63	=63
 4e 4ee	.
 4C 4B-	.
 4C 4B-	.
 =64	=64
-!LO:TX:b:Bi:t=Cresc.	!
 4F' 4A [4a [4ff	.
 4A' 4c 4a] 4ff_	.
 4Bn' 4d 4a-X 4ff_	.
@@ -278,7 +265,6 @@
 4A 4e 4cc [4aa	.
 4g 4a 4cc#X 4aa_	.
 4f 4bn 4dd 4aa_	.
-!!linebreak:original
 =69	=69
 4e 4cc#X 4ee 4aa_	.
 4d 4dd 4ff 4aa_	.
@@ -299,7 +285,6 @@
 4c' 4cc 4ee 4gg	.
 4EE 4E 4bb- 4ddd	.
 4FF 4F 4aa 4ccc	.
-!!linebreak:original
 =74	=74
 4GG 4G 4gg 4bb-	.
 4AA 4A 4ff 4aa	.
@@ -328,7 +313,6 @@
 4F' 4An 4f 4ff	.
 4a' 4aa	.
 [4FF' [4A-X 4bn 4bbn	sf
-!!pagebreak:original
 =81	=81
 4FF'] 4A-X] [4cc [4ccc	.
 4EE' 4G 4cc_ 4ccc_	.
@@ -360,7 +344,6 @@
 4C' 4c 4bn 4cc	.
 4CC' 4C 4c	.
 4C' 4c 4cc	.
-!!linebreak:original
 =89	=89
 4CC' 4C 4c	.
 4C' 4c 4cc	.
@@ -393,7 +376,6 @@
 8DD-J_ 8A-] 8d-] 8f] 8g-X	.
 8DD-L_ [8A-X [8c 8f [8g-	.
 8DD-'J] 8A-] 8c] 8e-X 8g-]	.
-!!linebreak:original
 =94	=94
 [8DD-XL [8A-X [8d-X [8f	.
 8DD-J_ 8A-_ 8d-_ 8e-X 8f_	.
@@ -429,7 +411,6 @@
 8D-'J] 8d-] 8f	.
 [8D-XL [8d-X 8e	.
 8D-'J] 8d-] 8f	.
-!!pagebreak:original
 =99	=99
 [8D-XL [8d-X	.
 8D-J] 8d-] 8f	.
@@ -471,7 +452,6 @@
 4B-' 4f_ 4a-X_ 4dd_	.
 4f_ 4a-_ 4dd_	.
 4BB-' 4f_ 4a-_ 4dd_	.
-!!linebreak:original
 =108	=108
 4B-' 4f_ 4a-X_ 4dd_	.
 4BB-' 4f_ 4a-_ 4dd_	.
@@ -512,13 +492,11 @@
 4CC' 4C	.
 4C' 4c	.
 4CC' 4C	.
-!!linebreak:original
 =118	=118
 4C' 4c 4b- 4bn 4cc	p
 4r	.
 4CC' 4C 4c	.
 =119	=119
-!LO:TX:b:Bi:t=Cresc.	!
 4C' 4c 4b- 4bn 4cc	.
 4r	.
 4CC' 4C 4c	.
@@ -551,7 +529,6 @@
 8DDJ_ 8D_ 8G_ 8B-_ 8b-	.
 8DDL_ 8D_ 8G_ 8B-_ 8a	.
 8DDJ_ 8D_ 8G] 8B-_ 8g	.
-!!pagebreak:original
 =125	=125
 8DDL_ 8D_ [8G 8B-_ 8f#X	.
 8DDJ_ 8D_ 8G_ 8B-_ 8g	.
@@ -594,7 +571,6 @@
 8GGJ_ 8D_ 8B_ 8bn	.
 8GGL_ 8D_ 8B_ 8ff	.
 8GGJ] 8D] 8B] 8dd	.
-!!linebreak:original
 =131	=131
 [8GGL [8D [8Bn 8bbn	fp
 8GGJ_ 8D_ 8B_ 8ff	.
@@ -637,7 +613,6 @@
 8GGJ_ 8D_ 8B_ 8dd	.
 8GGL_ 8D_ 8B_ 8ff	.
 8GGJ_ 8D_ 8B_ 8dd	.
-!!linebreak:original
 =137	=137
 8GGL_ 8D_ 8Bn_ 8cc	.
 8GGJ_ 8D_ 8B_ 8bn	.
@@ -680,7 +655,6 @@
 8CCJ] 8C_ 8G_ 8e_ 8cc	.
 8CL_ 8G_ 8e_ 8gg	.
 8CJ] 8G] 8e] 8ee	.
-!!pagebreak:original
 =143	=143
 [8CCL [8C [8G [8e 8bb-	fp
 8CCJ_ 8C_ 8G_ 8e_ 8aa	.
@@ -700,7 +674,6 @@
 8bnJ	.
 8ddL	.
 8ccJ	.
-!LO:TX:a:t=V7	!
 8b-XL	.
 8gJ	.
 ==	==

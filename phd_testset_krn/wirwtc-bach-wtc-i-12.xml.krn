@@ -1,6 +1,3 @@
-!!!COM: Music21
-!!!OTL: score.mxl
-!!!OMV: score.mxl
 **kern
 *I"Score
 *clefG2
@@ -42,7 +39,6 @@
 16GL_ 16en 16b-]
 32GL_ [32g 32a-
 32GJJJ] 32g] 32b-
-!!linebreak:original
 =3
 [16A-LL [16cc
 16A-J_ 16a- 16cc_
@@ -79,7 +75,6 @@
 16GG-L_ 16E-X 16d-_ 16b-]
 32GG-L_ [32G-X 32d-_ 32an
 32GG-JJJ] 32G-] 32d-] 32b-
-!!linebreak:original
 =5
 [16AA-LL [16AAn [16cc
 16AA-J] 16AA_ 16f 16cc_
@@ -131,7 +126,6 @@
 16FJ_ 16e- 16g
 16FL_ 16d- 16a-
 16FJJ] 16f 16dd-
-!!linebreak:original
 =8
 [16GmLL [16b-
 16GJ_ 16f 16b-_
@@ -184,7 +178,6 @@
 16A-L_ 16f 16cc]
 32A-L_ [32a- 32bn
 32A-JJJ] 32a-] 32cc
-!!pagebreak:original
 =11
 [16BnLL [16ddn
 16BJ_ 16dd_ 16gg
@@ -219,7 +212,6 @@
 16CJ_ 16F 16c_ 16cc_
 16CL_ 16En 16c_ 16cc_
 16CJJ] 16G 16c] 16cc]
-!!linebreak:original
 =13
 [16AAnLL [16f
 16AAJ_ 16f_ 16an
@@ -254,7 +246,6 @@
 16CJ_ 16G_ 16e_ 16dd-X
 16CL] 16G_ 16e_ 16cc
 16D-XJJ 16G] 16e] 16b-
-!!linebreak:original
 =15
 [16E-LL [16F 16an
 16E-J] 16F] 16f
@@ -289,7 +280,6 @@
 16D-J_ 16B-_ 16g_ 16ff
 16D-L_ 16B-_ 16g_ 16een
 16D-JJ] 16B-] 16g] 16gg
-!!linebreak:original
 =17
 [16CLL [16c [16a-
 16CJ_ 16c_ 16a-_ 16cc
@@ -341,7 +331,6 @@
 16CJ_ 16F_ 16A-_ 16aa-
 16CL_ 16F_ 16A-_ 16gg
 16CJJ_ 16F] 16A-] 16ff
-!!linebreak:original
 =20
 16CLL_ [16G [16B- 16een
 16CJ_ 16G_ 16B-_ 16ff

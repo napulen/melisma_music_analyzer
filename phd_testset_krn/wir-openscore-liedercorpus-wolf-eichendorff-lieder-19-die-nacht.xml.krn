@@ -1,6 +1,3 @@
-!!!COM: Hugo Wolf
-!!!OTL: Eichendorff-Lieder
-!!!OMV: Die Nacht
 **kern	**dynam
 *I"Voice	*
 *clefG2	*
@@ -8,7 +5,6 @@
 *M4/4	*
 *met(c)	*
 =1	=1
-!LO:TX:a:B:t=Sehr langsam	!
 [16aLL	.
 16g#J 16a_	.
 16f#L 16a_	.
@@ -78,7 +74,6 @@
 16E#XL [16c#	.
 16C#JJ 16c#]	.
 =5	=5
-!	!LO:DY:a
 [16aLL	pp
 16g#J 16a_	.
 16f#L 16a_	.
@@ -216,7 +211,6 @@
 16g-JJ] 16aa-X	.
 =13	=13
 16DD-XLL	.
-!	!LO:DY:a
 16AA-XJ [16fn	pp
 16D-XL 16f]	.
 16A-XJJ 16f	.
@@ -224,19 +218,16 @@
 16E-XJ 16a-]	.
 16A-XL [16e-X	.
 16cnJJ 16e-]	.
-!LO:TX:a:i:t=poco rit.	!
 16AAnLL	.
 16EnJ [16en	.
 16GnL 16e]	.
 *MM62	*
-!LO:TX:t=[quarter]=62	!
 16c#XJJ 16e	.
 16GG#XLL [16g#X	.
 16D#XJ 16g#]	.
 16F#XL [16d#X	.
 16B#X;JJ 16d#]	.
 =14	=14
-!LO:TX:a:i:t=a tempo	!
 16c#LL	.
 16dnJ [16g#	.
 16BnL 16g#]	.
@@ -370,4 +361,3 @@
 4FFF#; 4FF#] 4C#] 4F#] 4A] 4c#]	.
 ==	==
 *-	*-
-!!!YEM: OpenScore (CC0)

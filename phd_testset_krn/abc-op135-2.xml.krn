@@ -1,16 +1,11 @@
-!!!COM: Music21
-!!!OTL: op135_no16_mov2.mxl
-!!!OMV: op135_no16_mov2.mxl
 **kern
 *I"1st Violin
 *clefG2
 *k[b-]
 *F:
 *M3/4
-!LO:TX:a:B:t=Vivace
 [4c
 =1
-!LO:TX:a:Bi:t=p
 4FF' [4F 4c_
 4F_ 4c] [4a
 4AA' 4F] [4c 4a_
@@ -43,7 +38,6 @@
 4d' 4a 4ff
 4c' 4ee 4gg [4ccc
 =9
-!LO:TX:a:Bi:t=pp
 4f' 4a 4ff 4ccc_
 4F' [4aa 4ccc]
 4A [4f 4aa_ [4ccc
@@ -74,14 +68,12 @@
 =16
 4F' 4ff 4fff
 2EE-X^ 2E-X 2e-X
-=17!|:
-4r
+=174r
 2EE-X 2E-X
 =18
 2EE-X 2E-X
 4EE-X 4E-
 =19
-!LO:TX:a:i:t=dim.
 4r
 2EE-X 2E-X 2e-X
 =20
@@ -98,11 +90,9 @@
 2EEn 2En 2en
 =24
 4r
-!LO:TX:b:i:t=cresc.
 [2CC 2E 2e
 =25
 4CC_ 4F
-!LO:TX:b:i:t=cresc.
 4CC] [4C [4a
 [4CC 4C_ 4A [4f 4a_
 =26
@@ -134,7 +124,6 @@
 4FF' 4F
 [4GG [4G
 =33
-!LO:TX:a:Bi:t=f
 4GG'] 4G] 4f 4ff
 [4AA [4A
 4AA'_ 4A_ 4a 4aa
@@ -155,7 +144,6 @@
 [4AA [4A
 4AA_ 4A_ 4a 4aa
 =38
-!LO:TX:a:i:t=dim.
 4AA] 4A] 4b- 4bb-
 [4GG [4G
 4GG_ 4G_ 4cc 4ccc
@@ -164,7 +152,6 @@
 4FF' 4F
 4GG' 4G 4e 4cc 4ccc
 =40
-!LO:TX:a:Bi:t=pp
 4FF' 4F 4a 4cc 4ccc
 4A' 4cc 4ccc
 4F' 4a 4eee-X
@@ -229,7 +216,6 @@
 4G' 4c 4e 4bb-
 4A' 4f 4cc 4aa
 =56
-!LO:TX:b:i:t=cresc.
 4B- 4d 4cc 4aa
 4BB- 4D 4g 4dd 4bb-
 4C' 4E 4e 4gg
@@ -242,7 +228,6 @@
 4CC 4A 4f 4ff
 4CC' 4G 4e 4gg
 =59
-!LO:TX:a:i:t=dim.
 4CC' 4G 4b- 4ee
 4DD' 4F 4B- 4ff
 4EE' 4E 4b- 4gg
@@ -255,14 +240,10 @@
 4DD 4F 4b- 4ff
 4EE' 4E 4b- 4gg
 =62
-!LO:TX:a:Bi:t=p
-!LO:TX:b:i:t=sempre
 4FF' 4A 4a 4cc
 4GG' 4B- 4g 4cc
 4AA' 4c 4f 4cc
 =63
-!LO:TX:a:Bi:t=p
-!LO:TX:b:i:t=piu
 4CC 4G 4B- 4ee
 4DD 4F 4b- 4ff
 4EE' 4E 4b- 4gg
@@ -271,24 +252,19 @@
 4GG' 4B- 4g 4cc
 4AA' 4c 4f 4cc
 =65
-!LO:TX:a:Bi:t=pp
-!LO:TX:b:i:t=dim.
 4CC 4G 4B- 4ee
 4DD 4F 4b- 4ff
 4EE' 4E 4b- 4gg
 =66
-!LO:TX:a:Bi:t=f
 4FF 4F 4a 4cc
 2EE-X^ 2E-X 2e-X
 =67
-!LO:TX:a:Bi:t=f
 4FF 4F 4a 4cc
 8fL
 8eJ
 8fL
 8gJ
 =68
-!LO:TX:a:Bi:t=fp
 4FF 4F 4c 4a
 8FFL 8F [8f [8a [8cc
 8EEJ 8E 8f] 8a] 8cc]
@@ -307,7 +283,6 @@
 4A' 4f 4a 4cc
 4B-' 4f 4a 4b- 4cc
 =72
-!LO:TX:b:Bi:t=f
 4c' 4f 4a 4cc
 4c' 4f 4a 4dd
 4c' 4f 4a 4ee
@@ -324,7 +299,6 @@
 4c' 4e 4g 4b-
 4c' 4e 4g 4ccc
 =76
-!LO:TX:a:Bi:t=fp
 4F' 4f 4a 4cc 4aa
 [8cL 8f [8a [8cc [8ff
 8cJ] 8e 8a] 8cc] 8ff]
@@ -365,7 +339,6 @@
 8DDL 8D
 8EEJ 8E
 =85
-!LO:TX:a:i:t=cresc.
 4FF 4F
 8eL 8ee
 8dJ 8dd
@@ -396,7 +369,6 @@
 8gL 8gg
 8aJ 8aa
 =90
-!LO:TX:a:Bi:t=p
 4d 4f 4b- 4bb-
 4r
 4d 4cc 4ff 4aa
@@ -410,14 +382,12 @@
 8FFL_ 8a 8aa
 8FFJ_ 8bn 8bbn
 =93
-!LO:TX:a:i:t=cresc.
 4FF_ 4cc 4ccc
 8FFL_ 8gn 8ggn
 8FFJ_ 8f 8ff
 8FFL_ 8g 8gg
 8FFJ] 8a 8aa
 =94
-!LO:TX:a:Bi:t=p
 4DD 4f 4b- 4bb-
 4r
 4d 4f 4ff 4aa
@@ -494,7 +464,6 @@
 4fn 4g 4b 4dd 4bb 4aaa
 4fn 4g 4b 4dd 4bb 4bbb
 =112
-!LO:TX:a:i:t=dim.
 4e 4g#X 4b 4dd 4bb 4bbb
 4e 4g#X 4b 4ee 4bb
 4e 4g#X 4b 4dd#X 4ee 4bb
@@ -511,7 +480,6 @@
 4e 4a 4ee 4ccc
 4e 4g#X 4b 4ee 4bb
 =116
-!LO:TX:b:Bi:t=pp
 4e 4g#X 4b 4ee 4bb
 4e 4g#X 4b 4ee 4bb
 4e 4g#X 4b 4cc 4ee 4bb
@@ -534,7 +502,6 @@
 8EL 8G#X [8ee [8gg#X [8bb
 8F#J 8A 8ee] 8gg#] 8bb]
 =121
-!LO:TX:a:i:t=cresc.
 4G#X 4B 4ee 4gg#X 4bb
 8c#XL [8ee [8gg#X [8bb
 8BJ 8ee] 8gg#] 8bb]
@@ -555,7 +522,6 @@
 =124||
 *k[f#c#g#]
 *A:
-!LO:TX:a:Bi:t=fp
 4A' 4e 4a 4cc# 4ccc#
 8AL [8e [8a [8cc# [8ccc#
 8G#J 8e] 8a] 8cc#] 8ccc#]
@@ -594,21 +560,18 @@
 [8eL 8g# 8b [8eee
 8eJ] 8a 8cc# 8eee]
 =132
-!LO:TX:a:Bi:t=fp
 4A' 4a 4cc# 4ccc#
 8AAL [8cc# [8ee [8aa [8eee
 8GG#J 8cc#] 8ee] 8aa] 8eee]
 8AAL [8cc# [8ee [8aa [8eee
 8BBJ 8cc#] 8ee] 8aa] 8eee]
 =133
-!LO:TX:a:i:t=sempre
 4C#' 4cc# 4ee 4aa 4eee
 8DL [8cc# [8ee [8aa [8eee
 8C#J 8cc#] 8ee] 8aa] 8eee]
 8DL [8cc# [8ee [8aa [8eee
 8EJ 8cc#] 8ee] 8aa] 8eee]
 =134
-!LO:TX:a:Bi:t=p
 4F#' 4cc# 4ee 4aa 4eee
 8G#L 8g# [8ee [8eee
 8F#J 8f# 8ee] 8eee]
@@ -635,7 +598,6 @@
 4e 4g# 4b 4dd 4ee 4bb
 4e 4g# 4b 4dd 4bb 4eee
 =140
-!LO:TX:a:i:t=cresc.
 4e' 4g# 4b 4dd 4bb 4ddd
 8GG#L [8g# [8dd [8ee [8bb 8ddd
 8FF#J 8g#] 8dd] 8ee] 8bb] 8eee
@@ -660,28 +622,24 @@
 8FF#L 8F# 8f# 8ddd
 8GG#J 8G# 8g# 8bb
 =144
-!LO:TX:a:Bi:t=ff
 4AA' 4A 4a 4aa
 8FF#L 8F# 8f# [8a
 8EE'J 8E 8e 8a]
 8FF#L 8F# 8f# [8ccc#
 8GG#'J 8G# 8g# 8ccc#]
 =145
-!LO:TX:a:Bi:t=sf
 4AA' 4A 4a
 8FF#L 8F# 8f# [8eee
 8EEJ 8E 8e 8eee]
 8FF#L 8F# 8f# [8a
 8GG#J 8G# 8g# 8a]
 =146
-!LO:TX:a:Bi:t=sf
 4AA 4A 4a 4eee
 8FF#L 8F# 8f# [8a
 8EEJ 8E 8e 8a]
 8FF#L 8F# 8f# [8aaa
 8GG#J 8G# 8g# 8aaa]
 =147
-!LO:TX:a:Bi:t=sf
 4AA 4A 4a [4eee
 8FF#L 8F# 8f# 8eee_
 8EEJ 8E 8e 8eee_
@@ -694,7 +652,6 @@
 8FF#L 8F# 8f# [8ddd
 8GG#'J 8G# 8g# 8ddd]
 =149
-!LO:TX:a:Bi:t=sf
 4AA' 4A 4a 4ccc#
 8FF#L 8F# 8f# [8a
 8EE'J 8E 8e 8a]
@@ -731,7 +688,6 @@
 8FF#L 8F# 8f# [8aaa
 8GG#J 8G# 8g# 8aaa]
 =155
-!LO:TX:a:Bi:t=sf
 4AA 4A 4a [4eee
 8FF#L 8F# 8f# 8eee_
 8EEJ 8E 8e 8eee_
@@ -864,7 +820,6 @@
 8FF#L 8F# 8f# 8a]
 8GG#J 8G# 8g# 8eee
 =176
-!LO:TX:a:i:t=dim.
 4AA' 4A 4a 4ddd
 8FF#L 8F# 8f# [8b
 8EE'J 8E 8e 8b]
@@ -890,22 +845,18 @@
 8FF#L 8F# 8f# 8a]
 8GG#J 8G# 8g# 8eee
 =180
-!LO:TX:a:Bi:t=p
 4AA' 4A 4a 4ddd
 8FF#L 8F# 8f# [8b
 8EE'J 8E 8e 8b]
 8FF#L 8F# 8f# [8eee
 8GG#'J 8G# 8g# 8eee]
 =181
-!LO:TX:a:i:t=sempre
 4AA 4A 4a 4ccc#
 8FF#L 8F# 8f# [8a
 8EEJ 8E 8e 8a]
 8FF#L 8F# 8f# [8eee
 8GG#J 8G# 8g# 8eee]
 =182
-!LO:TX:a:Bi:t=p
-!LO:TX:b:i:t=piu
 4AA 4A 4a 4ccc#
 8FF#L 8F# 8f# [8a
 8EEJ 8E 8e 8a]
@@ -940,7 +891,6 @@
 [16.GG#L [16.G# [16.g# 16.eee]
 32GG#JJk] 32G#] 32g#] 32eee
 =187
-!LO:TX:a:Bi:t=pp
 4AA 4A 4a 4aaa
 8FF#L 8F# 8f# [8a
 8EEJ 8E 8e 8a_
@@ -1040,7 +990,6 @@
 4DD' 4F 4A 4f
 4CC' 4E 4e 4g
 =209
-!LO:TX:b:Bi:t=pp
 4FF' 4F 4A 4f
 4d' 4a 4ff
 4c' 4ee 4gg [4ccc
@@ -1075,14 +1024,12 @@
 =217
 4F' 4ff 4fff
 2EE-X^ 2E-X 2e-X
-=218!|:
-4r
+=2184r
 2EE-X 2E-X
 =219
 2EE-X 2E-X
 4EE-X 4E-
 =220
-!LO:TX:a:i:t=dim.
 4r
 2EE-X 2E-X 2e-X
 =221
@@ -1092,19 +1039,15 @@
 4r
 2EE-X 2E-X 2e-X
 =223
-!LO:TX:a:Bi:t=p
 4r
 2EE-X 2E-X 2e-X
 =224
-!LO:TX:b:Bi:t=pp
 4r
 2EEn 2En 2en
 =225
-!LO:TX:a:i:t=cresc.
 4r
 [2CC 2E 2e
 =226
-!LO:TX:a:i:t=cresc.
 4CC_ 4F
 4CC] [4C [4a
 [4CC 4C_ 4A [4f 4a_
@@ -1125,7 +1068,6 @@
 4CC] [4C 4A [4a
 [4CC 4C_ 4A [4f 4a_
 =231
-!LO:TX:b:i:t=cresc.
 4CC_ 4C] 4Bn 4f] 4a]
 4CC] [4C 4f [4g
 [4CC 4C_ 4c 4e 4g_
@@ -1138,7 +1080,6 @@
 4FF' 4F
 [4GG [4G
 =234
-!LO:TX:a:Bi:t=f
 4GG'] 4G] 4f 4ff
 [4AA [4A
 4AA'_ 4A_ 4a 4aa
@@ -1159,7 +1100,6 @@
 [4AA [4A
 4AA_ 4A_ 4a 4aa
 =239
-!LO:TX:a:i:t=dim.
 4AA] 4A] 4b- 4bb-
 [4GG [4G
 4GG_ 4G_ 4cc 4ccc
@@ -1168,7 +1108,6 @@
 4FF' 4F
 4GG' 4G 4e 4cc 4ccc
 =241
-!LO:TX:a:Bi:t=pp
 4FF' 4F 4a 4cc 4ccc
 4A' 4cc 4ccc
 4F' 4a 4eee-X
@@ -1233,7 +1172,6 @@
 4G' 4c 4e 4bb-
 4A' 4f 4cc 4aa
 =257
-!LO:TX:a:i:t=cresc.
 4B- 4d 4cc 4aa
 4BB- 4D 4g 4dd 4bb-
 4C' 4E 4e 4gg
@@ -1246,7 +1184,6 @@
 4CC' 4A 4f 4ff
 4CC' 4G 4e 4gg
 =260
-!LO:TX:a:i:t=dim.
 4CC' 4G 4b- 4ee
 4DD' 4F 4B- 4ff
 4EE' 4E 4b- 4gg
@@ -1263,17 +1200,14 @@
 4GG' 4B- 4g 4cc
 4AA' 4c 4f 4cc
 =264
-!LO:TX:a:i:t=piu
 4CC 4G 4B- 4ee
 4DD 4F 4b- 4ff
 4EE' 4E 4b- 4gg
 =265
-!LO:TX:a:Bi:t=p
 4FF' 4A 4a 4cc
 4GG' 4B- 4g 4cc
 4AA' 4c 4f 4cc
 =266
-!LO:TX:a:Bi:t=pp
 4CC 4G 4B- 4ee
 4DD 4F 4b- 4ff
 4EE' 4E 4b- 4gg
@@ -1281,7 +1215,6 @@
 4FF 4F 4a 4cc
 2EE-X^ 2E-X 2e-X
 =268
-!LO:TX:a:Bi:t=p
 4FF 4F 4a 4cc
 [4FF^ [4AA [4C [4A [4c
 4FF] 4AA] 4C] 4A] 4c]
@@ -1292,22 +1225,16 @@
 2FF 2AA 2C 2A 2c
 4FF 4AA 4C 4A 4c
 =271
-!LO:TX:a:Bi:t=p
 4r
 2f 2a 2cc 2aa 2ccc
 =272
-!LO:TX:a:i:t=piu
 2f 2a 2cc 2aa 2ccc
 4f 4a 4cc 4aa 4ccc
 =273
-!LO:TX:a:Bi:t=pp
-!LO:TX:a:Bi:t=p
 4r
 2f 2a 2cc 2aa 2ccc
 =274
-!LO:TX:a:Bi:t=f
 4f 4a 4cc 4aa 4ccc
 2r
 ==
 *-
-!!!YEM: <font size="10"/><i>dim.</i>

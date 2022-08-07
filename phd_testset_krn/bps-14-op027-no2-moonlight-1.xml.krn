@@ -1,15 +1,9 @@
-!!!COM: Music21
-!!!OTL: bps_14_01.mxl
-!!!OMV: bps_14_01.mxl
 **kern	**dynam
 *clefG2	*
 *k[f#c#g#d#]	*
 *M4/4	*
 *met(c)	*
 =1	=1
-!LO:TX:b:i:t=sempre pianissimo e senza sordini	!
-!LO:TX:a:t=Si deve suonare tutto questo pezzo delicatissimamente e senza sordini	!
-!LO:TX:a:B:t=Adagio sostenuto	!
 [12CC#L [12C# 12G#	pp
 12CC#_ 12C#_ 12c#	.
 12CC#J_ 12C#_ 12e	.
@@ -71,7 +65,6 @@
 12CC#L_ 12GG#_ 12C#_ 12G#	.
 12CC#_ 12GG#_ 12C#_ 12c#	.
 12CC#J_ 12GG#_ 12C#_ 12e	.
-!	!LO:DY:a
 12CC#L_ 12GG#_ 12C#_ 12G# [12g#	pp
 12CC#_ 12GG#_ 12C#_ 12c# 12g#_	.
 48CC#KL_ 48GG#_ 48C#_ [48e 48g#]	.
@@ -329,7 +322,6 @@
 48EE#KL_ 48C#_ 48E#_ [48b 48cc#]	.
 16EE#JJ] 16C#] 16E#] 16b] 16cc#	.
 =25	=25
-!LO:TX:b:i:t=cresc.	!
 [12FF#L [12F# 12c# [12cc#	.
 12FF#_ 12F#_ 12f# 12cc#_	.
 12FF#J_ 12F#_ 12a 12cc#_	.
@@ -356,7 +348,6 @@
 12BBB#_ 12GG#_ 12BB#_ 12f# 12dd#_	.
 12BBB#J] 12GG#] 12BB#] 12g# 12dd#]	.
 =27	=27
-!LO:TX:b:i:t=dim.	!
 [12CC#L [12GG# [12C# 12e [12ee	mp
 12CC#_ 12GG#_ 12C#_ 12g# 12ee_	.
 12CC#J_ 12GG#_ 12C#_ 12cc# 12ee_	.
@@ -526,7 +517,6 @@
 12GGG#_ 12GG#_ 12C#_ 12F#	.
 12GGG#J] 12GG#] 12C#] 12A	.
 =40	=40
-!LO:TX:b:i:t=dim.	!
 [12GGG#L [12GG# [12BB#X	.
 12GGG#_ 12GG#_ 12BB#_ 12F#	.
 12GGG#J_ 12GG#_ 12BB#_ 12G#	.
@@ -562,7 +552,6 @@
 12CC#L_ 12GG#_ 12C#_ 12G#	.
 12CC#_ 12GG#_ 12C#_ 12c#	.
 12CC#J_ 12GG#_ 12C#_ 12e	.
-!	!LO:DY:a
 12CC#L_ 12GG#_ 12C#_ 12G# [12g#	pp
 12CC#_ 12GG#_ 12C#_ 12c# 12g#_	.
 48CC#KL_ 48GG#_ 48C#_ [48e 48g#]	.
@@ -636,7 +625,6 @@
 48DD#KL_ 48D#_ [48a 48b]	.
 16DD#JJ] 16D#] 16a] 16b	.
 =48	=48
-!LO:TX:b:i:t=cresc.	!
 [12EEL [12E 12B [12b	.
 12EE_ 12E_ 12e 12b_	.
 12EEJ_ 12E_ 12g# 12b_	.
@@ -767,7 +755,6 @@
 12CC#_ 12C#_ 12c# 12g#_	.
 12CC#J] 12C#] 12e 12g#]	.
 =58	=58
-!LO:TX:b:i:t=cresc.	!
 [12AAAL [12AA 12F# [12f#	.
 12AAA_ 12AA_ 12c# 12f#_	.
 12AAAJ_ 12AA_ 12d# 12f#_	.
@@ -878,7 +865,6 @@
 48GGG#KL_ 48GG#] [48F# 48B#_	.
 16GGG#JJ] 16GG# 16F#] 16B#]	.
 =66	=66
-!LO:TX:b:i:t=dim.	!
 [12CC#L [12GG# 12E 12c#	.
 12CC#_ 12GG#_ 12G#	.
 12CC#J_ 12GG#_ 12c#	.

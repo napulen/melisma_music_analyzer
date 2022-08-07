@@ -1,6 +1,3 @@
-!!!COM: L van Beethoven
-!!!OTL: String Quartet
-!!!OMV: op74_no10_mov3.mxl
 **kern	**dynam
 *I"Violin I	*
 *I'Vln. I	*
@@ -8,11 +5,8 @@
 *k[b-e-a-]	*
 *c:	*
 *M3/4	*
-!LO:TX:a:B:t=Presto	!
 *MM160	*
-!LO:TX:t=[quarter]=160	!
 8cc	f
-!LO:TX:a:i:t=legieramente	!
 8ccL	.
 8ccJ	.
 =1	=1
@@ -314,7 +308,6 @@
 [8GGL 8g [8ff#X	.
 8GGJ] 8g 8ff#]	.
 =49	=49
-!LO:TX:a:i:t=cresc.	!
 4GG [4g [4gg	.
 4G 4g_ 4gg_	.
 4GG 4g_ 4gg_	.
@@ -364,7 +357,6 @@
 [8CL 8c [8bn [8bbn	.
 8CJ] 8c 8b] 8bb]	.
 =57	=57
-!LO:TX:a:i:t=dim.	!
 8cL 8e- [8cc [8ccc	.
 8cJ 8e- 8cc_ 8ccc_	.
 [8e-L [8g 8cc] 8ccc]	.
@@ -400,7 +392,6 @@
 8E-L_ 8G_ 8c 8cc	.
 8E-J] 8G] 8c 8b-	.
 =62	=62
-!LO:TX:a:i:t=piu p	!
 8FL 8A- [8c [8a-	.
 8FJ 8A- 8c] 8a-_	.
 [8DL [8F 8B- 8a-]	.
@@ -478,7 +469,6 @@
 8DDL	.
 8DDJ	.
 =73	=73
-!LO:TX:a:i:t=sempre pp	!
 8CCL [8G [8e- [8cc	.
 8GGJ 8G] 8e-] 8cc]	.
 8GGL	.
@@ -510,7 +500,6 @@
 *k[]	*
 *C:	*
 4CC 4C 4G 4c 4en 4cc	.
-!LO:TX:a:B:t=Piu presto quasi prestissimo	!
 2r	.
 =78	=78
 4c	.
@@ -655,7 +644,6 @@
 4GG 4D 4B 4d 4b 4ggg	.
 2r	.
 =114	=114
-!LO:TX:a:i:t=sempre ff	!
 [4GG [4G 4gg	.
 4GG_ 4G_ 4aa	.
 4GG_ 4G_ 4bb-X	.
@@ -703,7 +691,6 @@
 4E' 4e 4g 4cc#X 4aa	.
 2r	.
 =126	=126
-!LO:TX:a:i:t=sempre f	!
 [4DD [4D 4ff	.
 4DD_ 4D_ 4gg	.
 4DD_ 4D_ 4aa	.
@@ -875,7 +862,6 @@
 *k[b-e-a-]	*
 *c:	*
 4.dd; 4.ff 4.aa-] 4.bbn	.
-!LO:TX:a:B:t=Tempo primo	!
 8cc	f
 8ccL	.
 8ccJ	.
@@ -1178,7 +1164,6 @@
 [8GGL 8g [8ff#X	.
 8GGJ] 8g 8ff#]	.
 =218	=218
-!LO:TX:a:i:t=cresc.	!
 4GG [4g [4gg	.
 4G 4g_ 4gg_	.
 4GG 4g_ 4gg_	.
@@ -1228,7 +1213,6 @@
 [8CL 8c [8bn [8bbn	.
 8CJ] 8c 8b] 8bb]	.
 =226	=226
-!LO:TX:a:i:t=dim.	!
 8cL 8e- [8cc [8ccc	.
 8cJ 8e- 8cc_ 8ccc_	.
 [8e-L [8g 8cc] 8ccc]	.
@@ -1264,7 +1248,6 @@
 8E-L_ 8G_ 8c 8cc	.
 8E-J] 8G] 8c 8b-	.
 =231	=231
-!LO:TX:a:i:t=piu p	!
 8FL 8A- [8c [8a-	.
 8FJ 8A- 8c] 8a-_	.
 [8DL [8F 8B- 8a-]	.
@@ -1342,7 +1325,6 @@
 8DDL	.
 8DDJ	.
 =242	=242
-!LO:TX:a:i:t=sempre pp	!
 8CCL [8G [8e- [8cc	.
 8GGJ 8G] 8e-] 8cc]	.
 8GGL	.
@@ -1374,7 +1356,6 @@
 *k[]	*
 *C:	*
 4CC 4C 4G 4c 4en 4cc	f
-!LO:TX:a:i:t=Più presto quasi prestissimo	!
 2r	.
 =247	=247
 4c	.
@@ -1519,7 +1500,6 @@
 4GG 4D 4B 4d 4b 4ggg	.
 2r	.
 =283	=283
-!LO:TX:a:i:t=sempre ff	!
 [4GG [4G 4gg	.
 4GG_ 4G_ 4aa	.
 4GG_ 4G_ 4bb-X	.
@@ -1567,7 +1547,6 @@
 4E' 4e 4g 4cc#X 4aa	.
 2r	.
 =295	=295
-!LO:TX:a:i:t=sempre f	!
 [4DD [4D 4ff	.
 4DD_ 4D_ 4gg	.
 4DD_ 4D_ 4aa	.
@@ -1736,7 +1715,6 @@
 *k[b-e-a-]	*
 *c:	*
 4.dd; 4.ff 4.aa-] 4.bbn	.
-!LO:TX:a:B:t=Tempo primo	!
 8cc	.
 8ccL	.
 8ccJ	.
@@ -1847,7 +1825,6 @@
 =353	=353
 4GG	.
 8r	.
-!LO:TX:a:i:t=sempre p	!
 8AA- 8A-	.
 8AA-L 8A-	.
 8AA-J 8A-	.
@@ -1960,7 +1937,6 @@
 8FL 8A- 8dd-X [8ff	.
 8FJ 8A- 8ff]	.
 =372	=372
-!LO:TX:a:i:t=sempre p	!
 [8BB-L 8F 8Gn [8dd-X [8ddd-X	.
 8BB-J] 8G 8dd-_ 8ddd-_	.
 8B-L 8dd-_ 8ddd-_	.
@@ -2106,7 +2082,6 @@
 8EE-L 8c 8an 8aan	.
 8DDJ 8d 8bn 8bbn	.
 =396	=396
-!LO:TX:a:i:t=piu p	!
 4CC 4C [4cc [4ccc	.
 [8e-L 8cc_ 8ccc_	.
 8cJ 8e-] 8cc_ 8ccc_	.
@@ -2146,7 +2121,6 @@
 [8CL 8c [8bn [8bbn	.
 8CJ] 8c 8b] 8bb]	.
 =402	=402
-!LO:TX:a:i:t=sempre piu p	!
 8cL 8e- [8cc [8ccc	.
 8cJ 8e- 8cc_ 8ccc_	.
 [8e-L [8g 8cc] 8ccc]	.
@@ -2287,7 +2261,6 @@
 8GGL 8G 8d 8bn	.
 8GGJ 8G 8d 8b	.
 =422	=422
-!LO:TX:a:i:t=poco cresc.	!
 8CCL [8C [8e- [8cc	.
 8GGJ 8C] 8e-_ 8cc_	.
 8GGL [8A- 8e-_ 8cc_	.
@@ -2302,7 +2275,6 @@
 8AA-L 8A-_ 8e-_ 8cc_	.
 8AA-J 8A-_ 8e-_ 8cc_	.
 =424	=424
-!LO:TX:a:i:t=dim.	!
 8AA-L 8A-_ 8e-_ 8cc_	.
 8AA-J 8A-_ 8e-_ 8cc_	.
 8AA-L 8A-_ 8e-_ 8cc_	.
@@ -2324,7 +2296,6 @@
 8AA-L	.
 8AA-J	.
 =427	=427
-!LO:TX:a:i:t=sempre pp	!
 8GG-XL [8c [8a-	.
 8GG-XJ 8c] 8a-]	.
 8AA-L	.
@@ -2374,7 +2345,6 @@
 8AA-L 8A- 8e- 8cc	.
 8AA-J 8A- 8e- 8cc	.
 =434	=434
-!LO:TX:a:i:t=poco cresc.	!
 8DD-XL [8D-X [8f [8dd-X	.
 8BB-J 8D-] 8f_ 8dd-_	.
 8BB-L [8B- 8f_ 8dd-_	.
@@ -2389,7 +2359,6 @@
 8BB-L 8B-_ 8f_ 8dd-_	.
 8BB-J 8B-_ 8f_ 8dd-]	.
 =436	=436
-!LO:TX:a:i:t=dim.	!
 8BB-L 8B-_ 8f_ [8ddn	.
 8BB-J 8B-_ 8f_ 8dd_	.
 8BB-L 8B-_ 8f_ 8dd_	.
@@ -2418,7 +2387,6 @@
 8AA-L 8g-_ 8ee-_	.
 8AA-J 8g-_ 8ee-_	.
 =440	=440
-!LO:TX:a:i:t=poco cresc.	!
 8GG-XL [8c-X 8g-X_ 8ee-_	.
 8GG-XJ 8c-_ 8g-_ 8ee-_	.
 8AA-L 8c-_ 8g-_ 8ee-_	.
@@ -2447,7 +2415,6 @@
 8AA-L 8g-_ 8ee-_	.
 8AA-J 8g-_ 8ee-_	.
 =444	=444
-!LO:TX:a:i:t=poco cresc.	!
 8GG-XL [8c-X 8g-X_ 8ee-_	.
 8GG-XJ 8c-_ 8g-_ 8ee-_	.
 8AA-L 8c-_ 8g-_ 8ee-_	.

@@ -1,13 +1,9 @@
-!!!COM: Franz Schubert
-!!!OTL: Winterreise, D.911
-!!!OMV: Gefror'ne Tränen
 **kern
 *I"Singstimme Voice
 *clefG2
 *k[b-e-a-d-]
 *M2/2
 *met(c|)
-!LO:TX:a:B:t=Nicht zu langsam
 4C' 4c 4en 4g
 =1
 4F' 4c 4f 4a-
@@ -296,7 +292,6 @@
 [8DD-^L 8d- 8g-X 8b-_
 8DD-J_ 8d- 8f 8b-_
 4DD-] 4d- 4g-X 4b-]
-!LO:TX:a:i:t=stark
 4D-' 4Bn 4f 4a- 4ff
 =48
 4C 4c 4f 4a- 4ff
@@ -343,4 +338,3 @@
 2r
 ==
 *-
-!!!YEM: OpenScore (CC0)

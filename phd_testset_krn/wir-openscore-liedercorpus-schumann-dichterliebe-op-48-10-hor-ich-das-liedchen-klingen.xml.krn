@@ -1,15 +1,10 @@
-!!!COM: Robert Schumann
-!!!OTL: Dichterliebe, Op.48
-!!!OMV: Hör' ich das Liedchen klingen
 **kern	**dynam
 *I"Voice	*
 *clefG2	*
 *k[b-e-]	*
 *M2/4	*
 =1	=1
-!LO:TX:a:B:t=Langsam	!
 *MM30	*
-!LO:TX:t=[quarter]=30	!
 [16GLL	.
 16GJ_ [16bb-	.
 16GL_ 16dd 16bb-_	.
@@ -46,7 +41,6 @@
 16GL_ 16b- 16gg_	.
 16GJJ] 16d 16gg]	.
 =5	=5
-!	!LO:DY:a
 [16GLL [16b-	p
 16GJ_ 16b-]	.
 16GL_ 16d 16b-	.
@@ -276,4 +270,3 @@
 2GG; 2D] 2B-] 2g]	.
 ==	==
 *-	*-
-!!!YEM: OpenScore (CC0)

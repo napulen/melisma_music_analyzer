@@ -1,6 +1,3 @@
-!!!COM: Franz Schubert
-!!!OTL: Die schöne Müllerin (D.795)
-!!!OMV: Pause
 **kern	**dynam
 *I"Singstimme	*
 *clefG2	*
@@ -8,7 +5,6 @@
 *M4/4	*
 *met(c)	*
 =1	=1
-!LO:TX:a:B:t=Ziemlich geschwind.	!
 [4BB- [4F 4B- 4d	.
 8.BB-L_ 8.F_ 8.B- 8.d 8.e-	.
 16BB-Jk_ 16F_ 16A 16c	.
@@ -560,4 +556,3 @@
 4r	.
 ==	==
 *-	*-
-!!!YEM: OpenScore (CC0)

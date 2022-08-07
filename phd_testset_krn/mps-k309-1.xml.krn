@@ -1,13 +1,9 @@
-!!!COM: Wolfgang Amadeus Mozart
-!!!OTL: Piano Sonata no. 7 in C major
-!!!OMV: Allegro con spirito
 **kern	**dynam
 *I"Klavier linke Hand	*
 *clefG2	*
 *k[]	*
 *M4/4	*
 =1	=1
-!LO:TX:a:B:t=Allegro con spirito	!
 [16CLL 16c 16e 16g [16cc	f
 16CJ_ 16cc_	.
 16CL_ 16cc_	.
@@ -55,7 +51,6 @@
 16c#J] 16aa_	.
 [16gL 16aa_	.
 16gJJ] 16aa]	.
-!!linebreak:original
 =4	=4
 [16dLL [16ff 16gg	.
 16dJ] 16ff_	.
@@ -73,7 +68,6 @@
 16BJ] 16gg_	.
 [16gL 16gg_	.
 16gJJ] 16gg]	.
-!!linebreak:original
 =5	=5
 [16cLL [16ee 16ff	.
 16cJ] 16ee_	.
@@ -125,7 +119,6 @@
 16GJ_ 16B_ 16d_ 16ff]	.
 16GL_ 16B_ 16d_ [16dd	.
 16GJJ] 16B] 16d] 16dd]	.
-!!pagebreak:original
 =8	=8
 [16CCLL [16C 16c 16e 16g [16cc	f
 16CCJ_ 16C_ 16cc_	.
@@ -143,7 +136,6 @@
 16GGJ_ 16g_	.
 16GGL_ 16g_	.
 16GGJJ] 16g]	.
-!!linebreak:original
 =9	=9
 [16ELL [16ee	.
 16EJ_ 16ee_	.
@@ -192,7 +184,6 @@
 16BJ] 16aa]	.
 [16gL [16gg	.
 16gJJ] 16gg]	.
-!!linebreak:original
 =12	=12
 [16cLL [16ee 16ff	.
 16cJ] 16ee_	.
@@ -210,7 +201,6 @@
 16eJ] 16gg]	.
 [16gL [16ee	.
 16gJJ] 16ee]	.
-!!linebreak:original
 =13	=13
 [16gLL [16b-X [16cc#X	.
 16gJ_ 16b-_ 16cc#_	.
@@ -258,7 +248,6 @@
 16FJ] 16bb]	.
 [16cL [16aa	.
 16cJJ] 16aa]	.
-!!pagebreak:original
 =16	=16
 [16ELL [16cc [16gg	.
 16EJ] 16cc] 16gg]	.
@@ -276,7 +265,6 @@
 16CJ] 16ff]	.
 [16cL [16ee	.
 16cJJ] 16ee_	.
-!!linebreak:original
 =17	=17
 [16FLL 16ee]	.
 16FJ] 16dd	.
@@ -328,7 +316,6 @@
 16CJ] 16ff]	.
 [16cL [16ee	.
 16cJJ] 16ee_	.
-!!linebreak:original
 =20	=20
 [16FLL 16ee]	.
 16FJ] 16dd	.
@@ -380,7 +367,6 @@
 16cJ] 16e]	.
 [16cL [16e	.
 16cJJ] 16e]	.
-!!linebreak:original
 =23	=23
 [16BLL [16d [16dd [16gg [16ddd	.
 16BJ] 16d] 16dd_ 16gg_ 16ddd_	.
@@ -432,7 +418,6 @@
 16F#`J] 16A] 16d] 16cc]	.
 [16F#XL [16A [16d [16ee#X	.
 16F#`JJ] 16A] 16d] 16ee#]	.
-!!pagebreak:original
 =26	=26
 [16F#XLL [16A [16d [16ff#X	.
 16F#`J] 16A] 16d] 16ff#]	.
@@ -484,7 +469,6 @@
 16DJ] 16ccc_	.
 [16dL 16ccc_	.
 16dJJ] 16ccc]	.
-!!linebreak:original
 =29	=29
 [16GLL [16d 16bb	.
 16GJ_ 16d_ 16aa	.
@@ -536,7 +520,6 @@
 16F#J_ 16f#_	.
 16F#L] 16f#]	.
 16EJJ 16e	.
-!!linebreak:original
 =32	=32
 [16DLL [16d	.
 16DJ] 16d]	.
@@ -585,7 +568,6 @@
 16AJ]	.
 [16dL	.
 16dJJ]	.
-!!linebreak:original
 =35	=35
 [16GLL [16bb	p
 16G`J] 16bb]	.
@@ -603,7 +585,6 @@
 16BJ] 16gg_	.
 [16dL 16gg_	.
 16dJJ] 16gg]	.
-!!pagebreak:original
 =36	=36
 [16cLL [16aa	.
 16c`J] 16aa]	.
@@ -655,7 +636,6 @@
 16cJ]	.
 [16AL	.
 16AJJ]	.
-!!linebreak:original
 =39	=39
 [16GLL [16bb	.
 16G`J] 16bb]	.
@@ -707,7 +687,6 @@
 16F#J]	.
 [16dL	.
 16dJJ]	.
-!!linebreak:original
 =42	=42
 [16GLL 16cc	.
 16GJ] [16b	.
@@ -759,7 +738,6 @@
 16bb`J]	.
 [16aaL	.
 16aa`JJ]	.
-!!linebreak:original
 =45	=45
 [16DLL 16bb	.
 16DJ] 16ccc	.
@@ -794,7 +772,6 @@
 16bbJ	.
 16aaL	.
 16ggJJ	.
-!!pagebreak:original
 =47	=47
 16CLL [16ee [16eee	.
 16GJ 16ee_ 16eee_	.
@@ -846,7 +823,6 @@
 16cJ] 16eee_	.
 [16gL 16eee_	.
 16gJJ] 16eee]	.
-!!linebreak:original
 =50	=50
 [16BLL [16d [16g#X [16ff [16fff	f
 16BJ] 16d] 16g#] 16ff_ 16fff_	.
@@ -898,7 +874,6 @@
 16BJ 16bb	.
 16GL 16aa	.
 16BJJ 16gg	.
-!!linebreak:original
 =53	=53
 16DTLL [16aa	.
 16cTJ 16aa_	.
@@ -950,7 +925,6 @@
 16dJ_	.
 16dL_ [16f#X	.
 16d`JJ] 16f#]	.
-!!linebreak:original
 =56	=56
 [16BLL [16a	.
 16BJ_ 16a]	.
@@ -999,9 +973,7 @@
 16GGL_ 16G_ 16b_ 16dd_ 16gg_	.
 16GGJJ] 16G] 16b] 16dd] 16gg]	.
 4r	.
-!!pagebreak:original
-=59!|:	=59!|:
-[16GGGLL [16GG 16G 16B-X 16d [16g	f
+=59[16GGGLL [16GG 16G 16B-X 16d [16g	f
 16GGGJ_ 16GG_ 16g_	.
 16GGGL_ 16GG_ 16g_	.
 16GGGJJ_ 16GG_ 16g_	.
@@ -1045,7 +1017,6 @@
 16gL_ 16b-_	.
 16gJJ] 16b-]	.
 4r	.
-!!linebreak:original
 =62	=62
 [16ddLL [16bb-X	pp
 16ddJ_ 16bb-_	.
@@ -1060,7 +1031,6 @@
 16b-L_ 16gg_	.
 16b-JJ] 16gg]	.
 4r	.
-!!linebreak:original
 =63	=63
 [16B-XLL [16d	.
 16B-J] 16d]	.
@@ -1113,7 +1083,6 @@
 16B-J] 16d] 16eee_	.
 [16gL 16eee_	.
 16gJJ] 16eee]	.
-!!linebreak:original
 =66	=66
 [16ALL [16e [16ddd	.
 16AJ] 16e] 16ddd_	.
@@ -1164,7 +1133,6 @@
 16DL_ 16d_	.
 16DJJ] 16d]	.
 4r	.
-!!pagebreak:original
 =69	=69
 [16FLL [16A	.
 16FJ_ 16A]	.
@@ -1183,7 +1151,6 @@
 16FJ_ 16A] 16bb_	.
 16FL_ [16d 16bb_	.
 16FJJ] 16d] 16bb]	.
-!!linebreak:original
 =70	=70
 [16ELL [16B [16aa	.
 16EJ_ 16B] 16aa_	.
@@ -1235,7 +1202,6 @@
 16EJ_ 16B]	.
 16EL_ [16d	.
 16EJJ] 16d]	.
-!!linebreak:original
 =73	=73
 16ALL [16cc [16ccc	f
 16eJ 16cc_ 16ccc_	.
@@ -1287,7 +1253,6 @@
 16e-XJ 16g_ 16gg_	.
 16B-XL 16g_ 16gg_	.
 16e-XJJ 16g] 16gg]	.
-!!linebreak:original
 =76	=76
 16GLL [16ccc#X	.
 16eJ 16ccc#_	.
@@ -1339,7 +1304,6 @@
 16AJ	.
 16EL	.
 16AJJ	.
-!!pagebreak:original
 =79	=79
 [16DD#XLL [16D#X	.
 16DD#J_ 16D#_	.
@@ -1393,7 +1357,6 @@
 16EEJ_ 16E_ 16b_ 16dd_ 16ee_ 16gg#_	.
 16EEL_ 16E_ 16b_ 16dd_ 16ee_ 16gg#_	.
 16EEJJ] 16E] 16b] 16dd] 16ee] 16gg#]	.
-!!linebreak:original
 =82	=82
 [16AALL [16A [16cc [16ee [16aa	.
 16AAJ_ 16A_ 16cc_ 16ee_ 16aa_	.
@@ -1445,7 +1408,6 @@
 16GG#J_ 16G#_ 16cc	.
 16GG#L_ 16G#_ 16dd	.
 16GG#JJ] 16G#] 16b	.
-!!linebreak:original
 =85	=85
 [16AALL [16A 16cc	.
 16AAJ_ 16A_ 16dd	.
@@ -1494,7 +1456,6 @@
 16AAL_ 16a_	.
 16AAJJ] 16a]	.
 4r	.
-!!linebreak:original
 =88	=88
 [16ccLL [16ee	p
 16ccJ_ 16ee_	.
@@ -1509,7 +1470,6 @@
 16aL_ 16cc_	.
 16aJJ] 16cc]	.
 4r	.
-!!pagebreak:original
 =89	=89
 [16eeLL [16ccc	pp
 16eeJ_ 16ccc_	.
@@ -1555,7 +1515,6 @@
 16BBL_ 16b_	.
 16BBJJ] 16b]	.
 4r	.
-!!linebreak:original
 =92	=92
 [16ddLL [16ff	p
 16ddJ_ 16ff_	.
@@ -1584,7 +1543,6 @@
 16ddL_ 16bb_	.
 16ddJJ] 16bb]	.
 4r	.
-!!linebreak:original
 =94	=94
 [16CCLL [16C 16c 16e 16g [16cc	f
 16CCJ_ 16C_ 16cc_	.
@@ -1633,7 +1591,6 @@
 16c#J] 16aa_	.
 [16gL 16aa_	.
 16gJJ] 16aa]	.
-!!linebreak:original
 =97	=97
 [16dLL [16ff 16gg	.
 16dJ] 16ff_	.
@@ -1651,7 +1608,6 @@
 16BJ] 16gg_	.
 [16gL 16gg_	.
 16gJJ] 16gg]	.
-!!pagebreak:original
 =98	=98
 [16cLL [16ee 16ff	.
 16cJ] 16ee_	.
@@ -1703,7 +1659,6 @@
 16GJ_ 16B_ 16d_ 16ff]	.
 16GL_ 16B_ 16d_ [16dd	.
 16GJJ] 16B] 16d] 16dd]	.
-!!linebreak:original
 =101	=101
 [16CCLL [16C 16c 16e-X 16g [16cc	f
 16CCJ_ 16C_ 16cc_	.
@@ -1721,7 +1676,6 @@
 16GGJ_ 16g_	.
 16GGL_ 16g_	.
 16GGJJ] 16g]	.
-!!linebreak:original
 =102	=102
 [16E-XLL [16ee-X	.
 16E-J_ 16ee-_	.
@@ -1770,7 +1724,6 @@
 16BJ] 16aa-]	.
 [16gL [16gg	.
 16gJJ] 16gg]	.
-!!linebreak:original
 =105	=105
 [16B-XLL [16d-X [16ff	f
 16B-J] 16d-] 16ff]	.
@@ -1788,7 +1741,6 @@
 16B-J] 16d-] 16ee_	.
 [16gL 16ee_	.
 16gJJ] 16ee]	.
-!!pagebreak:original
 =106	=106
 [16A-XLL [16c [16gg	.
 16A-J] 16c] 16gg_	.
@@ -1840,11 +1792,9 @@
 16ff#J]	.
 [16ggL	.
 16ggJJ]	.
-!!linebreak:original
 =109	=109
 [16ff#XLL	.
 16ff#J]	.
-!LO:TX:b:i:t=cresc.	!
 [16gL [16gg	.
 16gJJ] 16gg]	.
 [16f#XLL [16ff#X	.
@@ -1893,7 +1843,6 @@
 16CJ] 16ff]	.
 [16cL [16ee	.
 16cJJ] 16ee_	.
-!!linebreak:original
 =112	=112
 [16FLL 16ee]	.
 16FJ] 16dd	.
@@ -1911,7 +1860,6 @@
 16GTJ] 16b_	.
 [16dTL 16b_	.
 16dTJJ] 16b]	.
-!!linebreak:original
 =113	=113
 [16ALL [16cc [16ccc	.
 16AJ] 16cc] 16ccc]	.
@@ -1963,7 +1911,6 @@
 16GTJ] 16dd_	.
 [16BtL 16dd_	.
 16BtJJ] 16dd]	.
-!!pagebreak:original
 =116	=116
 [16cLL [16e [16cc	.
 16cJ] 16e] 16cc_	.
@@ -2015,7 +1962,6 @@
 16B`J] 16d] 16dd]	.
 [16BL [16d [16ff#X	.
 16B`JJ] 16d] 16ff#]	.
-!!linebreak:original
 =119	=119
 [16BLL [16d [16gg	.
 16B`J] 16d] 16gg]	.
@@ -2067,7 +2013,6 @@
 16F#J] 16A] 16d]	.
 [16F#XL [16A [16d	.
 16F#JJ] 16A] 16d]	.
-!!linebreak:original
 =122	=122
 [16GLL [16d 16bb	.
 16GJ_ 16d_ 16aa	.
@@ -2119,7 +2064,6 @@
 16BJ] 16b]	.
 [16DL [16d	.
 16DJJ] 16d]	.
-!!linebreak:original
 =125	=125
 [16ELL [16e	.
 16EJ_ 16e_	.
@@ -2168,9 +2112,7 @@
 16ff#J]	.
 [16ggL	.
 16ggJJ]	.
-!!pagebreak:original
 =128	=128
-!LO:TX:b:i:t=cresc.	!
 [16ffLL	.
 16ffJ]	.
 [16ggL	.
@@ -2187,7 +2129,6 @@
 16ddJ]	.
 [16ggL	.
 16ggJJ]	.
-!!linebreak:original
 =129	=129
 [16eLL [16cc	p
 16e`J] 16cc]	.
@@ -2239,7 +2180,6 @@
 16ddJ]	.
 [16ggL	.
 16ggJJ]	.
-!!linebreak:original
 =132	=132
 16fLL [16cc	.
 [16eJ 16cc]	.
@@ -2291,7 +2231,6 @@
 16DJ] 16bb_	.
 [16GL 16bb_	.
 16GJJ] 16bb]	.
-!!linebreak:original
 =135	=135
 [16ELL 16ccc	.
 16EJ] [16bb	.
@@ -2343,7 +2282,6 @@
 16dd`J]	.
 [16ccL	.
 16cc`JJ]	.
-!!pagebreak:original
 =138	=138
 16FFLL [16a [16aa	.
 16CJ 16a_ 16aa_	.
@@ -2395,7 +2333,6 @@
 16eeJ	.
 16ddL	.
 16ccJJ	.
-!!linebreak:original
 =141	=141
 16ALL [16cc [16ccc	.
 16fJ 16cc_ 16ccc_	.
@@ -2447,7 +2384,6 @@
 16FJ] 16aa_	.
 [16cL 16aa_	.
 16cJJ] 16aa]	.
-!!linebreak:original
 =144	=144
 [16ELL [16G [16c#X [16b-X [16bb-X	f
 16EJ] 16G] 16c#] 16b-_ 16bb-_	.
@@ -2499,7 +2435,6 @@
 16eJ 16ee]	.
 16cL 16dd	.
 16eJJ 16cc	.
-!!linebreak:original
 =147	=147
 16GTLL [16dd	.
 16fTJ 16dd_	.
@@ -2551,7 +2486,6 @@
 16gJ_	.
 16gL_ [16b	.
 16g`JJ] 16b]	.
-!!pagebreak:original
 =150	=150
 [16eLL [16dd	.
 16eJ_ 16dd]	.
@@ -2603,7 +2537,6 @@
 16GGJ_ 16g_	.
 16GGL_ 16g_	.
 16GGJJ] 16g]	.
-!!linebreak:original
 =153	=153
 [16ELL [16ee	.
 16EJ_ 16ee_	.

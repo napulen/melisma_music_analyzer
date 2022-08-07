@@ -1,13 +1,9 @@
-!!!COM: Fanny (Mendelssohn) Hensel
-!!!OTL: 6 Lieder
-!!!OMV: Die Ersehnte
 **kern
 *I"Voice
 *clefG2
 *k[b-e-a-]
 *M12/8
 =1
-!LO:TX:a:B:t=Andante con moto
 [8EE-L [8E- 8G
 8EE-_ 8E-_ 8B-
 8EE-J_ 8E-_ 8e-
@@ -20,8 +16,7 @@
 8EE-L_ 8E-_ 8g
 8EE-_ 8E-_ 8e-
 8EE-J] 8E-] 8B-
-=2!|:
-[8EE-L [8E- 8G 8B- [8ee-
+=2[8EE-L [8E- 8G 8B- [8ee-
 8EE-_ 8E-_ 8d-X 8ee-_
 8EE-J_ 8E-_ 8e- 8ee-_
 8EE-L_ 8E-_ 8g 8ee-_
@@ -180,4 +175,3 @@
 1.EE- 1.BB- 1.E- 1.G
 ==
 *-
-!!!YEM: OpenScore (CC0)

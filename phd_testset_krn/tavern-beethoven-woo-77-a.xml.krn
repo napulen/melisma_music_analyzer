@@ -1,6 +1,3 @@
-!!!COM: Music21
-!!!OTL: Untitled
-!!!OMV: Untitled
 **kern
 *clefG2
 *k[f#]
@@ -50,7 +47,6 @@
 16GJJ]
 8A'L 8d 8f#
 8AA'J 8G 8c#X 8e
-!!linebreak:original
 =8
 4D 4F# 4d
 [8B'L [8d 8dd
@@ -95,7 +91,6 @@
 [8DL 8f# 8a
 16DL_ 16d
 16DJJ]
-!!linebreak:original
 =15
 [8GL 8g 8b
 16GL_ 16d
@@ -105,7 +100,6 @@
 =
 4GG 4B 4g
 =16||
-!LO:TX:a:B:t=VAR I
 [16gLL
 16gJ_ 16dd
 16gL_ 16gg
@@ -146,7 +140,6 @@
 16gJ_ 16dd
 16gL_ 16gg
 16gJJ] 16bb
-!!linebreak:original
 =21
 [16cLL 16ee
 16cJ_ 16bb
@@ -189,7 +182,6 @@
 16GJ] 16d] 16a#X
 [16GL [16d 16cc
 16GJJ] 16d] 16b
-!!linebreak:original
 =26
 [16DLL [16d 16b
 16DJ_ 16d_ 16a
@@ -235,7 +227,6 @@
 16DJ_ 16d
 16DL_ 16g 16b
 16DJJ] 16f# 16a
-!!pagebreak:original
 =31
 [16GLL
 16GJ_ 16d
@@ -248,7 +239,6 @@
 =
 4GG 4B 4g
 =32||
-!LO:TX:a:B:t=VAR II
 24GLL 24b
 24B 24dd
 24dJ 24gg
@@ -277,7 +267,6 @@
 [24DDL 24a
 24DD_ 24f#
 24DDJJ] 24d
-!!linebreak:original
 =35
 24GGLL
 24BB
@@ -326,7 +315,6 @@
 [24DDL 24a
 24DD_ 24f#
 24DDJJ] 24d
-!!linebreak:original
 =39
 24GGLL
 24BB
@@ -377,7 +365,6 @@
 [24ccL 24ff#
 24cc_ 24aa
 24ccJJ] 24eee
-!!linebreak:original
 =43
 24BLL
 24d
@@ -430,7 +417,6 @@
 24DL 24dd
 24E 24cc
 24F#JJ 24a
-!!linebreak:original
 =47
 24GLL 24dd
 24A 24b
@@ -450,7 +436,6 @@
 24GGJ] 24B
 8GJ
 =48||
-!LO:TX:a:B:t=VAR III
 16gLL [16b [16bb
 16f#'J 16b] 16bb]
 16eL [16b [16bb
@@ -473,7 +458,6 @@
 16E#X'J 16a] 16aa]
 16F#L [16a#X [16aa#X
 16D'JJ 16a#] 16aa#]
-!!linebreak:original
 =51
 16GLL [16b [16bb
 16F#J 16b_ 16bb_
@@ -519,7 +503,6 @@
 16AA'J] 16A] 16dd 16aa]
 [16AAL [16Gn 16ee [16aa
 16AA'JJ] 16G] 16cc#X 16aa]
-!!pagebreak:original
 =56
 [16DLL [16F# [16dd
 16DJ_ 16F#_ 16a 16dd_
@@ -565,7 +548,6 @@
 16F#'J 16b] 16bb]
 16EL [16b [16bb
 16D'JJ 16b] 16bb]
-!!linebreak:original
 =61
 16CLL [16a [16aa
 16BBJ 16a_ 16aa_
@@ -611,7 +593,6 @@
 16ccc#XJ
 [16GL [16B 16ddd
 16G'JJ] 16B] 16dd
-!!linebreak:original
 =66
 [16GLL [16B 16ddd
 16GJ] 16B] 16ccc#X
@@ -657,7 +638,6 @@
 16AA'J] 16A] 16dd
 [16AA#XL [16A#X 16ff#
 16AA#'JJ] 16A#] 16dd
-!!linebreak:original
 =71
 [16BBLL [16B [16gg
 16BBJ_ 16B_ 16dd 16gg]
@@ -673,7 +653,6 @@
 *clefF4
 =72||
 *k[b-e-]
-!LO:TX:a:B:t=VAR IV
 8B-L
 8B-J
 =73
@@ -696,7 +675,6 @@
 4D 4d
 8BB-L 8B-
 8BB-J 8B-
-!!linebreak:original
 =77
 8.AAL 8.A
 32GGLL 32AA 32BB- 32G 32A 32B-
@@ -737,7 +715,6 @@
 16CJ_ 16D
 16CL] [16e-
 16DDJJ 16e-_
-!!linebreak:original
 =83
 [16BB-LL 16e-]
 16BB-J_ 16D
@@ -775,12 +752,10 @@
 *clefG2
 =88||
 *k[f#]
-!LO:TX:a:B:t=VAR V
 16GLL 16gg [16bb
 16gJ 16ff# 16bb]
 16GL 16ee [16bb
 16gJJ 16dd 16bb]
-!!pagebreak:original
 =89
 16GLL [16cc 16aa 16bb
 16gJ 16cc_ 16gg#X
@@ -817,7 +792,6 @@
 16GJ 16f# 16b]
 16GGL 16e [16b
 16GJJ 16d 16b]
-!!linebreak:original
 =93
 16GGLL [16c 16a 16b
 16GJ 16c_ 16g#X
@@ -854,7 +828,6 @@
 16DJ 16a#X 16dd]
 16DDL 16b [16dd
 16DJJ 16g#X 16dd]
-!!linebreak:original
 =97
 16DDLL 16a [16dd
 16DJ 16g#X 16dd]
@@ -891,7 +864,6 @@
 16GJ 16ff# 16bb]
 16GGL 16ee [16bb
 16GJJ 16dd 16bb]
-!!linebreak:original
 =101
 16GGLL [16cc 16aa 16bb
 16GJ 16cc_ 16gg#X
@@ -924,7 +896,6 @@
 16GGJ 16b_ 16gg_
 8GGGJ 8b] 8gg]
 =104||
-!LO:TX:a:B:t=VAR VI
 [32GLLL [32B [32d [32g 32bb
 32G_ 32B_ 32d_ 32g_ 32aa
 32G_ 32B_ 32d_ 32g_ 32gg
@@ -933,7 +904,6 @@
 32dd
 32cc
 32bJJJ
-!!linebreak:original
 =105
 [32CLLL [32E [32A [32c 32a
 32C_ 32E_ 32A_ 32c_ 32cc
@@ -985,7 +955,6 @@
 32CC#_ 32C#_ 32ee
 32CC#_ 32C#_ 32gg
 32CC#JJJ] 32C#] 32bb
-!!linebreak:original
 =108
 [32DDLLL [32D 32ff# 32aa
 32DD_ 32D_ 32dd
@@ -1020,7 +989,6 @@
 32e
 32fn
 32f#XJJJ
-!!pagebreak:original
 =110
 [32GGLLL [32BB [32D [32G 32g
 32GG_ 32BB_ 32D_ 32G_ 32a
@@ -1070,7 +1038,6 @@
 32BJJ_ 32dd
 16BL] 16ddd
 16DJJ 16dd
-!!linebreak:original
 =113
 [32ALLL
 32A_ 32cc
@@ -1112,7 +1079,6 @@
 32DJJ] 32cc
 16F#L 16A 16ccc
 16DJJ 16cc
-!!linebreak:original
 =116
 [32GLLL [32B
 32G_ 32B_ 32b
@@ -1164,7 +1130,6 @@
 32ff#
 32dd
 32aJJJ
-!!linebreak:original
 =119
 [32GGGLLL [32GG 32g
 32GGG_ 32GG_ 32b
@@ -1209,7 +1174,6 @@
 32DJJ] 32b
 16FnL 16G#X 16bb
 [16DJJ 16b
-!!linebreak:original
 =122
 32DLLL_ [32F# [32A 32g#X
 32D_ 32F#_ 32A_ 32a
@@ -1255,7 +1219,6 @@
 32dd
 32cc
 32bJJJ
-!!linebreak:original
 =125
 [32CLLL [32E [32A [32c 32a
 32C_ 32E_ 32A_ 32c_ 32cc
@@ -1307,7 +1270,6 @@
 32DD_ 32D_ 32cc
 32DD_ 32D_ 32ff#
 32DDJJJ_ 32D_ [32aa
-!!pagebreak:original
 =128
 4DD;] 4D] 4aa]
 [8g'L 8dd 8bb
@@ -1354,7 +1316,6 @@
 [24DL
 24D_ 24c
 24DJJ] 24d
-!!linebreak:original
 =134
 [24GGLL
 24GG_ 24B
@@ -1401,7 +1362,6 @@
 24DL_ [24F#
 24D_ 24F#_ 24c
 24DJJ] 24F#] 24d
-!!linebreak:original
 =138
 [24GGLL [24G
 24GG_ 24G_ 24B

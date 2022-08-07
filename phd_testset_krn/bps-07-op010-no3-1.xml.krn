@@ -1,13 +1,9 @@
-!!!COM: Music21
-!!!OTL: bps_07_01.mxl
-!!!OMV: bps_07_01.mxl
 **kern	**dynam
 *clefG2	*
 *k[f#c#]	*
 *D:	*
 *M2/2	*
 *met(c|)	*
-!LO:TX:a:B:t=Presto	!
 4DD 4D 4d	p
 =1	=1
 4CC#'` 4c#	.
@@ -25,9 +21,7 @@
 4FF#'` 4F# 4f# 4ff#	.
 4GG'` 4G 4g 4gg	.
 =4	=4
-!LO:TX:a:B:t=142	!
 2.AA; 2.A 2.a 2.aa	sf
-!LO:TX:a:B:t=284	!
 4f# 4a 4dd	p
 =5	=5
 4e 4g 4cc#	.
@@ -123,7 +117,6 @@
 [8FF#	.
 8FF#'`J] 8F# 8f#	.
 [8AAAL [8AA	.
-!LO:TX:a:t=cresc.	!
 8AAA'`] 8AA] 8A 8a	.
 [8CC# [8C#	.
 8CC#'`J] 8C#] 8c# 8cc#	.
@@ -151,9 +144,7 @@
 4E'` 4e 4ee 4eee	ff
 4r	.
 =22	=22
-!LO:TX:a:B:t=142	!
 2.F#; 2.f# 2.ff# 2.fff#	ff
-!LO:TX:a:B:t=284	!
 4f#	p
 =23	=23
 8BBL [8dd	.
@@ -316,7 +307,6 @@
 8b_ 8bb	.
 8bJ_ 8ccc#	.
 =41	=41
-!LO:TX:a:t=cresc.	!
 8bL] [8ddd	.
 8b 8ddd_	.
 8a#X 8ddd_	.
@@ -389,7 +379,6 @@
 8DD 8f#	.
 8DJ 8g#X	.
 =49	=49
-!LO:TX:a:t=cresc.	!
 8CC#L 8a	.
 8AA 8a#X	.
 8CC# 8b	.
@@ -598,7 +587,6 @@
 4b-X'` 4bb-X [4ddd	.
 4a'` 4aa 4ddd_	.
 =86	=86
-!LO:TX:a:t=cresc.	!
 4g#X'` 4gg#X 4ddd_	.
 4f#'` 4ff# 4ddd]	.
 4e'` 4ee [4gg#X [4bbn	.
@@ -692,7 +680,6 @@
 8AA'`_ 8F#] 8dd	.
 8AA_ [8E 8cc#	.
 8AA'`J_ 8E] 8dd	.
-!LO:TX:a:t=cresc.	!
 8AAL_ [8D 8e	.
 8AA'`_ 8D] 8ee	.
 8AA_ [8C# 8dd#X	.
@@ -854,7 +841,6 @@
 4AAA'` 4A	.
 4CC#'` 4c#	.
 =130	=130
-!LO:TX:a:t=cresc.	!
 4DD'` 4d	.
 4FFn'` 4fn	.
 4AAA'` 4AA 4A 4a	.
@@ -865,13 +851,10 @@
 4FFn'` 4Fn 4fn 4ffn	.
 4GG'` 4G 4g 4gg	.
 =132	=132
-!LO:TX:a:B:t=142	!
 1AA; 1A 1a 1aa	ff
 =133	=133
 *k[]	*
 *C:	*
-!LO:TX:a:t=ffp	!
-!LO:TX:a:B:t=284	!
 8BB-XL [8b-X [8dd [8ff [8bb-X	.
 8B-X 8b-_ 8dd_ 8ff_ 8bb-_	.
 8BB-X 8b-_ 8dd_ 8ff_ 8bb-_	.
@@ -908,7 +891,6 @@
 8BB-X [8e-X [8f	.
 8B-X'`J 8e-] 8f]	.
 =137	=137
-!LO:TX:a:t=ffp	!
 8BBB-XL [8d [8b-X	.
 8BB-X 8d_ 8b-_	.
 8BBB-X 8d_ 8b-_	.
@@ -1289,7 +1271,6 @@
 8e'` 8eee]	.
 8g	.
 8eJ	.
-!LO:TX:a:t=cresc.	!
 [8C#XL 8A	.
 8C#'`] 8e	.
 8g	.
@@ -1370,7 +1351,6 @@
 =193	=193
 4DD 4D 4f#X 4ddn	.
 2r	.
-!LO:TX:a:t=cresc.	!
 8ff#XL	.
 8dddJ	.
 =194	=194
@@ -1624,7 +1604,6 @@
 8ee_ 8gg	.
 8ee_ 8ff#X	.
 8eeJ_ 8gg	.
-!LO:TX:a:t=cresc.	!
 8eeL_ 8aa	.
 8ee] 8bb	.
 [8dd 8ccc#X	.
@@ -1687,7 +1666,6 @@
 8FFF#_ 8FF#_ 8ee-X	.
 8FFF#_ 8FF#_ 8een	.
 8FFF#J_ 8FF#_ 8ffn	.
-!LO:TX:a:t=cresc.	!
 8FFF#L_ 8FF#_ 8ff#X	.
 8FFF#_ 8FF#_ 8gg	.
 8FFF#_ 8FF#_ 8gg#X	.
@@ -1895,7 +1873,6 @@
 4e-X'` 4ee-X [4gg	.
 4d'` 4dd 4gg_	.
 =267	=267
-!LO:TX:a:t=cresc.	!
 4c#X'` 4cc#X 4gg_	.
 4Bn'` 4bn 4gg]	.
 4A'` 4a [4cc#X [4een	.
@@ -2007,7 +1984,6 @@
 8DD] 8FF#] 8dd	.
 [8D 8cc#X	.
 8DJ_ 8dd	.
-!LO:TX:a:t=cresc.	!
 8DL_ 8ee	.
 8D_ 8dd	.
 8D_ [8d 8cc#X	.
@@ -2065,7 +2041,6 @@
 2EE [2E 2B] [2g	.
 2AA 2E] 2G 2c#X 2g]	.
 =294	=294
-!LO:TX:a:t=cresc.	!
 2DD [2D [2F#X [2f#X	.
 2GG 2D] 2F#] 2B 2f#]	.
 =295	=295
@@ -2209,7 +2184,6 @@
 4BB-] 4D 4G#] 4f 4g#]	.
 [4AA [4Gn [4gn	sf
 =323	=323
-!LO:TX:a:t=cresc.	!
 4AA_ 4C#X 4G_ 4e 4g_	.
 4AA_ 4D 4G_ 4d 4g_	.
 4AA] 4E 4G] 4c#X 4g]	.
@@ -2294,7 +2268,6 @@
 8DJ 8f#X	.
 =334	=334
 8AAL 8F#X	.
-!LO:TX:a:t=cresc.	!
 8D 8f#X	.
 8C#X 8d	.
 8DJ 8f#X	.

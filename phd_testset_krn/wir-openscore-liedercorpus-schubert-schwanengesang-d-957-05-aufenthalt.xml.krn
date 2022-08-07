@@ -1,13 +1,9 @@
-!!!COM: Franz Schubert
-!!!OTL: Schwanengesang, D.957
-!!!OMV: Aufenthalt
 **kern	**dynam
 *I"Voice	*
 *clefG2	*
 *k[f#]	*
 *M2/4	*
 =1	=1
-!LO:TX:a:B:t=Nicht zu geschwind, doch kräftig	!
 [12EEL [12BB 12G 12B 12e	.
 12EE_ 12BB_ 12G 12B 12e	.
 12EEJ_ 12BB_ 12G 12B 12e	.
@@ -425,7 +421,6 @@
 12B 12d 12g	.
 12BJ 12d 12g	.
 =56	=56
-!	!LO:DY:a
 [12GL 12d [12g 12b	p
 12G_ 12d 12g_ 12b	.
 12GJ] 12d 12g] 12b	.
@@ -943,7 +938,6 @@
 [48GKL [48B [48e 48ee]	.
 16GJJ] 16B] 16e] 16ee	.
 =124	=124
-!	!LO:DY:a
 [12CCL [12C 12G 12c 12e-X [12gg	fff
 12CC_ 12C_ 12G 12c 12e-X 12gg_	.
 12CCJ] 12C] 12G 12c 12e-X 12gg_	.
@@ -1073,4 +1067,3 @@
 2EE;] 2G] 2B] 2e]	.
 ==	==
 *-	*-
-!!!YEM: OpeScore (CC0)

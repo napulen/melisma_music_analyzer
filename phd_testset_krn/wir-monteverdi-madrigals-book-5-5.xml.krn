@@ -1,6 +1,3 @@
-!!!COM: Battista Guarini
-!!!OTL: 5. MA. SE CON LA PIETÀ NON È IN TE SPENTA
-!!!OMV: 5. MA. SE CON LA PIETÀ NON È IN TE SPENTA
 **kern
 *I"Canto
 *I'C.
@@ -10,10 +7,6 @@
 *M4/4
 *met(c)
 =1
-!LO:TX:b:t=--j
-!LO:TX:b:t=EDIZIONI
-!LO:TX:b:t=UT ORPHEUS
-!LO:TX:b:t=ODH 19A
 2.f
 8fL
 8fJ
@@ -42,7 +35,6 @@
 4C [4c 4e-X 4g 4cc
 [8FL 8c] [8f [8a [8cc
 8FJ] 8c 8f] 8a] 8cc]
-!!linebreak:original
 =6
 [4BB- [4B- [4f [4b- [4dd
 8BB-L] 8B-_ 8f] 8b-] 8dd]
@@ -70,7 +62,6 @@
 4D_ 4d_ 4f#_ 4a_
 4D_ 4d_ 4f#_ 4a_
 4D] 4d] 4f#] 4a]
-!!pagebreak:original
 =12
 [4B-
 4B-] [4b- [4dd
@@ -100,7 +91,6 @@
 4d] 4f] 4bn
 4c 4e 4cc
 [4d [4f [4b-X
-!!linebreak:original
 =18
 8dL] 8f] 8b-]
 8cJ 8e 8a
@@ -132,7 +122,6 @@
 2G 2d] 2g 2bn
 4G 4d 4g 4b
 4G 4d 4g 4bn 4dd
-!!pagebreak:original
 =24
 [4.G [4.d [4.g [4.bn 4.dd
 8G_ 8d_ 8g] 8b_ 8dd
@@ -158,7 +147,6 @@
 [2BB- 2d [2f [2b- [2dd
 4BB-_ 4d 4f_ 4b-_ 4dd_
 4BB-_ 4d 4f_ 4b-_ 4dd_
-!!linebreak:original
 =30
 2BB-] 2d 2f] 2b-] 2dd]
 [8gL
@@ -189,7 +177,6 @@
 4c [4g 4b-
 [4c 4g] [4a
 4c] [4f 4a]
-!!pagebreak:original
 =35
 4B- 4f] [4g
 4c 4e 4g]
@@ -220,7 +207,6 @@
 4G] 4B] 4d] 4dd
 4G 4Bn 4d
 4G 4Bn 4d
-!!linebreak:original
 =41
 4G 4Bn 4d
 [4G [4Bn [4d
@@ -253,7 +239,6 @@
 8cJ] 8e] 8a]
 4c 4e 4a
 4B- 4d [4g
-!!pagebreak:original
 =46
 [8AL [8c 8g_
 8AJ_ 8c_ 8g] 8a
@@ -289,7 +274,6 @@
 [4G [4d [4g 4cc] [4dd
 8GL] 8d] 8g] [8bn 8dd_
 8GJ 8d 8g 8b] 8dd]
-!!linebreak:original
 =51
 [2C [2e 2g [2cc
 4C] 4e] 4cc]
@@ -316,7 +300,6 @@
 2G_ 2B- 2g_ 2dd]
 4G_ 4B- 4g_
 4G] 4B- 4g] [4b- [4dd
-!!pagebreak:original
 =57
 [4d 4b-] 4dd]
 8dL] 8a 8cc
@@ -347,7 +330,6 @@
 8DJ 8d 8f 8a_
 4A 4c#X 4e 4a]
 4B- 4d 4g
-!!linebreak:original
 =63
 [2A 2c#X 2e 2a
 2A] 2c#X 2e 2a
@@ -373,4 +355,3 @@
 1G; 1g
 =||
 *-
-!!!YEM: UTORPHEUS EDIZIONI 2(KJ3 EDIZIONI 2003 UT ORPHEUS EDIZIONI 2003 © UT ORPHEUS 2003

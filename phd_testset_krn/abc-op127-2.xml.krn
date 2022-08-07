@@ -1,6 +1,3 @@
-!!!COM: L van Beethoven
-!!!OTL: String Quartet No12 Op127
-!!!OMV: op127_no12_mov2.mxl
 **kern	**dynam
 *I"Violin I	*
 *I'Vln. I	*
@@ -8,9 +5,7 @@
 *k[b-e-a-d-]	*
 *A-:	*
 *M12/8	*
-!LO:TX:a:B:t=Adagio ma non troppo e molto cantabile	!
 *MM60	*
-!LO:TX:t=[quarter]=60	!
 [8EE-	.
 4EE-]	.
 [8EE-	.
@@ -29,7 +24,6 @@
 4EE-_ 4D-_ 4B-_ 4d-]	.
 8EE-_ 8D-_ 8B-_ [8d-	.
 4EE-] 4D-] 4B-] 4d-]	.
-!LO:TX:b:i:t=cresc.	!
 [8EE- [8D- [8B- 8e-	.
 4EE-] 4D-] 4B-] 4f	.
 8EE- 8D- 8B- 8g	.
@@ -162,7 +156,6 @@
 8E-] 8G-] 8B- 8b-]	.
 8E-J 8G-X 8A- 8cc	.
 =17	=17
-!LO:TX:b:i:t=cresc.	!
 4D- 4F 4A- [4dd-	.
 8E- 8G-X [8a- 8dd-_	.
 4D- 4F 4a-] 4dd-]	.
@@ -181,13 +174,11 @@
 4E-] 4G 4d- 4b-	.
 8DD- [8E- 8g 8b-	.
 =19	=19
-!LO:TX:b:i:t=dim.	!
 4CC 4E-] 4A- 4g-X 4ee-	.
 8EE- 8G-X 8c 8a-	.
 4DD- 4F 4A- 4f 4dd-	.
 8FF-X 8A- 8d- 8a-	.
 4DDn 4Fn 4A- 4a- 4cc	.
-!LO:TX:b:i:t=cresc.	!
 8EE- 8A- 8c 8a-	.
 4E- 4A- 4c 4e-	.
 8E- 8Gn 8B- 8d-X 8gn	.
@@ -263,20 +254,17 @@
 16B-X 16d- [16a- [16cc	.
 16c'JJ 16e-X 16a-] 16cc]	.
 =24	=24
-!LO:TX:b:i:t=cresc.	!
 [8e-L [8a- [8cc	.
 8c 8e-] 8a-] 8cc]	.
 8A-J 8a- 8cc 8ee-	.
 8E-L 8cc 8ee- 8aa-	.
 8C 8ee- 8aa- 8ccc	.
 8AA-J 8ee- 8ccc 8eee-	.
-!LO:TX:a:i:t=dim.	!
 8AA-L 8ee- [8bb- 8eee-	.
 [16GGL [16E- 16bb-_	.
 16GG] 16E-] 16b- 16bb-]	.
 16FFT 16F 16a- [16bb-	.
 16EE-TJJ 16G 16g 16bb-]	.
-!LO:TX:a:i:t=cresc.	!
 [8EE-L [8G 8g 8aan 8bb- 8ddd-	.
 8EE-] 8G] 8dd- 8ee-	.
 16FFTL 16A-X [16e- [16dd-	.
@@ -307,7 +295,6 @@
 8B- 8b-] 8dd-]	.
 [16B-L 16c 16ee-	.
 16B-JJ] 16d- 16ff	.
-!LO:TX:b:i:t=cresc.	!
 [8.CCL [8.BB- [8.C [8.d- 8.gn 8.b- 8.ff	.
 16CCL_ 16BB-] 16C_ 16d-] 16g 16een	.
 16CC_ 16AA-X 16C_ 16c 16f 16ff	.
@@ -335,7 +322,6 @@
 [8EE-L [8BB- 8Dn 8A-] 8fff	.
 8EE-] 8BB-] 8E- 8G 8eee-	.
 8EE-J [8E- [8G 8ddd-X	.
-!LO:TX:a:i:t=cresc.	!
 [8EE-L 8E-] 8G] 8bb-	.
 8EE-] 8Gn 8g 8gg	.
 16GG'L 16B- 16b- [16ff	.
@@ -377,7 +363,6 @@
 16B-X 16fn 16dd- 16aa-	.
 16cJJ 16e- 16ee- 16gg-X	.
 =31	=31
-!LO:TX:a:i:t=cresc.	!
 8cL 8e- 8b-- 8gg-X	.
 8.d- 8.f 8.a- 8.ff	.
 16e-Jk 16g-X 16a- 16cc 16ee-	.
@@ -405,14 +390,12 @@
 16A-] 16e- 16cc	.
 16AA- 16E- 16c 16ff	.
 16AAnJJ 16C 16e- 16ee-	.
-!LO:TX:b:i:t=cresc.	!
 8AAnL 8C 8e- [8ee-	.
 [16BB-XL 16D- 16d- 16ee-]	.
 16BB-] [16E- 16d- 16gg	.
 16GG' 16E-] 16B- 16gg	.
 16FF'JJ 16E- 16A-X 16aa-X	.
 =33	=33
-!LO:TX:a:t=sf	!
 8FFL [8E- 8G [8aan	.
 8EE- 8E-_ [8G [8g 8aa]	.
 16EE-L 16E-] 16G_ 16g_ [16bb-	.
@@ -428,7 +411,6 @@
 8AA-] 8C] 8c] 8ee-	.
 [16GGL [16D- [16B- 16ee-	.
 16GGJJ] 16D-_ 16B-_ 16eee-	.
-!LO:TX:a:i:t=cresc.	!
 8.D-L_ 8.B-_ [8.g 8.eee-	.
 16D-L] 16B-] 16g] 16gg	.
 16C' 16A-X 16g 16aa-	.
@@ -457,7 +439,6 @@
 16F 16d- 16fn 16bb-	.
 16E-JJ 16e- 16g-X 16ccc	.
 =35	=35
-!LO:TX:a:i:t=cresc.	!
 8E-L 8A- 8g-X 8ccc	.
 8.D- 8.f 8.a- 8.ddd-	.
 16CJk 16e- 16a- 16eee-	.
@@ -488,7 +469,6 @@
 16E- 16B-X 16d-] 16b-]	.
 16D-JJ 16B- 16g 16ee-	.
 =37	=37
-!LO:TX:b:i:t=dim.	!
 [8CL 8e- [8g-X [8ee-	.
 8C] 8E- 8g-] 8ee-]	.
 16E-L 16G-X 16c 16a-	.
@@ -499,7 +479,6 @@
 4E- 4A- 4a-] 4cc	.
 16A-LL 16c 16e- 16a-	.
 [16E-JJ 16A- 16c 16cc	.
-!LO:TX:b:i:t=cresc.	!
 4E-] [4B- [4d- 4e-	.
 16GnLL 16B-] 16d-] 16e-	.
 16enJJ 16b- 16dd- 16gg	.
@@ -522,9 +501,7 @@
 =39	=39
 *M4/4	*
 *met(c)	*
-!LO:TX:a:B:t=Andante Con moto	!
 *MM80	*
-!LO:TX:t=[quarter]=80	!
 16C'LL 16E- 16a-	.
 [16dnJ	.
 16AA-'L 16C 16E- 16d]	.
@@ -604,7 +581,6 @@
 16E-'L 16G 16e- 16ddd-]	.
 [32E-L [32G [32d- [32ee- 32ccc	.
 32E-'JJJ] 32G] 32d-] 32ee-] 32bb-	.
-!LO:TX:b:i:t=dim.	!
 [32E-LLL [32G [32e- 32aa-	.
 32E-'] 32G] 32e-] 32gg	.
 [32E- [32G [32d- [32e- 32bb-	.
@@ -680,7 +656,6 @@
 [32E-T [32G 32a- [32b- 32eee-	.
 32E-'JJJ] 32G] 32b-] 32ddd-X	.
 =45	=45
-!LO:TX:a:i:t=cresc.	!
 [32AA-LLL [32C [32c 32bn [32ccc	.
 32AA-] 32C] 32c] 32cc 32ccc]	.
 [32C [32A- [32c 32dd-	.
@@ -748,7 +723,6 @@
 32E-JJJ] 32A- 32c] 32ee-]	.
 =47	=47
 16E-LL 16G 16B- 16e- 16ee-	.
-!LO:TX:a:i:t=poco cresc.	!
 16GJ 16d- [16e- [16g	.
 16E-L 16B- 16e-] 16g]	.
 [32GL [32d- 32e- 32g	.
@@ -784,7 +758,6 @@
 16a-L 16ee-] 16ccc]	.
 [32A-L 32f 32ff 32ddd-	.
 32A-JJJ_ 32d- 32gg-X 32eee-	.
-!LO:TX:b:i:t=piu cresc.	!
 32A-LLL] [32c [32gg-X [32eee-	.
 32E-' 32c] 32gg-] 32eee-]	.
 32C 32A- [32ee- [32gg-X	.
@@ -886,12 +859,10 @@
 [32E-X [32B-	.
 32E-'JJ] 32B-] 32g	.
 [32CLL [32c [32e-X 32g	.
-!LO:TX:a:i:t=cresc.	!
 32C'] 32c] 32e-] 32a- 32eee-X	.
 [32E- [32A- 32e- 32ddd-X	.
 32E-'JJJ] 32A-] 32a- 32ccc	.
 =53	=53
-!LO:TX:a:t=p  dol.	!
 [32GGLLL [32E- [32d- [32b- 32bb-	.
 32GG'] 32E-] 32d-] 32b-] 32ccc	.
 [32E- [32G [32e- 32ddd-	.
@@ -959,7 +930,6 @@
 32CJJJ] 32e-] 32cc 32aa-]	.
 =55	=55
 [32FF-XLLL [32A- [32dd-	.
-!LO:TX:b:i:t=cresc.	!
 32FF-] 32A-] 32dd-] 32aa-	.
 [32F-X [32A- [32d- 32ddd-	.
 32F-JJ] 32A-] 32d-_ 32ccc	.
@@ -1026,7 +996,6 @@
 32E-'JJJ] 32B-] 32d-] 32e-] 32gg	.
 =57	=57
 [32E-LLL [32c [32e- [32aa-	.
-!LO:TX:b:i:t=dim.	!
 32E-] 32c] 32e-] 32aa-]	.
 [32C [32A- [32c [32ee- 32eee-	.
 32CJJ] 32A-] 32c] 32ee-_ 32dddn	.
@@ -1043,7 +1012,6 @@
 [32A-T [32d- [32a- 32ff-X [32aa-	.
 32A-TJJJ] 32d-] 32a-] 32dd- 32aa-]	.
 [32E-LLL [32A- [32a- [32cc	.
-!LO:TX:b:i:t=cresc.	!
 32E-] 32A-] 32a-] 32cc] 32aa-	.
 [32E- [32d- [32a- 32bb-	.
 32E-JJ] 32d-] 32a-_ 32aa-	.
@@ -1061,7 +1029,6 @@
 32D-JJJ] 32B-] 32e- 32gg]	.
 =58	=58
 [32CLLL [32B- [32e- [32a-	.
-!LO:TX:b:i:t=dim.	!
 32C'] 32B-] 32e-] 32a-] 32ee-	.
 [32C [32B- [32e- 32aa-	.
 32CJJ] 32B-] 32e-] 32gg	.
@@ -1090,9 +1057,7 @@
 *E:	*
 *M2/2	*
 *met(c|)	*
-!LO:TX:a:B:t=Adagio molto espressivo	!
 *MM60	*
-!LO:TX:t=[quarter]=60	!
 4EE_ 4E_ 4e_	.
 4EE_ 4E_ [4G# 4e]	.
 4EE_ 4E] 4G#] 4g#	.
@@ -1105,7 +1070,6 @@
 8AA_ 8F#_ 8B_ [8b 8cc#	.
 8AAJ] 8F#] 8B] 8b_ 8dd#	.
 =61	=61
-!LO:TX:b:i:t=cresc.	!
 [8GG#L [8E [8B 8b] [8ee	.
 8GG#] 8E] 8B] [8e 8ee_	.
 [8.AA [8.E [8.c# 8.e_ 8.ee_	.
@@ -1142,7 +1106,6 @@
 8f#_ [8a [8b 8cc# 8ccc#	.
 8f#J] 8a] 8b] 8dd# 8bb	.
 =65	=65
-!LO:TX:b:i:t=cresc.	!
 [8eL [8g# [8bn [8ee 8bb	.
 8e] 8g#] 8b] 8ee]	.
 [8EE [8BB [8G# [8B 8gg#	.
@@ -1156,12 +1119,10 @@
 8CCL_ 8BB_ 8E_ 8G_ 8ee 8ggg]	.
 8CCJ_ 8BB_ 8E_ 8G_ 8A#X 8e	.
 8CCL] 8BB] 8E] 8G] 8A#X 8e	p
-!LO:TX:a:i:t=cresc.	!
 [8DD# [8BB [8F# [8B	.
 8DD#] 8BB] 8F#] 8B]	.
 8DD#J 8BB 8F# 8B [8b	.
 =67	=67
-!LO:TX:a:i:t=cantabile	!
 [4.DD# [4.F# 4.f# 4.b_	p
 8DD#] 8F#] 8e 8b_	.
 [4FF# [4A 4d# 4b_	.
@@ -1174,7 +1135,6 @@
 8GG#L] 8B_ 8d_ 8f# 8b_	.
 8EE#XJ 8B] 8d] 8g# 8b]	.
 =69	=69
-!LO:TX:b:i:t=cresc.	!
 4FF# 4A 4d# 4a	.
 4BB [4F# [4A [4a [4dd#	.
 [4CCn [4Cn 4F#_ 4A_ 4a_ 4dd#]	.
@@ -1191,7 +1151,6 @@
 [16e [16g# [16b 16aa#X	.
 16eJJ] 16g#] 16b] 16bb	.
 =71	=71
-!LO:TX:b:i:t=espressivo	!
 4.f# 4.a 4.dd# [4.bb	.
 8e 8g# 8ee 8bb]	.
 [8d#L [8f# 8b [8fff#	.
@@ -1207,7 +1166,6 @@
 8f# 8a 8ff# [8bb	.
 8g#J 8b 8ee#X 8bb]	.
 =73	=73
-!LO:TX:b:i:t=cresc.	!
 [8f#L [8a [8ddd#	.
 8f#J] 8a] 8aa 8ddd#]	.
 [4Cn [4cn [4f# [4dd# 4fff#	.
@@ -1222,7 +1180,6 @@
 8D#L [8B 8f# 8b] 8fff#]	p
 [16EL 16B_ 16g#X [16eee	.
 16EJ] 16B] 16gn 16eee]	.
-!LO:TX:b:i:t=dim.	!
 8CCn 8Cn 8Gn 8cn 8gn 8ee	.
 8DD#J 8D# 8f# 8b	.
 =75	=75
@@ -1247,7 +1204,6 @@
 12EE'J 12E 12e]	.
 =77	=77
 *M12/8	*
-!LO:TX:a:B:t=Tempo 1	!
 8EEL 8E 8e	.
 8EE-X [8E-X [8e-X	.
 8EE-XtJ 8E-_ 8e-_	.
@@ -1277,7 +1233,6 @@
 [16E-XL [16B-X [16d-X [16e-X [16gn 16cccn	.
 16E-'JJ] 16B-] 16d-] 16e-] 16g] 16bb-X	.
 =79	=79
-!LO:TX:a:i:t=cresc.	!
 8E-X'L 8cn 8e-X 8g-X 8bb-X	.
 8CCn' [8G-X 8A 8e-X 8aa	.
 32DD-XLL 32G-_ [32A [32e-X [32eee-X	.
@@ -1299,7 +1254,6 @@
 [8E-XL [8A-X 8cn 8e-X 8a-X [8cccn	p
 8EE-X 8E-_ 8A-_ 8cn 8a-X 8ccc_	.
 8EE-XtJ 8E-] 8A-_ 8cn 8a-X 8ccc]	.
-!LO:TX:a:i:t=cresc.	!
 8DDn'L 8EE-X 8AA-X [8Fn 8A-_ 8a-X [8ccc-X	.
 8C-X' 8F_ 8A-_ 8a-X 8ccc-_	.
 8Dn'J 8F_ 8A-] 8c-X 8a-X 8ccc-]	.
@@ -1346,7 +1300,6 @@
 [16E-XL [16B-X 16d-] [16gn [16b-X [16gggn	.
 16E-'JJ] 16B-] 16g] 16b-] 16ggg]	.
 =83	=83
-!LO:TX:a:i:t=cresc.	!
 8E-XL [8A-X 8ccn 8aaa-X	.
 8En 8A-_ 8ccn	.
 [16FntL 16A-_ [16cccn	.
@@ -1373,7 +1326,6 @@
 [16E-XtL [16A-X [16B-X [16fn 16a-] [16bb-X	.
 16E-'tJJ] 16A-] 16B-] 16dn 16f] 16bb-]	.
 8E-XL 8Gn 8B-X 8e-X 8fn	.
-!LO:TX:b:i:t=cresc.          -                     -                -               -	!
 8E-X 8Gn 8e-X 8ee-X 8aan 8bb-X	.
 [16FnTL [16A-X 16d-X 16dddn [16eee-X	.
 16FJJ] 16A-] 16cn 16eee-]	.
@@ -1397,7 +1349,6 @@
 [16E-XL [16d-X [16e-X [16gn 16a-] [16ee-X	.
 16E-'JJ] 16d-] 16e-] 16g] 16b-X 16ee-]	.
 =86	=86
-!LO:TX:b:i:t=rinf.    -              -              -	!
 8E-XL 8A 8cn 8e-X 8b 8ee-X	.
 8FFn 8E-X 8cn 8e-X [8ccn 8ee-	.
 8FFntJ 8E-X 8cn 8e-X 8cc_ 8ee-X	.
@@ -1414,7 +1365,6 @@
 [16E-XL [16cn [16e-X [16a 16b-] [16ee-X	.
 16E-'JJ] 16c] 16e-] 16a] 16ccn 16ee-]	.
 =87	=87
-!LO:TX:b:i:t=rinf.      -              -            -	!
 8FnL 8B-X 8dn 8a-X [8ddn	.
 8BB-X 8Fn 8A-X 8B-X 8dn 8dd_	.
 8BB-XtJ 8Fn 8A-X 8B-X 8dn 8dd_	.
@@ -1440,7 +1390,6 @@
 [16EE-XtL [16E-X [16Gn [16B-X [16e-X 16dd-]	.
 16EE-tJJ] 16E-] 16G] 16B-] 16e-] 16b-X	.
 8DDnL 8EE-X 8E-X 8A-X 8cn 8e-X 8a-X	.
-!LO:TX:b:i:t=cresc.	!
 8Gn 8B-X 8e-X	.
 8A-XTJ 8cn 8fn 8ee-X	.
 8AnL 8cn 8e-X 8f#X	.
@@ -1504,7 +1453,6 @@
 8d-'_ 8e-X 8g_ 8b-_	.
 16d-TL] 16g] 16b-] [16ggn	.
 16B-XJJ 16e-X 16gn 16gg]	.
-!LO:TX:b:i:t=cresc.	!
 [8A-X'L 8e-X 8ccn 8ffn 8ggn 8aa-X	.
 8A-'_ [8cn 8e-X [8a-X	.
 16A-TL] 16c] 16a-] [16ee-X	.
@@ -1514,7 +1462,6 @@
 16B-TL] 16d-] 16dd-X 16ffn [16ggn	.
 16e-XJJ 16gn 16b-X 16gg]	.
 =93	=93
-!LO:TX:a:i:t=dim.	!
 [8e-X'L [8g-X [8ccn 8aa-X	.
 8e-'_ 8g-_ 8cc_ 8aa-	.
 16e-tL] 16g-] 16cc] [16gg-X	.
@@ -1551,7 +1498,6 @@
 8ccntJ	.
 4fn 4a-X 4b-X 4cc 4dd-X	.
 8Gn	.
-!LO:TX:b:i:t=sotto voce	!
 4A-X	.
 8cn	.
 =96	=96
@@ -1598,7 +1544,6 @@
 8CC#_ 8C#_ 8cc#_ 8ff##X	.
 4CC#_ 4C#_ 4cc#_ 4gg#	.
 8CC#_ 8C#_ 8cc#_ 8bb#X	.
-!LO:TX:a:i:t=cresc.	!
 4CC#] 4C#] 4cc#] [4ccc#	.
 8C# 8e 8ee 8ccc#_	.
 4BBn 4g# 4gg# 4ccc#_	.
@@ -1618,7 +1563,6 @@
 4DD# 4B#X 4b#X [4gg#	.
 8BB#X 8D# 8d# 8gg#]	.
 [4CC# 4C# 4e 4cc# 4ee	.
-!LO:TX:b:i:t=cresc.	!
 8CC#_ 8e 8cc#	.
 4CC#_ 4g# 4bn	.
 8CC#_ 8Bn 8dd#	.
@@ -1651,7 +1595,6 @@
 8C#] 8e] 8cc#] 8aa	.
 =106	=106
 [4AA 4A 4e 4cc# 4aa	.
-!LO:TX:b:i:t=cresc.	!
 8AA_ 8A 8c# 8cc#	.
 4AA'] 4A 4c# 4cc#	.
 8GG#' 8G# 8dn 8ddn	.
@@ -1662,7 +1605,6 @@
 =107||	=107||
 *k[b-e-a-d-]	*
 *A-:	*
-!LO:TX:a:t=p dolce	!
 [8EE-L [8E- 8gn 8ggn	.
 8EE-_ 8E-] 8a- 8aa-	.
 8EE-J_ 8A- 8cn 8ee-	.
@@ -1676,7 +1618,6 @@
 8EE-T_ 8d-X 8b- 8ee-_	.
 8EE-TJ] 8B- 8g 8ee-_	.
 =108	=108
-!LO:TX:b:i:t=cresc.	!
 8GL 8Bn 8e- 8ee-_	.
 8A- 8c 8ee-]	.
 8CtJ 8E- 8cc 8aa-	.
@@ -1692,7 +1633,6 @@
 16cL [16e- 16ee- 16dddn 16eee- 16fff	.
 16B-JJ 16e-] 16dd-X 16ggg	.
 =109	=109
-!LO:TX:a:t=p dolce	!
 [16E-LL [16cc 16aaa-	.
 16E-_ 16cc] 16ddn	.
 16E-_ [16c 16ee-	.
@@ -1768,7 +1708,6 @@
 [16E-^ 16A-_ 16c_ 16a-_ 16ee-	.
 16E-JJ_ 16A-] 16c_ 16a-_ 16cc	.
 =112	=112
-!LO:TX:b:i:t=cresc.	!
 16E-LL_ [16A- 16c_ 16a-_ 16aa-	.
 16E-_ 16A-_ 16c] 16a-] 16ee-	.
 16E-_ 16A-_ [16c [16a- 16ccc	.
@@ -1794,7 +1733,6 @@
 16B- 16d- 16g	.
 16A-JJ 16c 16f 16a-	.
 =113	=113
-!LO:TX:b:i:t=cresc.	!
 16GLL 16B- [16e- 16b-	.
 16F 16A- 16e-_ 16cc	.
 16E- 16G 16e-_ 16dd-	.
@@ -1863,7 +1801,6 @@
 16g-X 16cc 16ee- 16aa-_	.
 16f 16dd- 16ff 16aa-_	.
 16e-JJ 16g-X 16gg-X 16aa-_	.
-!LO:TX:a:i:t=cresc.	!
 16d-LL 16f 16aa-_	.
 16D- 16en 16ggn 16aa-]	.
 16D- 16f 16aa- [16aaa-	.
@@ -1896,7 +1833,6 @@
 16C 16E- 16An 16ccc	.
 16D-JJ 16G 16B- 16bb-	.
 =117	=117
-!LO:TX:b:i:t=dim.	!
 [16CLL [16E- [16e- 16eee-	.
 16C_ 16E-_ 16e-_ 16aa-	.
 16C_ 16E-] 16e-_ [16aan	.
@@ -1915,7 +1851,6 @@
 16AA-_ 16Fn 16c_ 16ee-_	.
 16AA-] [16E- 16c] 16ee-]	.
 16EE-JJ 16E-] 16a- 16ccc	.
-!LO:TX:b:i:t=cresc.	!
 [16D-LL [16E- [16g 16bb-	.
 16D-_ 16E-_ 16g] 16ff-X	.
 16D-_ 16E-] [16Gn [16ee-	.
@@ -1957,7 +1892,6 @@
 8D-' 8f 8eee-	.
 8D-'J 8f 8fff	.
 =121	=121
-!LO:TX:a:i:t=cresc.	!
 [8AA-L 8D- 8f-X [8gggn	.
 8AA-] 8D- 8f-X 8ggg_	.
 16D-L 16f-X 16ggg]	.
@@ -1992,7 +1926,6 @@
 8r	.
 4D#X 4Bn 4f#X 4an	.
 8r	.
-!LO:TX:a:i:t=cresc.	!
 4En 4g#X [4aa-X	.
 8aa-_	.
 4aa-_	.
@@ -2042,11 +1975,9 @@
 16GG 16E-_ 16d- 16dd-_	.
 16BB- 16E-_ 16B- 16dd-]	.
 16AA- 16E-] 16c 16cc	.
-!LO:TX:b:i:t=cresc.	!
 16FFn 16c 16a-X [16ee-X	.
 16GGJJ 16B- 16b- 16ee-_	.
 =126	=126
-!LO:TX:a:t=rit.	!
 4BB- 4E- 4d- 4g 4ee-]	.
 8BB-' 8E- 8d- 8g 8ee-	.
 8BB-'L 8E- 8d- 8g 8ee-	.

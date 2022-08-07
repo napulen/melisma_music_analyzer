@@ -1,6 +1,3 @@
-!!!COM: Music21
-!!!OTL: score.mxl
-!!!OMV: score.mxl
 **kern
 *I"Score
 *clefG2
@@ -57,7 +54,6 @@
 [24GL 24B
 24G_
 24EJJ 24G]
-!!linebreak:original
 =3
 [24GLL 24A
 24G_ 24c#X
@@ -108,7 +104,6 @@
 [24C#XL 24g
 24C#_ 24c#X
 24C#JJ] 24d
-!!linebreak:original
 =5
 24DLL [24f#
 24c#X 24f#_
@@ -159,7 +154,6 @@
 [24G#XL 24fn
 24G#_ 24d
 24G#JJ] 24B
-!!linebreak:original
 =7
 24ALL [24c
 24c_
@@ -210,7 +204,6 @@
 [24D#XL 24cc
 24D#_ 24a
 24D#JJ] 24f#
-!!pagebreak:original
 =9
 24ELL [24g
 24d#X 24g_
@@ -261,7 +254,6 @@
 [24C#XL 24a
 24C#_ 24cc#X
 24C#JJ] 24ee
-!!linebreak:original
 =11
 24DLL [24ff#
 24F# 24ff#_
@@ -312,7 +304,6 @@
 [24dL 24g
 24d_ 24a
 24dJJ] 24cc#X
-!!linebreak:original
 =13
 24DLL [24ee
 24F# 24ee_
@@ -363,7 +354,6 @@
 24C#XL 24gg
 24AA 24ff#X
 24GGJJ 24ee
-!!linebreak:original
 =15
 24FF#LL 24ee
 24AA 24ff#
@@ -414,7 +404,6 @@
 24BL 24gg
 24G 24ee
 24EJJ 24cc
-!!linebreak:original
 =17
 [24cLL 24a
 24c_ 24cc

@@ -1,13 +1,9 @@
-!!!COM: Music21
-!!!OTL: op95_no11_mov3.mxl
-!!!OMV: op95_no11_mov3.mxl
 **kern	**dynam
 *I"1st Violin	*
 *clefG2	*
 *k[b-e-a-d-]	*
 *M3/4	*
 =1	=1
-!LO:TX:a:B:t=Allegro assai vivace ma serioso	!
 8Bn 8f 8a- 8ddn	.
 16r	.
 16Bn 16f 16a- 16dd	.
@@ -38,7 +34,6 @@
 4.CC 4.C 4.G 4.e- 4.ddn	.
 8cc	.
 =7	=7
-!LO:TX:a:i:t=cresc.	!
 [8FFL 8b-	.
 16FFL_ [16c [16f	.
 16FFJJ] 16c] 16f] 16a-	.
@@ -99,7 +94,6 @@
 4.F 4.A- 4.g 4.cc	.
 8f'	.
 =15	=15
-!LO:TX:a:i:t=cresc.	!
 [8BB-L 8e-	.
 16BB-L_ [16f [16dd-	.
 16BB-JJ] 16d- 16f] 16dd-]	.
@@ -368,7 +362,6 @@
 8D-L_ [8A- 8d- [8bn	.
 8D-'J] 8A-] 8f 8b]	.
 =50	=50
-!LO:TX:b:i:t=dol.	!
 [8GG-X'L [8G-X 8g-X [8b-	.
 8GG-'J] 8G-] 8b-] 8dd-	.
 8dd-L	.
@@ -578,7 +571,6 @@
 8DL_ 8F#_ 8d 8a_	.
 8DJ] 8F#] 8a]	.
 =80	=80
-!LO:TX:a:i:t=cresc.	!
 [8DL [8F# [8a	.
 8DJ_ 8F#_ 8a_	.
 8DL_ 8F#_ 8a_	.
@@ -650,7 +642,6 @@
 8BBJ] 8E] 8G] 8e] 8cc#] 8gg	.
 =90	=90
 [8FF#L [8B [8dd	.
-!LO:TX:a:i:t=dim.	!
 8FF#'J_ 8B_ 8dd_ 8ff#	.
 8FF#L_ 8B_ 8dd_ 8ff#	.
 8FF#J_ 8B_ 8dd_	.
@@ -762,7 +753,6 @@
 4.Cn 4.G 4.e-X 4.ddn	.
 8ccn	.
 =110	=110
-!LO:TX:a:i:t=cresc.	!
 [8FFnL 8b-X	.
 16FFL_ [16cn [16fn	.
 16FFJJ] 16c] 16f] 16a-X	.
@@ -825,7 +815,6 @@
 8f	.
 =118	=118
 [8BB-L 8e-	.
-!LO:TX:a:i:t=cresc.	!
 16BB-L_ [16f [16dd-	.
 16BB-JJ] 16d- 16f] 16dd-]	.
 [8BB-L 8c	.
@@ -1300,7 +1289,6 @@
 16EnJJ 16en 16bb_	.
 4En 4en 4bb]	.
 =183	=183
-!LO:TX:a:i:t=cresc.	!
 8EEnL [8ccc	.
 16cccL_	.
 16DDJJ 16ccc_	.
@@ -1312,7 +1300,6 @@
 16CJJ 16en 16g 16ccc]	.
 =184||	=184||
 *k[b-e-a-d-]	*
-!LO:TX:a:B:t=Più Allegro	!
 [8FFL [8C 8f 8a- 8ccc	.
 16FFL_ 16C_	.
 16FFJJ] 16C] 16F 16aa- 16ccc	.

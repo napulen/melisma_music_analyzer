@@ -1,12 +1,8 @@
-!!!COM: Robert Schumann
-!!!OTL: Dichterliebe, Op.48
-!!!OMV: Aus meinen Tränen spriessen
 **kern	**dynam
 *I"Voice	*
 *clefG2	*
 *k[f#c#g#]	*
 *M2/4	*
-!LO:TX:a:B:t=Nicht schnell	!LO:DY:a
 [8a [8cc#	p
 =1	=1
 8aL] 8cc#_	.
@@ -96,10 +92,7 @@
 =15	=15
 8.d^L [8.e 8.g# 8.b	.
 16EJk 16e_ 16cc#	.
-!LO:TX:a:i:t=dim.	!
-!LO:TX:a:B:t=T	!
 [8.AL [8.c# 8.e_ [8.a	.
-!LO:TX:a:B:t=T	!
 16AJk] 16c#] 16e] 16a] 16cc#	.
 =16	=16
 [4d [4e [4g# [4b	.
@@ -111,4 +104,3 @@
 8r	.
 ==	==
 *-	*-
-!!!YEM: OpenScore (CC0)

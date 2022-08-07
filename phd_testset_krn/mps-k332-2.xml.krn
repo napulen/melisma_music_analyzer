@@ -1,6 +1,3 @@
-!!!COM: Wolfgang Amadeus Mozart
-!!!OTL: Piano Sonata no. 12 in F major
-!!!OMV: Adagio
 **kern	**dynam
 *clefG2	*
 *k[b-e-]	*
@@ -15,7 +12,6 @@
 16fJ 16dd_	.
 16dL 16dd]	.
 16fJJ 16cc 16dd 16ee-	.
-!LO:TX:b:i:t=simile	!
 16ALL [16een	.
 16fJ 16ee_	.
 16cL 16ee]	.
@@ -41,7 +37,6 @@
 16B-'J 16ff]	.
 16FL	.
 16B-JJ	.
-!!linebreak:original
 =3	=3
 16E-LL [16gg	.
 16GJ 16gg_	.
@@ -79,7 +74,6 @@
 16FJ] 16A] 16c] 16ff	.
 16ee-L	.
 16ccJJ	.
-!!linebreak:original
 =5	=5
 16B-LL [16b-	.
 16fJ 16b-_	.
@@ -114,7 +108,6 @@
 16B-'J 16ff]	.
 16FL	.
 16B-JJ	.
-!!pagebreak:original
 =7	=7
 16CLL 16een [16ddd-X	sf
 16B-J 16ddd-_	.
@@ -132,7 +125,6 @@
 16GJ [16ee-X	.
 16D-XL 16ee-]	.
 16GJJ 16dd-X	.
-!!linebreak:original
 =8	=8
 16CLL [16cc	.
 16A-XJ 16cc_	.
@@ -151,7 +143,6 @@
 [16GL 16B-	.
 16GJJ] 16c	.
 =9	=9
-!	!LO:DY:a
 [16EnLL 16G [16b-	p
 16EJ] 16c 16b-]	.
 16cL	.
@@ -169,7 +160,6 @@
 16FJ] 16c	.
 [16GL 16B-	.
 16GJJ] 16c	.
-!!linebreak:original
 =10	=10
 [16EnLL 16G [16b-	.
 16EJ] 16c 16b-]	.
@@ -205,7 +195,6 @@
 16GTJ_ 16B-] 16b-	p
 16GL_ [16en 16cc	.
 16GJJ] 16e] 16dd	.
-!!pagebreak:original
 =12	=12
 [24ALL [24fn 24cc	.
 48AL_ 48f_ [48b-	.
@@ -246,7 +235,6 @@
 16FJ] 16c	.
 [16GL 16B-	.
 16GJJ] 16c	.
-!!linebreak:original
 =14	=14
 [16EnLL 16G [16b-	.
 16EJ] 16c 16b-]	.
@@ -282,7 +270,6 @@
 16GTJ_ 16B-] 16b-	.
 16GL_ [16en 16cc	.
 16GJJ] 16e] 16dd	.
-!!linebreak:original
 =16	=16
 [24ALL [24fn 24cc	.
 48AL_ 48f_ [48ff	.
@@ -310,7 +297,6 @@
 [32ent 32gg	.
 64eL_ 64ff#X	.
 64eJJJJ] 64gg	.
-!!pagebreak:original
 =17	=17
 [16cccLL	.
 [32AL 32ccc]	.
@@ -336,7 +322,6 @@
 32ffn'	.
 32een'	.
 32dd'JJJ	.
-!!linebreak:original
 =18	=18
 16CLL [16cc	.
 16AJ 16cc]	.
@@ -359,7 +344,6 @@
 16B-TJ 16g_	.
 16EntL 16g_	.
 16B-TJJ 16g]	.
-!!linebreak:original
 =19	=19
 [16FLL 16A [16f	.
 16FJ_ 16c 16f]	.
@@ -379,7 +363,6 @@
 16FJ_ 16d] 16bb-	.
 16FL_ [16B- 16aa	.
 16FJJ] 16B-] 16gg	.
-!!pagebreak:original
 =20	=20
 [16FLL 16A [16ff 16gg	.
 16FJ_ 16G 16B- 16ff]	.
@@ -401,7 +384,6 @@
 32ee-X	.
 32dd	.
 32ccJJJ	.
-!!linebreak:original
 =21	=21
 16B-LL [16b-	.
 16fJ 16b-_	.
@@ -411,7 +393,6 @@
 16fJ 16dd_	.
 16dL 16dd]	.
 16fJJ 16cc 16dd 16ee-	.
-!LO:TX:b:i:t=simile	!
 16ALL [16een	.
 16fJ 16ee_	.
 16cL 16ee]	.
@@ -437,7 +418,6 @@
 16B-'J 16ff]	.
 16FL	.
 16B-JJ	.
-!!linebreak:original
 =23	=23
 16E-LL [16gg	.
 16GJ 16gg_	.
@@ -477,7 +457,6 @@
 16FJ] 16A] 16c] 16ff	.
 16ee-L	.
 16cc#XJJ	.
-!!pagebreak:original
 =25	=25
 16B-LL [16b-	.
 16fJ 16b-_	.
@@ -512,7 +491,6 @@
 16B-'J 16ff]	.
 16FL	.
 16B-JJ	.
-!!linebreak:original
 =27	=27
 16CLL 16een [16ddd-X	sf
 16B-J 16ddd-_	.
@@ -530,7 +508,6 @@
 16GJ [16ee-X	.
 16D-XL 16ee-]	.
 16GJJ 16dd-X	.
-!!linebreak:original
 =28	=28
 16CLL [16cc	.
 16A-XJ 16cc_	.
@@ -540,7 +517,6 @@
 16B-J 16f]	.
 16GL [16en 16a-X	.
 16B-JJ 16e] 16g	.
-!	!LO:DY:a
 [16FLL 16An [16f	p
 16FJ] 16f_	.
 16fL_	.
@@ -550,7 +526,6 @@
 [16cL 16e-X	.
 16cJJ] 16f	.
 =29	=29
-!	!LO:DY:a
 [16ALL 16c [16ee-	p
 16AJ] 16f 16ee-]	.
 16fL	.
@@ -568,7 +543,6 @@
 16B-J] 16f	.
 [16cL 16e-	.
 16cJJ] 16f	.
-!!pagebreak:original
 =30	=30
 [16ALL 16c [16ee-	.
 16AJ] 16f 16ee-]	.
@@ -604,7 +578,6 @@
 16cTJ_ 16e-] 16ee-	p
 16cL_ [16a 16ff	.
 16cJJ] 16a] 16gg	.
-!!linebreak:original
 =32	=32
 [24dLL [24b- 24ff	.
 48dL_ 48b-_ [48ee-	.
@@ -627,7 +600,6 @@
 16B-J] 16f	.
 [16cnL 16e-	.
 16cJJ] 16f	.
-!!linebreak:original
 =33	=33
 [16ALL 16c [16ee-	.
 16AJ] 16f 16ee-]	.
@@ -664,7 +636,6 @@
 16aJ 16cc 16aa 16ccc	.
 16gL 16b- 16gg 16bb-	.
 16f#XJJ 16a 16ff#X 16aa	.
-!!pagebreak:original
 =35	=35
 16gLL 16b- 16gg 16bb-	.
 16fnJ 16a 16ffn 16aa	.
@@ -682,7 +653,6 @@
 16cTJ_ 16e-] 16ee-	p
 16cL_ [16a 16ff	.
 16cJJ] 16a] 16gg	.
-!!linebreak:original
 =36	=36
 [24dLL [24b- 24ff	.
 48dL_ 48b-_ [48bb-	.
@@ -710,7 +680,6 @@
 [32At 32cc	.
 64AL_ 64bn	.
 64AJJJJ] 64cc	.
-!!linebreak:original
 =37	=37
 [16ffLL	.
 [32DL 32ff]	.
@@ -737,7 +706,6 @@
 32ee-	.
 32dd	.
 32ccJJJ	.
-!!pagebreak:original
 =38	=38
 16FLL 16f [16ff	.
 16dJ 16ff_	.
@@ -774,7 +742,6 @@
 16B-J_ 16g] 16ee-	.
 16B-L_ [16e- 16dd	.
 16B-JJ] 16e-] 16cc	.
-!!linebreak:original
 =40	=40
 [16B-'LL 16b-	.
 16B-J_ 16d 16fn	.

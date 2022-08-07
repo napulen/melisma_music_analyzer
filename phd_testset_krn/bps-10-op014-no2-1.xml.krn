@@ -1,13 +1,8 @@
-!!!COM: Music21
-!!!OTL: bps_10_01.mxl
-!!!OMV: bps_10_01.mxl
 **kern	**dynam
 *clefG2	*
 *k[f#]	*
 *G:	*
 *M2/4	*
-!LO:TX:a:B:t=Allegro	!
-!LO:TX:b:t=p legato	!
 16r	.
 16dLL	.
 16dd	.
@@ -85,7 +80,6 @@
 16DL [16dd	.
 16BBJJ 16dd]	.
 =9	=9
-!LO:TX:b:t=cresc.	!
 16GGLL [16dd	.
 16BB'J 16dd]	.
 16DL [16dd	.
@@ -108,7 +102,6 @@
 16CJ	.
 16F#L	.
 16CJJ 16dd	.
-!LO:TX:b:t=cresc.	!
 16AA'LL 16dd	.
 16C'J 16dd	.
 16F#'L 16dd	.
@@ -135,7 +128,6 @@
 =14	=14
 16CLL [16b	.
 16EJ 16b]	.
-!LO:TX:b:t=cresc.	!
 16AL [16a	.
 16EJJ 16a_	.
 16C#XLL 16a_	.
@@ -376,7 +368,6 @@
 16AL 16e [16cc#X [16gg	.
 16aJJ 16cc#] 16gg]	.
 =39	=39
-!LO:TX:b:t=cresc.	!
 16dLL 16f# [16dd [16ff#	.
 16ddJ] 16ff#]	.
 16eL 16g [16ddd	.
@@ -416,7 +407,6 @@
 32g#_ 32b_ 32dd_ 32ff_ 32eee	.
 32g#_ 32b_ 32dd_ 32ff_ 32ddd	.
 32g#JJ] 32b] 32dd] 32ff] 32ccc#X	.
-!LO:TX:b:t=cresc.	!
 32dddLL	.
 32eee	.
 32fffn	.
@@ -470,7 +460,6 @@
 [4AA 4A 4d 4f#	sf
 4AA] 4G 4c#X 4e	.
 =47	=47
-!LO:TX:b:t=p dolce	!
 [16DLL [16F# 16d	.
 16DJ] 16F#] 16A	.
 16dL 16f#	.
@@ -552,7 +541,6 @@
 16AAL_ 16c#X [16gn	.
 16AAJJ_ 16A 16g]	.
 =56	=56
-!LO:TX:b:t=cresc.	!
 16AALL_ [16d [16f#	.
 16AAJ] 16A 16d_ 16f#_	.
 [16AA#XL 16d_ 16f#_	.
@@ -744,7 +732,6 @@
 16fnL 16cc] 16ee-]	.
 16bJJ 16dd	.
 =79	=79
-!LO:TX:b:t=dim.	!
 [16ccLL [16ee-X	.
 16F#J 16cc_ 16ee-_	.
 16f#L 16cc] 16ee-]	.
@@ -1044,10 +1031,8 @@
 48BB-J_ [48G 48dd]	.
 24BB-JJ] 24G] 24b-X	.
 =98	=98
-!LO:TX:a:B:t=49	!
 4BB-X; 4A-X 4b-X 4dd 4ffn	.
 16r	.
-!LO:TX:a:B:t=98	!
 16b-XLL	p
 16bb-X	.
 16ff#XJJ	.
@@ -1100,7 +1085,6 @@
 [16ggLL	.
 16BnJ 16gg_	.
 16dL 16gg]	.
-!LO:TX:b:t=cresc.	!
 16f#JJ 16ffn	.
 16ee-XLL	.
 16cJ 16dd	.
@@ -1244,7 +1228,6 @@
 32D_ 32c#_ 32aa	.
 32DJJJ_ 32c#] 32gg	.
 =114	=114
-!LO:TX:b:t=dim.	!
 32DLLL_ [32d 32ff#	.
 32D_ 32d_ 32aa	.
 32D_ 32d_ 32gg	.
@@ -1326,7 +1309,6 @@
 48aJ] [48gg#X	.
 24ccJJ 24gg#]	.
 =119	=119
-!LO:TX:b:t=cresc.	!
 24dLL [24aa	.
 [48a'`L 48aa]	.
 *clefF4	*
@@ -1394,9 +1376,7 @@
 =124	=124
 16bn'`LL	.
 16cc'`J	.
-!LO:TX:a:B:t=49	!
 8.cc#X;J	sf
-!LO:TX:a:B:t=98	!
 16dLL	p
 16dd	.
 16a#XJJ	.
@@ -1473,7 +1453,6 @@
 16DL [16dd	.
 16BBJJ 16dd]	.
 =133	=133
-!LO:TX:b:t=cresc.	!
 16GGLL [16dd	.
 16BB'J 16dd]	.
 16DL [16dd	.
@@ -1495,7 +1474,6 @@
 16GGLL	.
 16CJ	.
 16F#L	.
-!LO:TX:b:t=cresc.	!
 16CJJ 16dd	.
 16GG'LL 16dd	.
 16C'J 16dd	.
@@ -1532,7 +1510,6 @@
 16DLL	.
 16FnJ	.
 16BL	.
-!LO:TX:b:t=cresc.	!
 16FnJJ 16gg	.
 16D'LL 16gg	.
 16Fn'J 16gg	.
@@ -1549,7 +1526,6 @@
 16c'`L 16ffn	.
 16G'`JJ 16ee	.
 =141	=141
-!LO:TX:b:t=cresc.	!
 16FnLL [16ee	.
 16AJ 16ee]	.
 16dL [16dd	.
@@ -1792,7 +1768,6 @@
 16aL 16cc [16ff# [16ccc	.
 16dJJ 16ff#] 16ccc]	.
 =166	=166
-!LO:TX:b:t=cresc.	!
 16gLL [16gg [16bb	.
 16bJ 16gg] 16bb]	.
 16aL [16gg	.
@@ -1828,7 +1803,6 @@
 32gg	.
 32ff#JJJ	.
 =169	=169
-!LO:TX:b:t=cresc.	!
 [32c#XLLL [32e [32g [32b-X 32gg	.
 32c#_ 32e_ 32g_ 32b-_ 32aa	.
 32c#_ 32e_ 32g_ 32b-_ 32gg	.
@@ -1887,7 +1861,6 @@
 [4DD 4D 4G 4B	sf
 4DD] 4C 4F# 4A	.
 =174	=174
-!LO:TX:b:t=p dolce	!
 [16GGLL [16BB 16G	.
 16GGJ] 16BB] 16D	.
 16GL 16B	.
@@ -1969,7 +1942,6 @@
 16DDL_ 16F# [16cn	.
 16DDJJ_ 16D 16c]	.
 =183	=183
-!LO:TX:b:t=cresc.	!
 16DDLL_ [16G [16B	.
 16DDJ] 16D 16G_ 16B_	.
 [16DD#XL 16G_ 16B_	.
@@ -1992,7 +1964,6 @@
 16CCJ_ 16E 16e_	.
 16CCL_ 16G 16e_	.
 16CCJJ] 16E 16e]	.
-!LO:TX:b:t=dim.	!
 [16CC#XLL 16G [16A	.
 16CC#J_ 16E 16A_	.
 16CC#L_ 16G 16A_	.
@@ -2016,7 +1987,6 @@
 16GGL_ 16BB_ 16D_ 16dd	.
 16GGJJ] 16BB] 16D] 16a#X	.
 =188	=188
-!LO:TX:b:t=cresc.	!
 [8bL	.
 [16GGL 16b_	.
 16GGJJ_ [16D 16b_	.
@@ -2033,7 +2003,6 @@
 16GGL_ 16C_ 16E_ 16ccc	.
 16GGJJ] 16C] 16E] 16bb	.
 =190	=190
-!LO:TX:b:t=rinf.	!
 [8aaL	.
 [16GGL 16aa]	.
 16GGJJ_ [16D 16gg	.
@@ -2050,7 +2019,6 @@
 16GGL_ 16D_ 16G_ 16dd	.
 16GGJJ] 16D] 16G] 16a#X	.
 =192	=192
-!LO:TX:b:t=cresc.	!
 [8bL	.
 [16GGL 16b_	.
 16GGJJ_ [16D 16b_	.

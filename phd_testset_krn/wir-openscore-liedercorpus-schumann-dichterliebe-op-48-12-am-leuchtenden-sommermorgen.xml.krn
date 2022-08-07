@@ -1,13 +1,9 @@
-!!!COM: Robert Schumann
-!!!OTL: Dichterliebe, Op.48
-!!!OMV: Am leuchtenden Sommermorgen
 **kern	**dynam
 *I"Voice	*
 *clefG2	*
 *k[b-e-]	*
 *M6/8	*
 =1	=1
-!LO:TX:a:B:t=Ziemlich langsam.	!
 [16GG-XLL	.
 16GG-_ [16b-	.
 16GG-_ 16en 16b-_	.
@@ -216,7 +212,6 @@
 16AA-_ 16B- 16b-]	.
 16AA-JJ] 16F#X	.
 =17	=17
-!LO:TX:a:B:t=langsamer	!
 [16GGLL [16bn	pp
 16GG_ 16b_	.
 16GG_ 16g 16b_	.
@@ -243,9 +238,7 @@
 16G_ 16d 16cc_	.
 16GJJ] 16c 16cc]	.
 =19	=19
-!LO:TX:a:Bi:t=ritard.	!
 *MM52.5	*
-!LO:TX:t=[quarter-dot]=35	!
 [16GGLL [16b-	.
 16GG_ 16b-_	.
 16GG_ 16g 16b-_	.
@@ -260,7 +253,6 @@
 16G-JJ] 16en 16cc	.
 =20	=20
 *MM67.5	*
-!LO:TX:t=[quarter-dot]=45	!
 [16FFLL [16cc	.
 16FF_ 16cc_ [16ff	.
 16FF_ 16cc_ 16ff_	.
@@ -394,4 +386,3 @@
 4.BB-; 4.D] 4.F] 4.B-	.
 ==	==
 *-	*-
-!!!YEM: OpenScore (CC0)
