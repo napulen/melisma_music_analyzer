@@ -1,0 +1,575 @@
+!!!COM: Franz Schubert
+!!!OTL: Schwanengesang
+!!!OMV: Der Atlas
+**kern	**dynam
+*I"Voice	*
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:B:t=Etwas geschwind	!
+[32GGGLLL [32GG 32G 32B-	.
+32GGG_ 32GG_ 32d	.
+32GGG_ 32GG_ 32G 32B-	.
+32GGGJJ_ 32GG_ 32d	.
+32GGGLL_ 32GG_ 32G 32B-	.
+32GGG_ 32GG_ 32d	.
+32GGG_ 32GG_ 32G 32B-	.
+32GGGJJJ] 32GG] 32d	.
+[32GGGLLL [32GG 32G 32B-	.
+32GGG_ 32GG_ 32d	.
+32GGG_ 32GG_ 32G 32B-	.
+32GGGJJ_ 32GG_ 32d	.
+32GGGLL_ 32GG_ 32G 32B-	.
+32GGG_ 32GG_ 32d	.
+32GGG_ 32GG_ 32G 32B-	.
+32GGGJJJ] 32GG] 32d	.
+32GLLL 32B-	.
+32d	.
+32G 32B-	.
+32dJJ	.
+32GLL 32B-	.
+32d	.
+[32BBB- [32BB- 32G 32B-	.
+32BBB-JJJ] 32BB-] 32d	.
+=2	=2
+[32FFF#XLLL [32FF#X 32F#X 32B-	.
+32FFF#_ 32FF#_ 32d	.
+32FFF#_ 32FF#_ 32F#X 32B-	.
+32FFF#JJ_ 32FF#_ 32d	.
+32FFF#LL_ 32FF#_ 32F#X 32B-	.
+32FFF#_ 32FF#_ 32d	.
+32FFF#_ 32FF#_ 32F#X 32B-	.
+32FFF#JJJ] 32FF#] 32d	.
+4GGG 4GG 4G 4B-	.
+[8.dL	.
+16BBB-Jk 16BB- 16d]	.
+=3	=3
+[32FFF#XLLL [32FF#X 32F#X 32B-	.
+32FFF#_ 32FF#_ 32d	.
+32FFF#_ 32FF#_ 32F#X 32B-	.
+32FFF#JJ_ 32FF#_ 32d	.
+32FFF#LL_ 32FF#_ 32F#X 32B-	.
+32FFF#_ 32FF#_ 32d	.
+32FFF#_ 32FF#_ 32F#X 32B-	.
+32FFF#JJJ] 32FF#] 32d	.
+4GGG 4GG 4G 4B-	.
+[8.dL	.
+16DDJk 16d]	.
+=4	=4
+4GGG 4GG [4G [4B-	.
+[8GGGL [8GG 8G] 8B-]	.
+8GGGJ] 8GG] [8d	.
+8.dL_	.
+!	!LO:DY:a
+16DDJk 16d]	mf
+=5	=5
+[4.GGG [4.GG 4.G 4.B- [4.g	.
+16GGGLL_ 16GG_ [16d 16g]	.
+16GGGJJ] 16GG] 16d_ 16g	.
+8.GGGL 8.GG 8.d_ 8.g	.
+16BBB-Jk 16BB- 16d] 16b-	.
+=6	=6
+4FFF#X 4FF#X [4A [4c 4f#X	.
+[8FFF#XL [8FF#X 8A] 8c] [8f#	.
+8FFF#J] 8FF#] [8d 8f#]	.
+8.dL_	.
+16DDJk 16d]	.
+=7	=7
+[4.GGG [4.GG 4.G 4.B- [4.g	.
+16GGGLL] 16GG] [16d 16g]	.
+16GGGJJ 16GG 16d_ 16dd	.
+8.GGGL 8.GG 8.d_ 8.b-	.
+16BBB-Jk 16BB- 16d] 16g	.
+=8	=8
+4FFF#X 4FF#X [4A [4c 4f#X	.
+[8FFF#XL [8FF#X 8A] 8c] [8f#	.
+8FFF#J] 8FF#] [8d 8f#]	.
+8.dL_	.
+16DDJk 16d]	.
+=9	=9
+[4.BBB- [4.BB- 4.G 4.B- [4.b-	.
+8BBB-] 8BB-] [8d 8b-]	.
+4GGG 4GG 4d] 4g	.
+=10	=10
+[4EE- [4E- 4G 4A [4ee-	.
+8.EE-L] 8.E-] [8.c 8.ee-]	.
+16DDJk 16D 16c] 16dd	.
+[32CCLLL [32C 32G 32B- [32cc	.
+32CC_ 32C_ 32d 32cc_	.
+32CC_ 32C_ 32G 32B- 32cc_	.
+32CCJJ_ 32C_ 32d 32cc_	.
+32CCLL_ 32C_ 32G 32B- 32cc_	.
+32CC] 32C] 32d 32cc]	.
+[32BBB- [32BB- 32G 32B- [32b-	.
+32BBB-JJJ] 32BB-] 32d 32b-]	.
+=11	=11
+[4AAA [4AA 4G 4c 4a	.
+4AAA] 4AA] 4e- 4a	.
+[32DDLLL [32D 32F#X 32c [32dd	.
+32DD_ 32D_ 32d 32dd_	.
+32DD_ 32D_ 32F#X 32c 32dd_	.
+32DDJJ_ 32D_ 32d 32dd_	.
+32DDLL_ 32D_ 32F#X 32c 32dd_	.
+32DD] 32D] 32d 32dd]	.
+[32DD [32D 32F#X 32c [32dd	.
+32DDJJJ] 32D] 32d 32dd]	.
+=12	=12
+[4GGG [4GG 4G 4B- 4b-	.
+8.GGGL] 8.GG] [8.d 8.g	.
+16GGGJk 16GG 16d] 16g	.
+[32EE-LLL [32E- 32G 32A [32ee-	.
+32EE-_ 32E-_ 32c 32ee-_	.
+32EE-_ 32E-_ 32G 32A 32ee-_	.
+32EE-JJ_ 32E-_ 32c 32ee-_	.
+32EE-LL_ 32E-_ 32G 32A 32ee-_	.
+32EE-] 32E-] 32c 32ee-]	.
+[32EE- [32E- 32G 32A [32ee-	.
+32EE-JJJ] 32E-] 32c 32ee-]	.
+=13	=13
+[4AAA [4AA 4G 4c [4a	.
+4AAA] 4AA] 4e- 4a]	.
+[32DDLLL [32D 32F#X 32c [32dd	.
+32DD_ 32D_ 32d 32dd_	.
+32DD_ 32D_ 32F#X 32c 32dd_	.
+32DDJJ_ 32D_ 32d 32dd_	.
+32DDLL_ 32D_ 32F#X 32c 32dd_	.
+32DD] 32D] 32d 32dd]	.
+[32DD [32D 32F#X 32c [32dd	.
+32DDJJJ] 32D] 32d 32dd]	.
+=14	=14
+4GGG 4GG [4G [4B- 4b-	.
+[8GGGL [8GG 8G] 8B-] [8g	.
+8GGGJ] 8GG] [8d 8g]	.
+8.dL_	.
+16BBB-Jk 16BB- 16d]	.
+=15	=15
+[32FFF#XLLL [32FF#X 32F#X 32B-	.
+32FFF#_ 32FF#_ 32d	.
+32FFF#_ 32FF#_ 32F#X 32B-	.
+32FFF#JJ_ 32FF#_ 32d	.
+32FFF#LL_ 32FF#_ 32F#X 32B-	.
+32FFF#_ 32FF#_ 32d	.
+32FFF#_ 32FF#_ 32F#X 32B-	.
+32FFF#JJJ] 32FF#] 32d	.
+4GGG 4GG 4G 4B-	.
+[8dL	.
+8GGGJ 8GG 8d] 8g	.
+=16	=16
+4.GGG 4.GG 4.G 4.B- 4.g	.
+8GGG 8GG [8d 8g	.
+8GGGL 8GG 8d_ 8g	.
+8GGGJ 8GG 8d] 8g	.
+=17	=17
+8.GGG#XL 8.GG#X [8.Fn [8.Bn 8.g#X	.
+16GGG#XJk 16GG#X 16F_ 16B_ 16g#	.
+[8GGG#XL [8GG#X 8F] 8B] [8g#X	.
+8GGG#J] 8GG#] [8d 8g#]	.
+8dL_	.
+8GGG#XJ 8GG#X 8d] 8g#X	.
+=18	=18
+8.GGG#XL 8.GG#X [8.F [8.Bn 8.g#X	.
+16AAA#XJk 16AA#X 16F] 16B] 16a#X	.
+8BBBnL 8BBn [8d 8bn	.
+[16CC#XL [16C#X 16d_ 16cc#X	.
+16CC#JJ] 16C#] 16d] 16cc#	.
+[32DDLLL [32D 32G#X 32Bn [32dd	.
+32DD_ 32D_ 32d 32dd_	.
+32DD_ 32D_ 32G#X 32Bn 32dd_	.
+32DDJJ] 32D] 32d 32dd]	.
+[32EE#XLL [32E#X 32G#X 32Bn [32ee#X	.
+32EE#_ 32E#_ 32d 32ee#_	.
+32EE#_ 32E#_ 32G#X 32Bn 32ee#_	.
+32EE#JJJ] 32E#] 32d 32ee#]	.
+=19	=19
+4FFF#X 4F#X 4Bn [4ff#X	.
+4FF#X 4c#X 4ff#_	.
+32FFF#XLLL 32F#X 32A#X 32ff#_	.
+32FF#X 32c#X 32ff#_	.
+32FFF#X 32F#X 32A#X 32ff#_	.
+32FF#XJJ 32c#X 32ff#_	.
+32FFF#XLL 32F#X 32A#X 32ff#_	.
+32FF#X 32c#X 32ff#_	.
+32FFF#X 32F#X 32A#X 32ff#_	.
+32FF#XJJJ 32c#X 32ff#]	.
+=20	=20
+[4BBBn [4D [4F#X 4bn	.
+8BBBL] 8D] 8F#]	.
+[8BBnJ [8Bn	.
+4BB] 4B]	.
+=21	=21
+4.BBBn 4.En 4.G 4.A#X	.
+4.BBn 4.c#X	.
+=22	=22
+[12BBBnL [12BBn	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12B	.
+[12DD#XL [12D#X	.
+24DD#k] 24D#_ [24F#X [24Bn	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12Bn	.
+[12AAA#XL [12AA#X	.
+24AAA#k] 24AA#] [24D#X [24F#X [24Bn	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12Bn	.
+=23	=23
+[12BBBnL [12BBn	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12B	.
+[12DD#XL [12D#X	.
+24DD#k] 24D#_ [24F#X [24Bn	.
+24D#L] 24F#] 24B]	.
+[48D#XK [48F#X [48Bn	.
+!	!LO:DY:a
+16D#JJ] 16F#] 16B] 16f#X	mp
+[12AAA#XL [12AA#X [12d#X	.
+24AAA#k] 24AA#] [24D#X [24F#X [24Bn 24d#_	.
+24D#L] 24F#] 24B] 24d#_	.
+[48D#XK [48F#X [48Bn 48d#]	.
+16D#JJ] 16F#] 16B] 16f#X	.
+=24	=24
+!	!LO:DY:a
+[12BBBnL [12BBn [12bn	mf
+24BBBk] 24BB] [24D#X [24F#X [24Bn 24b_	.
+24D#K] 24F#] 24B] 24b_	.
+12D#XJ 12F#X 12Bn 12b_	.
+[12AAA#XL [12AA#X 12b_	.
+24AAA#k] 24AA#] [24D#X [24F#X [24Bn 24b_	.
+24D#K] 24F#] 24B] 24b_	.
+12D#XJ 12F#X 12Bn 12b]	.
+[12GGG#XL [12GG#X	.
+24GGG#k] 24GG#] [24D#X [24F#X [24Bn	.
+!	!LO:DY:a
+24D#K] 24F#] 24B] [24bn	mp
+12D#XJ 12F#X 12Bn 12b]	.
+=25	=25
+!	!LO:DY:a
+[12GGGnL [12GGn [12cc#X	mf
+24GGGk] 24GG] [24En [24G [24A#X [24c#X 24cc#_	.
+24EK] 24G] 24A#] 24c#] 24cc#_	.
+12EnJ 12G 12A#X 12c#X 12cc#_	.
+[12GGGL [12GG 12cc#_	.
+24GGGk] 24GG] [24En [24G [24A#X [24c#X 24cc#_	.
+24EL] 24G] 24A#] 24c#] 24cc#_	.
+[48EnK [48G [48A#X [48c#X 48cc#]	.
+16EJJ] 16G] 16A#] 16c#] 16cc#X	.
+!	!LO:DY:a
+[12FFF#XL [12FF#X [12a#X	mp
+24FFF#k] 24FF#] [24En [24F#X [24A#X [24c#X 24a#_	.
+24EL] 24F#] 24A#] 24c#] 24a#_	.
+[48EnK [48F#X [48A#X [48c#X 48a#]	.
+16EJJ] 16F#] 16A#] 16c#] 16f#X	.
+=26	=26
+[12BBBnL [12BBn [12bn	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn 24b_	.
+24D#K] 24F#] 24B] 24b_	.
+12D#XJ 12F#X 12Bn 12b]	.
+[12DD#XL [12D#X	.
+24DD#k] 24D#_ [24F#X [24Bn	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12Bn	.
+[12AAA#XL [12AA#X	.
+24AAA#k] 24AA#] [24D#X [24F#X [24Bn	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12Bn	.
+=27	=27
+[12BBBnL [12BBn	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12B	.
+[12DD#XL [12D#X	.
+24DD#k] 24D#_ [24F#X [24Bn	.
+24D#L] 24F#] 24B]	.
+[48D#XK [48F#X [48Bn	.
+16D#JJ] 16F#] 16B] 16f#X	.
+[12AAA#XL [12AA#X [12d#X	.
+24AAA#k] 24AA#] [24D#X [24F#X [24Bn 24d#_	.
+24D#L] 24F#] 24B] 24d#_	.
+[48D#XK [48F#X [48Bn 48d#]	.
+16D#JJ] 16F#] 16B] 16f#X	.
+=28	=28
+[12BBBnL [12BBn [12cc#X	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn 24cc#_	.
+24D#L] 24F#] 24B] 24cc#_	.
+[48D#XK [48F#X [48Bn 48cc#]	.
+16D#JJ] 16F#] 16B] 16bn	.
+[12AAA#XL [12AA#X [12b	.
+24AAA#k] 24AA#] [24D#X [24F##X [24Bn 24b_	.
+24D#K] 24F##] 24B] 24b_	.
+12D#XJ 12F##X 12Bn 12b]	.
+[12GGG#XL [12GG#X	.
+24GGG#k] 24GG#] [24D#X [24G#X [24Bn	.
+24D#K] 24G#] 24B] [24dd#X	.
+12D#XJ 12G#X 12Bn 12dd#]	.
+=29	=29
+!	!LO:DY:a
+[12GGGnL [12een	mf
+24GGGk] [24En [24G [24A#X [24c#X 24ee_	.
+24EK] 24G] 24A#] 24c#] 24ee_	.
+12EnJ 12G 12A#X 12c#X 12ee_	.
+[12GGGL [12GG 12ee_	.
+24GGGk] 24GG] [24En [24G [24A#X [24c#X 24ee_	.
+24EK] 24G] 24A#] 24c#] 24ee_	.
+12EnJ 12G 12A#X 12c#X 12ee]	.
+!	!LO:DY:a
+[12FFF#XL [12FF#X [12cc#X	mp
+24FFF#k] 24FF#] [24En [24F#X [24A#X [24c#X 24cc#]	.
+24EK] 24F#] 24A#] 24c#] [24a#X	.
+12EnJ 12F#X 12A#X 12c#X 12a#]	.
+=30	=30
+[12BBBnL [12BBn [12cc#X	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn 24cc#_	.
+24D#K] 24F#] 24B] 24cc#_	.
+12D#XJ 12F#X 12Bn 12cc#]	.
+[12BBBnL [12BBn [12bn	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn 24b]	.
+24D#K] 24F#] 24B]	.
+12D#XJ 12F#X 12Bn	.
+[12BBBnL [12BBn 12bn	.
+24BBBk] 24BB] [24D#X [24F#X [24Bn [24b	.
+24D#K] 24F#] 24B] 24b]	.
+12D#XJ 12F#X 12Bn 12bn	.
+=31	=31
+!	!LO:DY:a
+[12AAAnL [12AAn [12ccn	p
+24AAAk] 24AA] [24F#X [24c [24d#X 24cc_	.
+24F#K] 24c] 24d#] 24cc_	.
+12F#XJ 12c 12d#X 12cc_	.
+[12AAAL [12AA 12cc_	.
+24AAAk] 24AA] [24F#X [24c [24d#X 24cc_	.
+24F#K] 24c] 24d#] 24cc_	.
+12F#XJ 12c 12d#X 12cc]	.
+[12GGGL [12GG [12bn	.
+24GGGk] 24GG] [24G [24Bn [24en 24b_	.
+24GK] 24B] 24e] 24b_	.
+12GJ 12Bn 12en 12b]	.
+=32	=32
+[12FF#XL [12bn	.
+24FF#k] [24A [24Bn [24d#X 24b]	.
+24AK] 24B] 24d#] [24a	.
+12AJ 12Bn 12d#X 12a]	.
+[12EEnL [12g	.
+24EEk] [24G [24Bn [24en 24g_	.
+24GK] 24B] 24e] 24g_	.
+12GJ 12Bn 12en 12g]	.
+12EEn'L	.
+[24FF#Xk [24G [24Bn [24en	.
+24FF#'K] 24G] 24B] 24e] [24bn	.
+12GG'J 12G 12Bn 12en 12b]	.
+=33	=33
+[12AAAnL [12AAn [12cc	.
+24AAAk] 24AA] [24F#X [24cn [24d#X 24cc_	.
+24F#K] 24c] 24d#] 24cc_	.
+12F#XJ 12c 12d#X 12cc_	.
+[12AAAL [12AA 12cc_	.
+24AAAk] 24AA] [24F#X [24c [24d#X 24cc_	.
+24F#K] 24c] 24d#] 24cc_	.
+12F#XJ 12c 12d#X 12cc]	.
+[12GGGL [12GG [12bn	.
+24GGGk] 24GG] [24G [24Bn [24en 24b_	.
+24GK] 24B] 24e] 24b_	.
+12GJ 12Bn 12en 12b]	.
+=34	=34
+[12FF#XL [12bn	.
+24FF#k] [24A [24Bn [24d#X 24b]	.
+24AK] 24B] 24d#] [24a	.
+12AJ 12Bn 12d#X 12a]	.
+[12EEnL [12g	.
+24EEk] [24G [24Bn [24en 24g_	.
+24GK] 24B] 24e] 24g_	.
+12GJ 12Bn 12en 12g]	.
+[12EEnL	.
+12EE_ 12G 12Bn 12en	.
+48EEKL] [48G [48Bn [48e	.
+16FF#XJJ 16G] 16B] 16e]	.
+=35	=35
+[12GGL	.
+24GGk] [24G [24Bn [24en	.
+24GK] 24B] 24e]	.
+12GJ 12Bn 12e	.
+[12GGL	.
+24GGk] [24G [24Bn [24en	.
+24GK] 24B] 24e]	.
+12GJ 12Bn 12en	.
+[12GGGL [12GG [12bn	.
+12GGG_ 12GG_ 12G 12Bn 12en 12b_	.
+48GGGKL] 48GG] [48G [48Bn [48en 48b]	.
+16AAAJJ 16AA 16G] 16B] 16e] 16cc#X	.
+=36	=36
+[12BBB-L [12BB- [12dd	.
+24BBB-k] 24BB-] [24G [24B- [24d 24dd_	.
+24GK] 24B-] 24d] 24dd_	.
+12GJ 12B- 12d 12dd_	.
+[12BBB-L [12BB- 12dd_	.
+24BBB-k] 24BB-] [24G [24B- [24d 24dd_	.
+24GK] 24B-] 24d] 24dd_	.
+12GJ 12B- 12d 12dd]	.
+[12BBB-L [12BB- [12dd	.
+24BBB-k] 24BB-] [24G [24B- [24d 24dd_	.
+24GK] 24B-] 24d] 24dd_	.
+12GJ 12B- 12d 12dd]	.
+=37	=37
+[12CCL [12C [12gg	.
+24CCk] 24C] [24A [24e- [24g 24gg_	.
+24AK] 24e-] 24g] 24gg_	.
+12AJ 12e- 12g 12gg_	.
+[12CCL [12C 12gg_	.
+24CCk] 24C] [24A [24e- [24g 24gg]	.
+24AK] 24e-] 24g] [24ee-	.
+12AJ 12e- 12g 12ee-]	.
+[12CCL [12C [12cc	.
+24CCk] 24C] [24A [24e- [24g 24cc]	.
+24AK] 24e-] 24g] [24a	.
+12AJ 12e- 12g 12a]	.
+=38	=38
+[4DD 4A 4d [4dd	.
+8DDL] [8g 8dd_	.
+[8DJ 8g] 8dd_	.
+8DL_ 8A 8d 8dd_	.
+8DJ] 8f#X 8dd]	.
+=39	=39
+!	!LO:DY:a
+[16GGGLL [16GG 16A 16d [16g	f
+32GGGL_ 32GG_ 32G 32B- 32g_	.
+32GGGJJ_ 32GG_ 32d 32g_	.
+32GGGLL_ 32GG_ 32G 32B- 32g_	.
+32GGG_ 32GG_ 32d 32g_	.
+32GGG_ 32GG_ 32G 32B- 32g_	.
+32GGGJJJ] 32GG] 32d 32g]	.
+[4GGG [4GG 4G 4B-	.
+8.GGGL] 8.GG] [8.d	.
+!	!LO:DY:a
+16BBB-Jk 16BB- 16d] 16dd	mf
+=40	=40
+4FFF#X 4FF#X [4A [4c [4dd	.
+[8FFF#XL [8FF#X 8A] 8c] 8dd_	.
+16FFF#L_ 16FF#_ [16d 16dd]	.
+16FFF#JJ] 16FF#] 16d_ 16cc	.
+8.dL_ 8.b-	.
+16DDJk 16d] 16a	.
+=41	=41
+4GGG 4GG [4G [4B- 4b-	.
+[8GGGL [8GG 8G] 8B-] [8g	.
+8GGGJ_ 8GG_ [8d 8g]	.
+8.GGGL] 8.GG] 8.d_	.
+16BBB-Jk 16BB- 16d] 16ee-	.
+=42	=42
+4FFF#X 4FF#X [4A [4c [4dd	.
+[8FFF#XL [8FF#X 8A] 8c] 8dd_	.
+16FFF#L_ 16FF#_ [16d 16dd]	.
+16FFF#JJ] 16FF#] 16d_ 16cc	.
+8.dL_ 8.b-	.
+16DDJk 16d] 16a	.
+=43	=43
+4GGG 4GG [4G [4B- 4b-	.
+[8GGGL [8GG 8G] 8B-] [8g	.
+8GGGJ] 8GG] [8d 8g]	.
+8.dL_	.
+16BBB-Jk 16BB- 16d] 16g	.
+=44	=44
+[4EE- [4E- 4G 4A [4ee-	.
+8.EE-L] 8.E-] [8.c 8.ee-]	.
+16DDJk 16D 16c] 16dd	.
+[8CCL [8C 8G 8B- [8cc	.
+16CCL] 16C] [16d 16cc]	.
+16BBB-JJ 16BB- 16d] 16b-	.
+=45	=45
+[4AAA [4AA 4G 4c 4a	.
+4AAA] 4AA] 4e- 4a	.
+[8DDL [8D 8F#X 8c [8dd	.
+16DDL] 16D] [16d 16dd]	.
+16DDJJ 16D 16d] 16dd	.
+=46	=46
+[4GGG [4GG 4G 4B- 4b-	.
+8.GGGL_ 8.GG_ [8.d 8.g	.
+16GGGJk] 16GG] 16d] 16g	.
+[8EE-L [8E- 8G 8A [8ee-	.
+16EE-L] 16E-] [16c 16ee-]	.
+16EE-JJ 16E- 16c] 16ee-	.
+=47	=47
+[4AAA [4AA 4G 4c [4a	.
+4AAA] 4AA] 4e- 4a]	.
+[8DDL [8D 8F#X 8c [8dd	.
+16DDL] 16D] [16d 16dd]	.
+16DDJJ 16D 16d] 16dd	.
+=48	=48
+[4GGG [4GG [4G [4B- 4b-	.
+8GGGL_ 8GG_ 8G] 8B-] [8g	.
+8GGGJ] 8GG] [8d 8g]	.
+8dL_	.
+*MM90	*
+!LO:TX:t=[quarter]=90	!
+8GGGJ 8GG 8d] 8g	.
+=49	=49
+!LO:TX:a:B:t=.6	!
+*MM88	*
+!LO:TX:t=[quarter]=88	!
+4.GGG 4.GG 4.G 4.B- 4.g	.
+!LO:TX:a:B:t=.3	!
+*MM84	*
+!LO:TX:t=[quarter]=84	!
+8GGG 8GG [8d 8b-	.
+!LO:TX:a:B:t=.9	!
+*MM82	*
+!LO:TX:t=[quarter]=82	!
+8GGGL 8GG 8d_ 8dd	.
+!LO:TX:a:B:t=.4	!
+*MM81	*
+!LO:TX:t=[quarter]=81	!
+8GGGJ 8GG 8d] 8gg	.
+=50	=50
+*MM80	*
+!LO:TX:t=[quarter]=80	!
+4.AAA-X 4.A-X 4.B- 4.aa-X	.
+!LO:TX:a:B:t=.7	!
+*MM75	*
+!LO:TX:t=[quarter]=75	!
+[8AA-X [8d 8aa-	.
+!LO:TX:a:B:t=.3	!
+*MM74	*
+!LO:TX:t=[quarter]=74	!
+8AA-L_ 8d_ 8gg	.
+!LO:TX:a:B:t=.9	!
+*MM72	*
+!LO:TX:t=[quarter]=72	!
+8AA-J] 8d] 8ff#X	.
+=51	=51
+!LO:TX:a:B:t=.4	!
+*MM71	*
+!LO:TX:t=[quarter]=71	!
+4.GGG 4.G 4.B- [4.gg	.
+!LO:TX:a:B:t=.1	!
+*MM67	*
+!LO:TX:t=[quarter]=67	!
+4.GG 4.d 4.gg]	.
+=52	=52
+4GGG 4GG [4G [4B- 4g	.
+8GL] 8B-]	.
+[8dJ	.
+8.dL_	.
+16BBB-Jk 16BB- 16d]	.
+=53	=53
+[8FFF#XL [8FF#X 8F#X 8B-	.
+8FFF#J] 8FF#] 8d	.
+4GGG 4GG 4G 4B-	.
+[8.dL	.
+16BBB-Jk 16BB- 16d]	.
+=54	=54
+[8FFF#XL [8FF#X 8F#X 8B-	.
+8FFF#J] 8FF#] 8d	.
+4GGG 4GG 4G 4B-	.
+[8.dL	.
+16BBB-Jk 16BB- 16d]	.
+=55	=55
+4GGG 4GG [4G [4B-	.
+[8GGGL [8GG 8G] 8B-]	.
+8GGGJ] 8GG] [8d	.
+4d]	.
+=56	=56
+2.GGG; 2.GG 2.G 2.B- 2.d	.
+==	==
+*-	*-
+!!!YEM: OpenScore (CC0)

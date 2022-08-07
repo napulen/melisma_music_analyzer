@@ -1,0 +1,46 @@
+!!!COM: Tchaikovski
+!!!OTL: Example 189 : C Major to F Major
+!!!OMV: Example 189 : C Major to F Major
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+4C [4g [4cc [4ee
+4E 4g] 4cc] 4ee]
+4G 4g 4b 4dd
+4F 4g 4b 4dd
+=2
+4E 4g 4b-X 4cc
+4E-X 4f 4a 4cc
+4D 4f 4a-X 4b-X
+4D-X 4e-X 4g 4b-
+=3
+4C 4e-X 4a-X
+4BB-X 4e-X 4g 4b-X
+4AA-X 4e-X 4a-X 4cc
+4FF#X 4d 4an 4cc
+=4
+4GG 4d 4g 4bn
+4G 4en 4a 4cc#X
+4F#X 4d 4a 4dd
+4An 4f#X 4b 4dd#X
+=5
+4G#X 4e 4b 4ee
+4G#X 4e 4b 4ddn
+4Gn 4e 4a 4cc#X
+4F#X 4d 4a 4ccn
+=6
+4Fn 4d 4g 4b
+4E 4c 4g 4b-X
+4F 4c 4f 4a
+4BB-X 4d 4f 4b-X
+=7
+2C 2c 2f 2a
+[4C 4c [4e [4g
+4C] 4B-X 4e] 4g]
+=8
+1F 1A 1f
+==
+*-

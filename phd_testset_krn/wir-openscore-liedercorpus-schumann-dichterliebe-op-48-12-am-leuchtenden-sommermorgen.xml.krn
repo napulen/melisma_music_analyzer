@@ -1,0 +1,397 @@
+!!!COM: Robert Schumann
+!!!OTL: Dichterliebe, Op.48
+!!!OMV: Am leuchtenden Sommermorgen
+**kern	**dynam
+*I"Voice	*
+*clefG2	*
+*k[b-e-]	*
+*M6/8	*
+=1	=1
+!LO:TX:a:B:t=Ziemlich langsam.	!
+[16GG-XLL	.
+16GG-_ [16b-	.
+16GG-_ 16en 16b-_	.
+16GG-_ 16c#X 16b-_	.
+16GG-_ 16B- 16b-]	.
+16GG-JJ_ 16G-X	.
+16GG-LL_	.
+16GG-_ [16bb-	.
+16GG-_ 16een 16bb-_	.
+16GG-_ 16cc#X 16bb-_	.
+16GG-_ 16b- 16bb-]	.
+16GG-JJ] 16g-X	.
+=2	=2
+[16FFLL	.
+16FF_ [16ff	.
+16FF_ 16dd 16ff_	.
+16FF_ 16b- 16ff_	.
+16FF_ 16f 16ff]	.
+16FFJJ] 16d	.
+[16FLL	.
+16F_ [16a	.
+16F_ 16f 16a_	.
+16F_ 16e- 16a_	.
+16F_ 16c [16f 16a]	p
+16FJJ] 16f]	.
+=3	=3
+[16BB-LL [16b-	.
+16BB-_ 16b-_	.
+16BB-_ 16f 16b-_	.
+16BB-_ 16d 16b-_	.
+16BB-_ 16B- 16b-_	.
+16BB-JJ_ 16F 16b-]	.
+16BB-LL_ [16dd	.
+16BB-_ [16b- 16dd_	.
+16BB-_ 16f 16b-_ 16dd_	.
+16BB-_ 16d 16b-_ 16dd]	.
+16BB-_ 16B- 16b-_	.
+16BB-JJ] 16F 16b-]	.
+=4	=4
+[16E-LL [16a	.
+16E-_ 16a] [16b-	.
+16E-_ [16g 16b-_	.
+16E-_ 16e- 16g] 16b-_	.
+16E-_ 16B- 16b-]	.
+16E-JJ] 16G	.
+[16DLL	.
+16D_ [16bn	.
+16D_ 16g 16b_	.
+16D_ 16f 16b_	.
+16D_ 16Bn 16b]	.
+16DJJ] 16G	.
+=5	=5
+[16CLL [16g	.
+16C_ 16g] [16cc	.
+16C_ [16g 16cc_	.
+16C_ 16e- 16g] 16cc_	.
+16C_ 16c [16g 16cc]	.
+16CJJ] 16G 16g]	.
+[16FLL [16a	.
+16F_ 16a_	.
+16F_ 16f 16a_	.
+16F_ 16e- 16g 16a_	.
+16F_ 16c 16a_	.
+16FJJ] 16a]	.
+=6	=6
+[16BB-LL [16b-	.
+16BB-] 16b-_	.
+16f 16b-_	.
+16d 16b-_	.
+16B- 16b-]	.
+16FJJ	.
+[16GG-XLL	.
+16GG-_ [16bb-	.
+16GG-_ 16een 16bb-_	.
+16GG-_ 16cc#X 16bb-_	.
+16GG-_ 16b- 16bb-]	.
+16GG-JJ] 16g-X	.
+=7	=7
+[16FFLL	.
+16FF_ [16ff	.
+16FF_ 16dd 16ff_	.
+16FF_ 16b- 16ff_	.
+16FF_ 16f 16ff]	.
+16FFJJ] 16d	.
+[16FLL	.
+16F_ [16a	.
+16F_ 16f 16a_	.
+16F_ 16e- 16a_	.
+16F_ 16c [16f 16a]	.
+16FJJ] 16f]	.
+=8	=8
+[16BB-LL [16b-	.
+16BB-_ 16b-_	.
+16BB-_ 16f 16b-_	.
+16BB-] 16d 16b-_	.
+16B- 16b-_	.
+16FJJ 16b-]	.
+[16FF#XLL [16b-	.
+16FF#_ [16a#X 16b-_	.
+16FF#_ 16en 16a#_ 16b-]	.
+16FF#_ 16c#X 16a#_ 16cc-X	.
+16FF#_ 16A#X 16a#] [16dd-X	.
+16FF#JJ] 16F#X 16dd-]	.
+=9	=9
+[16BBnLL [16dd-X	.
+16BB_ 16dd-_ [16ff#X	.
+16BB_ 16cc#X 16dd-_ 16ff#_	.
+16BB_ 16an 16dd-_ 16ff#_	.
+16BB_ 16f#X 16dd-_ 16ff#]	.
+16BBJJ] 16c#X 16dd-]	.
+[16BnLL [16cc-X	.
+16B_ 16cc-_ [16fff#X	.
+16B_ 16cc-_ 16bbn 16fff#_	.
+16B_ 16cc-_ 16aa 16fff#_	.
+16B_ 16cc-_ 16dd#X 16fff#]	.
+16BJJ] 16bn 16cc-]	.
+=10	=10
+[16cnLL [16b-	.
+16c_ 16b-] [16een	.
+16c_ [16b- 16ee_	.
+16c_ 16g 16b-_ 16ee_	.
+16c_ 16en 16b-] 16ee]	.
+16cJJ] 16b-	.
+[16FnLL [16cc	.
+16F_ 16cc_ [16ee-X	.
+16F_ 16cc_ 16ee-_	.
+16F_ 16a 16cc_ 16ee-_	.
+16F_ 16f 16cc] 16ee-]	.
+16FJJ] 16c 16b-	.
+=11	=11
+[16B-LL [16b-	.
+16B-_ 16b-_ 16dd	.
+16B-_ 16b-_	.
+16B-_ 16f 16b-_	.
+16B-_ 16d 16b-_	.
+16B-JJ] 16b-]	.
+[16G-XLL	.
+16G-^_ [16bb-	.
+16G-_ 16een 16bb-_	.
+16G-_ 16cc#X 16bb-_	.
+16G-_ 16b- 16bb-]	.
+16G-JJ] 16g-X	.
+=12	=12
+[16FFLL	.
+16FF_ [16ff	.
+16FF_ 16dd 16ff_	.
+16FF_ 16b- 16ff_	.
+16FF_ 16f 16ff]	.
+16FFJJ] 16d	.
+[16FLL	.
+16F_ [16a	.
+16F_ 16f 16a_	.
+16F_ 16e- 16a_	.
+16F_ 16c [16f 16a]	.
+16FJJ] 16f]	.
+=13	=13
+[16BB-LL [16b-	.
+16BB-_ 16b-_	.
+16BB-_ 16f 16b-_	.
+16BB-_ 16d 16b-_	.
+16BB-_ 16B- 16b-_	.
+16BB-JJ_ 16F 16b-]	.
+16BB-LL_ [16dd	.
+16BB-_ [16b- 16dd_	.
+16BB-_ 16f 16b-_ 16dd]	.
+16BB-_ 16d 16b-_ 16dd	.
+16BB-_ 16B- 16b-_	.
+16BB-JJ] 16F 16b-]	.
+=14	=14
+[16E-LL [16a	.
+16E-_ 16a] [16b-	.
+16E-_ [16g 16b-_	.
+16E-_ 16e- 16g] 16b-_	.
+16E-_ 16B- 16b-]	.
+16E-JJ] 16G	.
+[16DLL	.
+16D_ [16bn	.
+16D_ 16g 16b_	.
+16D_ 16f 16b_	.
+16D_ 16Bn [16g 16b]	.
+16DJJ] 16G 16g]	.
+=15	=15
+[16CLL [16g	.
+16C_ 16g_ [16cc	.
+16C_ 16g_ 16cc_	.
+16C_ 16e- 16g] 16cc_	.
+16C_ 16c [16g 16cc]	.
+16CJJ] 16G 16g]	.
+[16FLL [16a	.
+16F_ 16a_	.
+16F_ 16f 16a_	.
+16F_ 16e- 16g 16a_	.
+16F_ 16c 16a_	.
+16FJJ] 16a]	.
+=16	=16
+[16BB-LL [16b-	.
+16BB-_ 16b-_	.
+16BB-_ 16f 16b-_	.
+16BB-_ 16d 16b-_	.
+16BB-_ 16B- 16b-_	.
+16BB-JJ] 16F 16b-]	.
+[16AA-XLL	.
+16AA-_ [16b-	.
+16AA-_ 16f#X 16b-_	.
+16AA-_ 16d 16b-_	.
+16AA-_ 16B- 16b-]	.
+16AA-JJ] 16F#X	.
+=17	=17
+!LO:TX:a:B:t=langsamer	!
+[16GGLL [16bn	pp
+16GG_ 16b_	.
+16GG_ 16g 16b_	.
+16GG_ 16d 16b_	.
+16GG_ 16Bn 16b_	.
+16GGJJ] [16G 16b]	.
+16GLL_ [16dd	.
+16G_ 16dd_	.
+16G_ 16bn 16dd_	.
+16G_ 16g 16dd_	.
+16G_ 16d [16bn 16dd]	.
+16GJJ] 16Bn 16b]	.
+=18	=18
+[16GGLL [16a	.
+16GG_ 16a_	.
+16GG_ 16f#X 16a_	.
+16GG_ 16d 16a_	.
+16GG_ 16c 16a_	.
+16GGJJ] 16A 16a]	.
+[16GLL [16cc	.
+16G_ 16cc_	.
+16G_ 16a 16cc_	.
+16G_ 16f#X 16cc_	.
+16G_ 16d 16cc_	.
+16GJJ] 16c 16cc]	.
+=19	=19
+!LO:TX:a:Bi:t=ritard.	!
+*MM52.5	*
+!LO:TX:t=[quarter-dot]=35	!
+[16GGLL [16b-	.
+16GG_ 16b-_	.
+16GG_ 16g 16b-_	.
+16GG_ 16d 16b-_	.
+16GG_ 16B- 16b-_	.
+16GGJJ] 16G 16b-]	.
+[16G-XLL [16dd-X	.
+16G-^_ 16dd-_ [16bb-	.
+16G-_ 16dd-_ 16een 16bb-_	.
+16G-_ 16dd-_ 16bb-_	.
+16G-_ 16b- 16dd-] 16bb-]	.
+16G-JJ] 16en 16cc	.
+=20	=20
+*MM67.5	*
+!LO:TX:t=[quarter-dot]=45	!
+[16FFLL [16cc	.
+16FF_ 16cc_ [16ff	.
+16FF_ 16cc_ 16ff_	.
+16FF_ 16a 16cc_ 16ff_	.
+16FF_ 16f 16cc_ 16ff]	.
+16FFJJ] 16c 16cc]	.
+[16FLL	.
+16F_ [16ggg	.
+16F_ 16ddd 16ggg_	.
+16F_ 16bbn 16ggg_	.
+16F_ 16gg 16ggg]	.
+16FJJ] 16dd	.
+=21	=21
+[16fLL	.
+16f_ [16ee-	.
+16f_ 16cc 16ee-_	.
+16f] 16g 16ee-_	.
+16e- 16ee-]	.
+16cJJ	.
+[16FLL	.
+16F_ [16fff	.
+16F_ 16ccc#X 16fff_	.
+16F_ 16aa 16fff_	.
+16F_ 16ff 16fff]	.
+16FJJ] 16cc#X	.
+=22	=22
+[16fLL	.
+16f_ [16dd	.
+16f_ 16a 16dd_	.
+16f] 16dd_	.
+16d 16dd]	.
+16AJJ	.
+[16FLL	.
+16F_ [16eee-	.
+16F_ 16bb- 16eee-_	.
+16F_ 16gg 16eee-_	.
+16F_ 16ee- 16eee-]	.
+16FJJ] 16b-	.
+=23	=23
+[16fLL	.
+16f_ [16cc	.
+16f_ 16a 16cc_	.
+16f] 16cc_	.
+16c 16cc_	.
+16AJJ 16cc_	.
+[16E-LL 16cc]	.
+16E-_ [16dd	.
+16E-_ 16a 16dd_	.
+16E-_ 16f 16dd_	.
+16E-_ 16c 16dd]	.
+16E-JJ] 16A [16ee-	.
+=24	=24
+[16DLL 16ee-]	.
+16D_ [16ff	.
+16D_ 16b- 16ff_	.
+16D_ 16f 16ff_	.
+16D_ 16d 16ff_	.
+16DJJ] 16B- 16ff_	.
+[16G-XLL 16ff]	.
+16G-_ [16b-	.
+16G-_ 16en 16b-_	.
+16G-_ [16c#X 16b-_	.
+16G-] 16B- 16c#] 16b-]	.
+16FJJ 16A-X 16Bn 16d 16a-X [16bn	.
+=25	=25
+[16EnLL 16bn]	.
+16E_ [16cc	.
+16E_ 16b-X 16cc_	.
+16E_ 16g 16cc_	.
+16E_ 16c 16cc_	.
+16EJJ] 16G 16cc_	.
+[16E-XLL 16cc]	.
+16E-_ [16dd	.
+16E-_ 16an 16dd_	.
+16E-_ 16f 16dd_	.
+16E-_ 16c 16dd]	.
+16E-JJ] 16A [16ee-X	.
+=26	=26
+[16DLL 16ee-]	.
+16D_ [16ff	.
+16D_ 16b- 16ff_	.
+16D_ 16f 16ff_	.
+16D_ 16d 16ff_	.
+16DJJ] 16B- 16ff_	.
+[16G-XLL 16ff]	.
+16G-_ [16b-	.
+16G-_ 16en 16b-_	.
+16G-_ [16d-X 16b-_	.
+16G-] 16B- 16d-] 16b-_	.
+16GnJJ 16c 16b-_	.
+=27	=27
+[16FFLL 16b-]	.
+16FF_ [16dd	.
+16FF_ 16b- 16dd_	.
+16FF_ 16f 16dd_	.
+16FF_ 16d 16dd_	.
+16FFJJ] 16B- 16dd_	.
+[16FLL 16dd]	.
+16F_ 16a [16cc	.
+16F_ 16f 16cc_	.
+16F_ 16e- 16cc_	.
+16F_ 16c 16cc_	.
+16FJJ] 16A 16cc_	.
+=28	=28
+[16FFLL 16cc]	.
+16FF_ [16b-	.
+16FF_ 16f 16b-_	.
+16FF_ 16d 16b-_	.
+16FF_ 16B- 16b-_	.
+16FFJJ] [16F 16b-_	.
+16FLL_ 16b-]	.
+16F_ [16f	.
+16F_ 16e- 16f_	.
+16F_ 16c 16f_	.
+16F_ 16A 16f_	.
+16FJJ] 16f]	.
+=29	=29
+[16BB-LL	.
+16BB-_ 16f	.
+16BB-_ [16d	.
+16BB-_ 16B- 16d_	.
+16BB-_ 16F 16d_	.
+16BB-JJ_ 16d]	.
+16BB-LL_ [16B-	.
+16BB-_ 16F 16B-_	.
+16BB-_ 16D 16B-_	.
+16BB-_ 16B-]	.
+16BB-_ [16F	.
+16BB-JJ] [16D 16F_	.
+=30	=30
+4.BB-; 4.D] 4.F] 4.B-	.
+==	==
+*-	*-
+!!!YEM: OpenScore (CC0)

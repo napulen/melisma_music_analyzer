@@ -1,0 +1,359 @@
+!!!COM: Claudio Monteverdi
+!!!OTL: score.mxl
+!!!OMV: score.mxl
+**kern
+*I"Canto
+*I'C.
+*clefG2
+*k[b-]
+*d:
+*M4/4
+*met(c)
+=1
+!LO:TX:b:t=ORPHEUS
+!LO:TX:b:t=ODH 19A
+!LO:TX:b:t=i
+!LO:TX:b:t=ORPHEUS EDIZIONI
+!LO:TX:b:t=ODH 19A
+2.G 2.g 2.b- 2.dd
+8GL 8g 8b- 8dd
+8GJ 8g 8b- 8dd
+=2
+2G 2g 2b- 2dd
+4G 4g 4b- 4dd
+8GL 8g 8b- 8dd
+8GJ 8g 8b- 8dd
+=3
+[4G [4g [4b- [4dd
+8GL_ 8g] 8b-] 8dd]
+8GJ] 8d 8b- 8dd
+4C 4e-X 4g 4cc
+4C 4e-X 4g 4cc
+=4
+8DL 8d 8f 8b-
+8DJ 8d 8f 8b-
+4.F 4.c 4.f 4.a
+8F 8c 8f 8a
+4G 4B- 4d 4g
+!!linebreak:original
+=5
+[2D [2A [2d 2f#X
+4D_ 4A_ 4d_ 4f#
+8DL_ 8A_ 8d_ 8dd
+8DJ] 8A] 8d] 8ee
+=6
+[4D [4A [4d 4ff
+4D] 4A] 4d] 4ff
+4d
+8dL 8dd 8ff
+8dJ 8ee 8gg
+=7
+[4d 4ff 4aa
+8dL] 8ee 8gg
+8dJ 8ff 8aa
+4G [4gg [4bb-
+4G 4gg] 4bb-]
+=8
+8AL [8ff [8aa
+8AJ 8ff] 8aa]
+4.c [4.ee [4.gg
+8c 8ee] 8gg]
+4d 4dd 4ff
+=9
+[4A 4dd 4ff
+8AL_ 8cc#X 8ee
+8AJ] 8bn 8dd
+2A 2cc#X 2ee
+!!linebreak:original
+=10
+[4dd
+8B-L 8dd_
+8cJ 8dd]
+[4d
+8B-L 8d_ 8g
+8cJ 8d_ 8a
+=11
+4d 4b-
+8cL 8e 8a
+8dJ 8f 8b-
+2e-X 2g 2cc
+=12
+4d 4f 4b-
+[4c [4e 4a
+4c] 4e] 4g
+4B- 4d [4g
+=13
+4B- 4d 4g
+8AL 8c 8f#X
+8GJ 8B- 8e
+2A 2c 2f#X
+=14
+[4G [4d [4g
+8GL_ 8d_ 8g_
+8GJ_ 8d_ 8g_ 8a
+4G_ 4d_ 4g_ 4b-
+4G] 4d] 4g] 4b-
+!!linebreak:original
+=15
+4r
+8gL 8b-
+8gJ 8a 8cc
+4g 4b- 4dd
+8gL 8a 8cc
+8gJ 8b- 8dd
+=16
+2c 2cc [2ee-X
+4g 4bn 4ee-]
+[4f [4a [4dd
+=17
+4f 4a 4dd
+4e-X 4g [4cc
+[4d 4f#X 4cc]
+4d_ [4g 4b-
+=18
+[4d 4g 4b-
+8dL_ 8f#X 8a
+8dJ_ 8e 8g
+2d_ 2f#X 2a
+=19
+[2G 2d [2g
+2G] 2d 2g]
+!!linebreak:original
+=20
+4D 4F#X [4G 4A [4g [4bn [4dd
+8GL_ 8g_ 8b_ 8dd_
+8GJ_ 8A 8g_ 8b_ 8dd_
+4G_ 4Bn 4g_ 4b_ 4dd_
+4G] 4c 4g] 4b] 4dd]
+=21
+2G 2d 2g 2bn 2dd
+4C [4c 4g 4ee 4gg
+8CL 8c_ 8g 8ee 8gg
+8DJ 8c] 8g 8dd 8ff
+=22
+4E 4g 4cc [4ee
+[8FL [8a 8ee]
+8FJ] 8a] 8dd
+2G 2g 2bn 2dd
+=23
+[2C 2c [2g [2cc [2ee
+2C] 2c 2g] 2cc] 2ee]
+=24
+4F [4a [4cc
+8FL 8a_ 8cc_
+8GJ 8a_ 8cc_
+4A 4a] 4cc]
+[8B-L 8g 8b-
+8B-J] 8f 8a
+!!linebreak:original
+=25
+[4.c 4.e 4.g
+8c] 8e 8g
+[4F [4f
+4F] 4f_ [4a
+=26
+[4A 4f 4a
+8AL_ 8e 8g
+8AJ] 8d 8f
+[4.A 4.c#X 4.e
+8A] 8c#X 8e
+=27
+4D [4d [4ff [4aa
+8DL 8d_ 8ff_ 8aa_
+8EJ 8d_ 8ff_ 8aa_
+4F 4d_ 4ff] 4aa]
+[8GL 8d_ 8ee 8gg
+8GJ] 8d] 8dd 8ff
+=28
+[4.A 4.cc#X 4.ee
+8A] 8cc#X 8ee
+[4D 4dd
+4D_ [4b- [4dd
+=29
+[4D [4d 4b- 4dd
+8DL_ 8d_ 8a 8cc
+8DJ] 8d] 8g 8b-
+2d 2f#X 2a
+!!pagebreak:original
+=30
+4G [4d [4g
+8GL 8d_ 8g_
+8AJ 8d] 8g_
+[4G 4Bn [4d 4g_
+4G_ 4Bn 4d] 4g]
+=31
+[4G 4Bn
+8GL_ 8B
+8GJ_ 8A 8c
+4G] 4Bn 4d
+8FL [8c [8e
+8EJ 8c] 8e]
+=32
+[4D 4c [4f
+8DL] [8Bn 8f_
+8DJ 8B] 8f]
+[4C 4c 4e
+4C_ [4a [4cc
+=33
+[4C 4a 4cc
+8CL_ 8g 8b-
+8CJ_ 8f 8a
+4.C_ 4.e 4.g
+8C] 8e 8g
+=34
+8FL [8f [8a
+8FJ 8f_ 8a_
+8FL 8f_ 8a_
+8EJ 8f_ 8a_
+[8DL 8f_ 8a_ 8dd 8ff
+8DJ_ 8f_ 8a_ 8dd 8ff
+8DL_ 8f_ 8a_ 8dd 8ff
+8DJ_ 8f] 8a] 8ee 8gg
+!!linebreak:original
+=35
+[8DL 8d 8f [8ff [8aa
+8DJ_ 8d 8f 8ff_ 8aa_
+8DL_ 8d 8f 8ff_ 8aa_
+8DJ] 8e 8g 8ff] 8aa]
+8d`L [8f [8a 8ff 8aa
+8dJ 8f_ 8a] 8ff 8aa
+8dL 8f_ [8dd 8ff 8aa
+8eJ 8f] 8dd_ 8gg
+=36
+[8dL [8f [8dd [8ff [8aa
+8dJ] 8f] 8dd] 8ff] 8aa_
+[8dL 8cc [8ff 8aa_
+8dJ_ 8e 8b- 8ff_ 8aa]
+4d] 4f [4a 4ff] [4aa
+8cL [8f 8a_ 8ee 8aa_
+8B-J 8f_ 8a_ 8dd 8aa_
+=37
+[4A 4f [4a 4cc#X 4aa
+8AL_ 8e 8a_ [8dd 8gg
+8AJ] 8d 8a] 8dd_ 8ff
+[4A 4e [4a 4dd] 4ee
+8AL] 8e 8a] [8cc#X 8ee
+8AJ 8a 8cc#] 8ee
+=38
+8DL 8A 8f 8dd 8ff
+8EJ 8A 8g 8cc 8ee
+8FL 8A 8a 8cc 8dd
+8GJ 8d 8g 8bn 8dd
+4C 4c 4g 4cc 4ee
+4C 4c 4g 4cc 4ee
+!!linebreak:original
+=39
+4F 4c 4a
+[8FL [8c [8a 8cc
+8FJ] 8c] 8a] 8bn 8cc
+[4F [4c [4a 4cc [4ff
+4F] 4c] 4a] 4ff_
+=40
+[4C [4c [4g 4ff [4gg
+8CL] 8c] 8g] [8ee 8gg]
+8CJ 8c 8g 8ee] 8gg
+2F 2c 2a 2ff
+=41
+[4f [4a 4cc
+4f] 4a] [4dd
+4e-X 4g 4dd]
+4e-X 4g
+=42
+2d 2f#X 2a
+2d 2f#X 2a
+=43
+[4B- [4d 4ff
+4B-] 4d] 4dd [4gg
+[4A [4c [4e [4cc 4gg]
+8AL] 8c] 8e] 8cc_
+8AJ 8c 8e 8cc_
+=44
+4A 4c 4e 4a 4cc
+[8AL [8c [8e 8a 8cc
+8AJ] 8c] 8e] 8a 8cc
+[4.A [4.c 4.e 4.a 4.cc
+8A] 8c] 8e 8a 8cc
+!!pagebreak:original
+=45
+[8AL [8c 8e 8a 8cc
+8AJ] 8c] 8e 8b- 8dd
+8AL 8c [8f#X [8cc [8ee
+8AJ 8c 8f#_ 8cc_ 8ee_
+[8AL [8c 8f#] 8cc_ 8ee_
+8AJ] 8c] 8f#X 8cc] 8ee]
+8AL [8c [8f#X 8bn 8dd
+8AJ 8c] 8f#] 8a 8cc
+=46
+2G 2d 2g 2bn 2dd
+[4.G [4.d [4.g 4.bn [4.dd
+8G] 8d] 8g] 8bn 8dd]
+=47
+4F 4f 4a [4dd
+[8EL [8g [8cc 8dd]
+8EJ] 8g] 8cc_ 8dd
+[4G [4d [4g 4cc] [4dd
+4G] 4d] 4g] 4bn 4dd]
+=48
+[2C [2e [2g [2cc
+2C] 2e] 2g] 2cc]
+=49
+[4c [4e [4ee 4gg
+4c] 4e] 4ee] [4aa
+[4B- [4d [4f [4dd 4aa]
+8B-L] 8d] 8f] 8dd_
+8B-J 8d 8f 8dd] 8ee
+!!linebreak:original
+=50
+4B- 4d 4f 4dd 4ff
+4B- 4d 4g 4dd
+2A 2e 2a 2cc#X 2ee
+=51
+[4.A [4.e [4.a [4.cc#X 4.ee
+8A] 8e] 8a] 8cc#] 8ee
+[8GL [8g [8bn [8ee
+8GJ] 8g] 8b] 8cc#X 8ee_
+4F#X 4a [4dd 4ee]
+=52
+[4A [4e [4a 4dd [4ee
+8AL_ 8e_ 8a_ 8cc#X 8ee_
+8AJ_ 8e_ 8a_ 8bn 8ee_
+2A] 2e] 2a] 2cc#X 2ee]
+=53
+[2D [2f#X [2a [2dd
+2D] 2f#] 2a] 2dd_
+=54
+[4G [4Bn [4d 4dd
+8GL_ 8B_ 8d_ 8cc
+8GJ_ 8B_ 8d_ 8dd
+4G] 4B] 4d] [4g
+8FL 8A 8d 8g_
+8GJ 8Bn 8d 8g]
+!!linebreak:original
+=55
+[4C [4c [4e [4g
+4C_ 4c] 4e_ 4g_ [4gg
+4C_ [4c 4e_ 4g] 4gg]
+8CL_ 8c_ 8e_ 8g 8ff
+8CJ] 8c] 8e_ 8g 8gg
+=56
+[2AA [2c 2e [2a 2cc
+4AA_ 4c] [4f 4a_ 4cc
+8AAL_ 8c 8f_ 8a_ [8ff
+8AAJ] 8c 8f] 8a_ 8ff_
+=57
+[2BB- 2B- [2d 2a [2ff
+4BB-] [4B- 4d_ 4g 4ff]
+[8CL 8B-_ 8d_ [8g 8ee
+8CJ] 8B-] 8d_ 8g_ 8ff
+=58
+[4D [4d 4g 4b-
+8DL_ [8G 8d_ 8f#X [8b-
+8DJ_ 8G] 8d_ 8e 8b-]
+!LO:TX:b:t=do.
+2D] 2A 2d] 2f#X 2a
+=59
+[1G [1d [1g [1bn
+=60
+1G 1d 1g 1bn
+=||
+*-

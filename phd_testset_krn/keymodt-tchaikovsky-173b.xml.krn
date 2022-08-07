@@ -1,0 +1,15 @@
+!!!COM: Tchaikovski
+!!!OTL: Example 173-b : C Major to D Major
+!!!OMV: Example 173-b : C Major to D Major
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+2C 2c 2g 2ee
+2AA 2c#X 2g 2ee
+=2
+1D 1d 1f#X 1dd
+==
+*-

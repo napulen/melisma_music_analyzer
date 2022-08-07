@@ -1,0 +1,19 @@
+!!!COM: Tchaikovski
+!!!OTL: Example 193b : C Major to e minor
+!!!OMV: Example 193b : C Major to e minor
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+2C 2g 2cc 2ee
+4E 4g 4cc 4ee
+=2
+4G 4g 4b 4dd
+4E 4g 4b 4ee
+4D#X 4f#X 4b 4ff#X
+=3
+2.E 2.e 2.b 2.gg
+==
+*-

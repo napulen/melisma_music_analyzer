@@ -1,0 +1,913 @@
+!!!COM: Music21
+!!!OTL: bps_14_01.mxl
+!!!OMV: bps_14_01.mxl
+**kern	**dynam
+*clefG2	*
+*k[f#c#g#d#]	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!LO:TX:b:i:t=sempre pianissimo e senza sordini	!
+!LO:TX:a:t=Si deve suonare tutto questo pezzo delicatissimamente e senza sordini	!
+!LO:TX:a:B:t=Adagio sostenuto	!
+[12CC#L [12C# 12G#	pp
+12CC#_ 12C#_ 12c#	.
+12CC#J_ 12C#_ 12e	.
+12CC#L_ 12C#_ 12G#	.
+12CC#_ 12C#_ 12c#	.
+12CC#J_ 12C#_ 12e	.
+12CC#L_ 12C#_ 12G#	.
+12CC#_ 12C#_ 12c#	.
+12CC#J_ 12C#_ 12e	.
+12CC#L_ 12C#_ 12G#	.
+12CC#_ 12C#_ 12c#	.
+12CC#J] 12C#] 12e	.
+=2	=2
+[12BBBL [12BB 12G#	.
+12BBB_ 12BB_ 12c#	.
+12BBBJ_ 12BB_ 12e	.
+12BBBL_ 12BB_ 12G#	.
+12BBB_ 12BB_ 12c#	.
+12BBBJ_ 12BB_ 12e	.
+12BBBL_ 12BB_ 12G#	.
+12BBB_ 12BB_ 12c#	.
+12BBBJ_ 12BB_ 12e	.
+12BBBL_ 12BB_ 12G#	.
+12BBB_ 12BB_ 12c#	.
+12BBBJ] 12BB] 12e	.
+=3	=3
+[12AAAL [12AA 12A	.
+12AAA_ 12AA_ 12c#	.
+12AAAJ_ 12AA_ 12e	.
+12AAAL_ 12AA_ 12A	.
+12AAA_ 12AA_ 12c#	.
+12AAAJ] 12AA] 12e	.
+[12FFF#L [12FF# 12A	.
+12FFF#_ 12FF#_ 12dn	.
+12FFF#J_ 12FF#_ 12f#	.
+12FFF#L_ 12FF#_ 12A	.
+12FFF#_ 12FF#_ 12dn	.
+12FFF#J] 12FF#] 12f#	.
+=4	=4
+[12GGG#L [12GG# 12G#	.
+12GGG#_ 12GG#_ 12B#X	.
+12GGG#J_ 12GG#_ 12f#	.
+12GGG#L_ 12GG#_ 12G#	.
+12GGG#_ 12GG#_ 12c#	.
+12GGG#J] 12GG#] 12e	.
+[12GGG#L [12GG# 12G#	.
+12GGG#_ 12GG#_ 12c#	.
+12GGG#J_ 12GG#_ 12d#	.
+12GGG#L_ 12GG#_ 12F#	.
+12GGG#_ 12GG#_ 12B#X	.
+12GGG#J] 12GG#] 12d#	.
+=5	=5
+[12CC#L [12GG# [12C# 12E	.
+12CC#_ 12GG#_ 12C#_ 12G#	.
+12CC#J_ 12GG#_ 12C#_ 12c#	.
+12CC#L_ 12GG#_ 12C#_ 12G#	.
+12CC#_ 12GG#_ 12C#_ 12c#	.
+12CC#J_ 12GG#_ 12C#_ 12e	.
+12CC#L_ 12GG#_ 12C#_ 12G#	.
+12CC#_ 12GG#_ 12C#_ 12c#	.
+12CC#J_ 12GG#_ 12C#_ 12e	.
+!	!LO:DY:a
+12CC#L_ 12GG#_ 12C#_ 12G# [12g#	pp
+12CC#_ 12GG#_ 12C#_ 12c# 12g#_	.
+48CC#KL_ 48GG#_ 48C#_ [48e 48g#]	.
+16CC#JJ] 16GG#] 16C#] 16e] 16g#	.
+=6	=6
+[12BBB#XL [12GG# [12BB#X 12G# [12g#	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12f# 12g#_	.
+12BBB#L_ 12GG#_ 12BB#_ 12G# 12g#_	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12f# 12g#_	.
+12BBB#L_ 12GG#_ 12BB#_ 12G# 12g#_	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12f# 12g#]	.
+12BBB#L_ 12GG#_ 12BB#_ 12G# [12g#	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+48BBB#KL_ 48GG#_ 48BB#_ [48f# 48g#]	.
+16BBB#JJ] 16GG#] 16BB#] 16f#] 16g#	.
+=7	=7
+[12CC#L [12C# 12G# [12g#	.
+12CC#_ 12C#_ 12c# 12g#_	.
+12CC#J_ 12C#_ 12e 12g#_	.
+12CC#L_ 12C#_ 12G# 12g#_	.
+12CC#_ 12C#_ 12c# 12g#_	.
+12CC#J] 12C#] 12e 12g#]	.
+[12FFF#L [12FF# 12A [12a	.
+12FFF#_ 12FF#_ 12c# 12a_	.
+12FFF#J_ 12FF#_ 12f# 12a_	.
+12FFF#L_ 12FF#_ 12A 12a_	.
+12FFF#_ 12FF#_ 12c# 12a_	.
+12FFF#J] 12FF#] 12f# 12a]	.
+=8	=8
+[12BBBL [12BB 12G# [12g#	.
+12BBB_ 12BB_ 12B 12g#_	.
+12BBBJ_ 12BB_ 12e 12g#_	.
+12BBBL_ 12BB_ 12G# 12g#_	.
+12BBB_ 12BB_ 12B 12g#_	.
+12BBBJ] 12BB] 12e 12g#]	.
+[12BBBL [12BB 12A [12f#	.
+12BBB_ 12BB_ 12B 12f#_	.
+12BBBJ_ 12BB_ 12d# 12f#]	.
+12BBBL_ 12BB_ 12A [12b	.
+12BBB_ 12BB_ 12B 12b_	.
+12BBBJ] 12BB] 12d# 12b]	.
+=9	=9
+[12EEL [12E 12G# [12e	.
+12EE_ 12E_ 12B 12e_	.
+12EEJ_ 12E_ 12e]	.
+12EEL_ 12E_ 12G#	.
+12EE_ 12E_ 12B	.
+12EEJ_ 12E_ 12e	.
+12EEL_ 12E_ 12G#	.
+12EE_ 12E_ 12B	.
+12EEJ_ 12E_ 12e	.
+12EEL_ 12E_ 12G#	.
+12EE_ 12E_ 12B	.
+12EEJ] 12E] 12e	.
+=10	=10
+[12EEL [12E 12Gn	.
+12EE_ 12E_ 12B	.
+12EEJ_ 12E_ 12e	.
+12EEL_ 12E_ 12Gn	.
+12EE_ 12E_ 12B	.
+12EEJ_ 12E_ 12e	.
+12EEL_ 12E_ 12Gn	.
+12EE_ 12E_ 12B	.
+12EEJ_ 12E_ 12e	.
+12EEL_ 12E_ 12Gn [12gn	.
+12EE_ 12E_ 12B 12g_	.
+48EEKL_ 48E_ [48e 48g]	.
+16EEJJ] 16E] 16e] 16g	.
+=11	=11
+[12DDnL [12Dn 12Gn [12gn	.
+12DD_ 12D_ 12B 12g_	.
+12DDJ_ 12D_ 12fn 12g_	.
+12DDL_ 12D_ 12Gn 12g_	.
+12DD_ 12D_ 12B 12g_	.
+12DDJ_ 12D_ 12fn 12g_	.
+12DDL_ 12D_ 12Gn 12g_	.
+12DD_ 12D_ 12B 12g_	.
+12DDJ_ 12D_ 12fn 12g]	.
+12DDL_ 12D_ 12Gn [12g	.
+12DD_ 12D_ 12B 12g_	.
+48DDKL_ 48D_ [48fn 48g]	.
+16DDJJ] 16D] 16f] 16gn	.
+=12	=12
+[12CCnL [12Cn 12Gn [12gn	.
+12CC_ 12C_ 12cn 12g_	.
+12CCJ] 12C] 12e 12g_	.
+[12BBBL [12BB 12Gn 12g_	.
+12BBB_ 12BB_ 12B 12g_	.
+12BBBJ] 12BB] 12e 12g_	.
+[12AAA#XL [12AA#X 12Gn 12g_	.
+12AAA#_ 12AA#_ 12c#X 12g_	.
+12AAA#J_ 12AA#_ 12e 12g]	.
+12AAA#L_ 12AA#_ 12F# [12f#	.
+12AAA#_ 12AA#_ 12c# 12f#_	.
+12AAA#J] 12AA#] 12e 12f#]	.
+=13	=13
+[12BBBL [12BB 12F# [12f#	.
+12BBB_ 12BB_ 12B 12f#_	.
+12BBBJ_ 12BB_ 12dn 12f#_	.
+12BBBL_ 12BB_ 12F# 12f#_	.
+12BBB_ 12BB_ 12B 12f#_	.
+12BBBJ] 12BB] 12dn 12f#]	.
+[12EEL 12Gn [12gn	.
+12EE_ 12B 12g_	.
+12EEJ] 12c# 12g]	.
+[12GGnL 12E [12e	.
+12GG_ 12B 12e_	.
+12GGJ] 12c# 12e]	.
+=14	=14
+[12FF#L 12F# [12f#	.
+12FF#_ 12B 12f#_	.
+12FF#J_ 12dn 12f#_	.
+12FF#L_ 12F# 12f#_	.
+12FF#_ 12B 12f#_	.
+12FF#J] 12dn 12f#]	.
+[12FFF#L [12FF# 12F# [12f#	.
+12FFF#_ 12FF#_ 12A#X 12f#_	.
+12FFF#J_ 12FF#_ 12c# 12f#_	.
+12FFF#L_ 12FF#_ 12F# 12f#_	.
+12FFF#_ 12FF#_ 12A#X 12f#_	.
+12FFF#J] 12FF#] 12c# 12f#]	.
+=15	=15
+[12BBBL [12BB [12B	.
+12BBB_ 12BB_ 12B_ 12dn	.
+12BBBJ_ 12BB_ 12B] 12f#	.
+12BBBL_ 12BB_ 12B	.
+12BBB_ 12BB_ 12dn	.
+12BBBJ_ 12BB_ 12f#	.
+12BBBL_ 12BB_ 12B	.
+12BBB_ 12BB_ 12d#X	.
+12BBBJ_ 12BB_ 12f#	.
+12BBBL_ 12BB_ 12B [12b	.
+12BBB_ 12BB_ 12d# 12b_	.
+12BBBJ_ 12BB_ 12f# 12b]	.
+=16	=16
+12BBBL_ 12BB_ 12B [12ccn	.
+12BBB_ 12BB_ 12e 12cc_	.
+12BBBJ] 12BB] 12gn 12cc_	.
+[12EEL [12E 12B 12cc_	.
+12EE_ 12E_ 12e 12cc_	.
+12EEJ] 12E] 12gn 12cc_	.
+[12GGnL [12Gn 12B 12cc_	p
+12GG_ 12G_ 12e 12cc_	.
+12GGJ] 12G] 12gn 12cc]	.
+[12EEL [12E 12B [12a#X	.
+12EE_ 12E_ 12e 12a#_	.
+12EEJ] 12E] 12gn 12a#]	.
+=17	=17
+[12BBBL [12BB 12B [12b	pp
+12BBB_ 12BB_ 12d# 12b_	.
+12BBBJ_ 12BB_ 12f# 12b_	.
+12BBBL_ 12BB_ 12B 12b_	.
+12BBB_ 12BB_ 12d# 12b_	.
+12BBBJ_ 12BB_ 12f# 12b_	.
+12BBBL_ 12BB_ 12B 12b_	.
+12BBB_ 12BB_ 12d# 12b_	.
+12BBBJ_ 12BB_ 12f# 12b]	.
+12BBBL_ 12BB_ 12B [12b	.
+12BBB_ 12BB_ 12d# 12b_	.
+12BBBJ_ 12BB_ 12f# 12b]	.
+=18	=18
+12BBBL_ 12BB_ 12B [12ccn	.
+12BBB_ 12BB_ 12e 12cc_	.
+12BBBJ] 12BB] 12gn 12cc_	.
+[12EEL [12E 12B 12cc_	.
+12EE_ 12E_ 12e 12cc_	.
+12EEJ] 12E] 12gn 12cc_	.
+[12GGnL [12Gn 12B 12cc_	p
+12GG_ 12G_ 12e 12cc_	.
+12GGJ] 12G] 12gn 12cc]	.
+[12EEL [12E 12B [12a#X	.
+12EE_ 12E_ 12e 12a#_	.
+12EEJ] 12E] 12gn 12a#]	.
+=19	=19
+[12BBBL [12BB 12B [12b	pp
+12BBB_ 12BB_ 12d# 12b_	.
+12BBBJ_ 12BB_ 12f# 12b_	.
+12BBBL_ 12BB_ 12B 12b_	.
+12BBB_ 12BB_ 12d# 12b_	.
+12BBBJ] 12BB] 12f# 12b]	.
+[12GGG#L [12GG# 12B [12b	.
+12GGG#_ 12GG#_ 12dn 12b_	.
+12GGG#J_ 12GG#_ 12e#X 12b_	.
+12GGG#L_ 12GG#_ 12B 12b_	.
+12GGG#_ 12GG#_ 12dn 12b_	.
+12GGG#J] 12GG#] 12e#X 12b]	.
+=20	=20
+[12EEE#XL [12EE#X 12B [12b	.
+12EEE#_ 12EE#_ 12c# 12b_	.
+12EEE#J_ 12EE#_ 12g# 12b_	.
+12EEE#L_ 12EE#_ 12B 12b_	.
+12EEE#_ 12EE#_ 12c# 12b_	.
+12EEE#J] 12EE#] 12g# 12b]	.
+[12FFF#L [12FF# 12An [12an	.
+12FFF#_ 12FF#_ 12c# 12a_	.
+12FFF#J_ 12FF#_ 12f# 12a_	.
+12FFF#L_ 12FF#_ 12A 12a_	.
+12FFF#_ 12FF#_ 12c# 12a_	.
+12FFF#J] 12FF#] 12f# 12a]	.
+=21	=21
+[12BBBL [12BB 12Gn [12gn	.
+12BBB_ 12BB_ 12B 12g_	.
+12BBBJ_ 12BB_ 12dn 12g_	.
+12BBBL_ 12BB_ 12Gn 12g_	.
+12BBB_ 12BB_ 12B 12g_	.
+12BBBJ] 12BB] 12dn 12g]	.
+[12BBB#XL [12BB#X 12F# [12f#	.
+12BBB#_ 12BB#_ 12A 12f#_	.
+12BBB#J_ 12BB#_ 12d#X 12f#_	.
+12BBB#L_ 12BB#_ 12F# 12f#_	.
+12BBB#_ 12BB#_ 12A 12f#_	.
+12BBB#J] 12BB#] 12d# 12f#]	.
+=22	=22
+[12CC#L 12C# [12c#	.
+12CC#_ 12F# 12c#_	.
+12CC#J_ 12A 12c#_	.
+12CC#L_ 12C# 12c#_	.
+12CC#_ 12F# 12c#_	.
+12CC#J] 12A 12c#]	.
+[12CC#L 12C# [12c#	.
+12CC#_ 12F# 12c#_	.
+12CC#J_ 12G# 12c#]	.
+12CC#L_ 12C# [12c#	.
+12CC#_ 12E#X 12c#_	.
+12CC#J] 12G# 12c#]	.
+=23	=23
+[12FFF#L [12CC# [12FF# [12F#	.
+12FFF#_ 12CC#_ 12FF#_ 12F#_ 12A	.
+12FFF#J_ 12CC#_ 12FF#_ 12F#] 12c#	.
+12FFF#L_ 12CC#_ 12FF#_ 12A	.
+12FFF#_ 12CC#_ 12FF#_ 12c#	.
+12FFF#J_ 12CC#_ 12FF#_ 12f#	.
+12FFF#L_ 12CC#_ 12FF#_ 12c#	.
+12FFF#_ 12CC#_ 12FF#_ 12f#	.
+12FFF#J_ 12CC#_ 12FF#_ 12a	.
+12FFF#L_ 12CC#_ 12FF#_ 12c# [12cc#	.
+12FFF#_ 12CC#_ 12FF#_ 12f# 12cc#_	.
+48FFF#KL_ 48CC#_ 48FF#_ [48a 48cc#]	.
+16FFF#JJ] 16CC#] 16FF#] 16a] 16cc#	.
+=24	=24
+[12EE#XL [12C# [12E#X 12c# [12cc#	.
+12EE#_ 12C#_ 12E#_ 12g# 12cc#_	.
+12EE#J_ 12C#_ 12E#_ 12b 12cc#_	.
+12EE#L_ 12C#_ 12E#_ 12c# 12cc#_	.
+12EE#_ 12C#_ 12E#_ 12g# 12cc#_	.
+12EE#J_ 12C#_ 12E#_ 12b 12cc#_	.
+12EE#L_ 12C#_ 12E#_ 12c# 12cc#_	.
+12EE#_ 12C#_ 12E#_ 12g# 12cc#_	.
+12EE#J_ 12C#_ 12E#_ 12b 12cc#]	.
+12EE#L_ 12C#_ 12E#_ 12c# [12cc#	.
+12EE#_ 12C#_ 12E#_ 12g# 12cc#_	.
+48EE#KL_ 48C#_ 48E#_ [48b 48cc#]	.
+16EE#JJ] 16C#] 16E#] 16b] 16cc#	.
+=25	=25
+!LO:TX:b:i:t=cresc.	!
+[12FF#L [12F# 12c# [12cc#	.
+12FF#_ 12F#_ 12f# 12cc#_	.
+12FF#J_ 12F#_ 12a 12cc#_	.
+12FF#L_ 12F#_ 12c# 12cc#_	.
+12FF#_ 12F#_ 12f# 12cc#_	.
+12FF#J] 12F#] 12a 12cc#]	.
+[12DD#L [12D# 12B#X [12b#X	.
+12DD#_ 12D#_ 12f# 12b#_	.
+12DD#J] 12D#] 12a 12b#]	.
+[12CC#L [12C# 12c# [12cc#	.
+12CC#_ 12C#_ 12f# 12cc#_	.
+12CC#J] 12C#] 12a 12cc#]	.
+=26	=26
+[12BBB#XL [12GG# [12BB#X 12d# [12dd#	.
+12BBB#_ 12GG#_ 12BB#_ 12f# 12dd#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12g# 12dd#_	.
+12BBB#L_ 12GG#_ 12BB#_ 12d# 12dd#_	.
+12BBB#_ 12GG#_ 12BB#_ 12f# 12dd#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12g# 12dd#_	.
+12BBB#L_ 12GG#_ 12BB#_ 12d# 12dd#_	.
+12BBB#_ 12GG#_ 12BB#_ 12f# 12dd#_	.
+12BBB#J] 12GG#] 12BB#] 12g# 12dd#]	.
+[12BBB#XL [12GG# [12BB#X 12d# [12dd#	.
+12BBB#_ 12GG#_ 12BB#_ 12f# 12dd#_	.
+12BBB#J] 12GG#] 12BB#] 12g# 12dd#]	.
+=27	=27
+!LO:TX:b:i:t=dim.	!
+[12CC#L [12GG# [12C# 12e [12ee	mp
+12CC#_ 12GG#_ 12C#_ 12g# 12ee_	.
+12CC#J_ 12GG#_ 12C#_ 12cc# 12ee_	.
+12CC#L_ 12GG#_ 12C#_ 12e 12ee_	.
+12CC#_ 12GG#_ 12C#_ 12g# 12ee_	.
+12CC#J] 12GG#] 12C#] 12cc# 12ee]	.
+[12FFF#L [12FF# 12d# [12dd#	.
+12FFF#_ 12FF#_ 12f# 12dd#_	.
+12FFF#J] 12FF#] 12a 12dd#]	.
+[12FFF##XL [12FF##X 12c# [12cc#	.
+12FFF##_ 12FF##_ 12e 12cc#_	.
+12FFF##J] 12FF##] 12a#X 12cc#]	.
+=28	=28
+[12GGG#L [12GG# 12b#X	p
+12GGG#_ 12GG#_ 12B#X	.
+12GGG#J_ 12GG#_ 12d#	.
+12GGG#L_ 12GG#_ [12g#	.
+12GGG#_ 12GG#_ 12B#X 12g#_	.
+12GGG#J_ 12GG#_ 12d# 12g#]	.
+12GGG#L_ 12GG#_ [12an	.
+12GGG#_ 12GG#_ 12B#X 12a_	.
+12GGG#J_ 12GG#_ 12d# 12a]	.
+12GGG#L_ 12GG#_ [12f#	.
+12GGG#_ 12GG#_ 12B#X 12f#_	.
+12GGG#J] 12GG#] 12d# 12f#]	.
+=29	=29
+[12GGG#L [12GG#	p
+12GGG#_ 12GG#_ 12B#X	.
+12GGG#J_ 12GG#_ 12d#	.
+12GGG#L_ 12GG#_ [12G#	.
+12GGG#_ 12GG#_ 12G#_ 12B#X	.
+12GGG#J_ 12GG#_ 12G#] 12d#	.
+12GGG#L_ 12GG#_ [12A	.
+12GGG#_ 12GG#_ 12A_ 12B#X	.
+12GGG#J_ 12GG#_ 12A] 12d#	.
+12GGG#L_ 12GG#_ [12F#	.
+12GGG#_ 12GG#_ 12F#_ 12B#X	.
+12GGG#J] 12GG#] 12F#] 12d#	.
+=30	=30
+[12GGG#L [12GG# 12E	p
+12GGG#_ 12GG#_ 12e	.
+12GGG#J_ 12GG#_ 12g#	.
+12GGG#L_ 12GG#_ [12cc#	.
+12GGG#_ 12GG#_ 12e 12cc#_	.
+12GGG#J_ 12GG#_ 12g# 12cc#]	.
+12GGG#L_ 12GG#_ [12ee	.
+12GGG#_ 12GG#_ 12e 12ee_	.
+12GGG#J_ 12GG#_ 12g# 12ee]	.
+12GGG#L_ 12GG#_ [12cc#	.
+12GGG#_ 12GG#_ 12e 12cc#_	.
+12GGG#J] 12GG#] 12g# 12cc#]	.
+=31	=31
+[12GGG#L [12GG#	p
+12GGG#_ 12GG#_ 12E	.
+12GGG#J_ 12GG#_ 12G#	.
+12GGG#L_ 12GG#_ [12c#	.
+12GGG#_ 12GG#_ 12E 12c#_	.
+12GGG#J_ 12GG#_ 12G# 12c#]	.
+12GGG#L_ 12GG#_ [12e	.
+12GGG#_ 12GG#_ 12E 12e_	.
+12GGG#J_ 12GG#_ 12G# 12e]	.
+12GGG#L_ 12GG#_ [12c#	.
+12GGG#_ 12GG#_ 12E 12c#_	.
+12GGG#J] 12GG#] 12G# 12c#]	.
+=32	=32
+[12GGG#L [12GG# 12D#	p
+12GGG#_ 12GG#_ 12A	.
+12GGG#J_ 12GG#_ 12F#	.
+12GGG#L_ 12GG#_ 12B#X	.
+12GGG#_ 12GG#_ 12A	.
+12GGG#J_ 12GG#_ 12d#	.
+12GGG#L_ 12GG#_ 12B#X	.
+12GGG#_ 12GG#_ 12f#	.
+12GGG#J_ 12GG#_ 12d#	.
+12GGG#L_ 12GG#_ 12a	.
+12GGG#_ 12GG#_ 12f#	.
+12GGG#J] 12GG#] 12b#X	.
+=33	=33
+[12GGG#L [12GG# 12E	.
+12GGG#_ 12GG#_ 12c#	.
+12GGG#J_ 12GG#_ 12G#	.
+12GGG#L_ 12GG#_ 12e	.
+12GGG#_ 12GG#_ 12c#	.
+12GGG#J_ 12GG#_ 12g#	.
+12GGG#L_ 12GG#_ 12e	.
+12GGG#_ 12GG#_ 12cc#	.
+12GGG#J_ 12GG#_ 12g#	.
+12GGG#L_ 12GG#_ 12ee	.
+12GGG#_ 12GG#_ 12cc#	.
+12GGG#J] 12GG#] 12g#	.
+=34	=34
+[12GGG#L [12GG# 12c#	.
+12GGG#_ 12GG#_ 12f##X	.
+12GGG#J_ 12GG#_ 12e	.
+12GGG#L_ 12GG#_ 12a#X	.
+12GGG#_ 12GG#_ 12f##X	.
+12GGG#J_ 12GG#_ 12cc#	.
+12GGG#L_ 12GG#_ 12a#X	.
+12GGG#_ 12GG#_ 12ee	.
+12GGG#J_ 12GG#_ 12cc#	.
+12GGG#L_ 12GG#_ 12ff##X	.
+12GGG#_ 12GG#_ 12ee	.
+12GGG#J] 12GG#] 12aa#X	.
+=35	=35
+[12GGG#L [12GG# 12f#	.
+12GGG#_ 12GG#_ 12b#X	.
+12GGG#J_ 12GG#_ 12an	.
+12GGG#L_ 12GG#_ 12dd#	.
+12GGG#_ 12GG#_ 12b#X	.
+12GGG#J_ 12GG#_ 12ff#	.
+12GGG#L_ 12GG#_ 12dd#	.
+12GGG#_ 12GG#_ 12aa	.
+12GGG#J_ 12GG#_ 12ff#	.
+12GGG#L_ 12GG#_ 12bb#X	.
+12GGG#_ 12GG#_ 12aa	.
+12GGG#J_ 12GG#_ 12ddd#	.
+=36	=36
+12GGG#L_ 12GG#_ 12bb#X	.
+12GGG#_ 12GG#_ 12ff#	.
+12GGG#J_ 12GG#_ 12aa	.
+12GGG#L_ 12GG#_ 12dd#	.
+12GGG#_ 12GG#_ 12ff#	.
+12GGG#J_ 12GG#_ 12b#X	.
+12GGG#L_ 12GG#_ 12dd#	.
+12GGG#_ 12GG#_ 12a	.
+12GGG#J_ 12GG#_ 12b#X	.
+12GGG#L_ 12GG#_ 12f#	.
+12GGG#_ 12GG#_ 12a	.
+12GGG#J_ 12GG#_ 12d#	.
+=37	=37
+12GGG#L_ 12GG#_ 12f#	.
+12GGG#_ 12GG#_ 12B#X	.
+12GGG#J_ 12GG#_ 12d#	.
+12GGG#L_ 12GG#_ 12A	.
+12GGG#_ 12GG#_ 12B#X	.
+12GGG#J_ 12GG#_ 12F#	.
+12GGG#L_ 12GG#_ 12A	.
+12GGG#_ 12GG#_ [12D#	.
+12GGG#J_ 12GG#_ 12D#] 12F#	.
+12GGG#L_ 12GG#_ [12C#	.
+12GGG#_ 12GG#_ 12C#_ 12F#	.
+12GGG#J] 12GG#] 12C#] 12A	.
+=38	=38
+[12GGG#L [12GG# [12BB#X	.
+12GGG#_ 12GG#_ 12BB#_ 12F#	.
+12GGG#J_ 12GG#_ 12BB#_ 12G#	.
+12GGG#L_ 12GG#_ 12BB#_ 12A	.
+12GGG#_ 12GG#_ 12BB#_ 12G#	.
+12GGG#J_ 12GG#_ 12BB#] 12F#	.
+12GGG#L_ 12GG#_ [12D#	.
+12GGG#_ 12GG#_ 12D#_ 12F#	.
+12GGG#J_ 12GG#_ 12D#] 12A	.
+12GGG#L_ 12GG#_ [12C#	.
+12GGG#_ 12GG#_ 12C#_ 12F#	.
+12GGG#J] 12GG#] 12C#] 12A	.
+=39	=39
+[12GGG#L [12GG# [12BB#X	.
+12GGG#_ 12GG#_ 12BB#_ 12F#	.
+12GGG#J_ 12GG#_ 12BB#_ 12G#	.
+12GGG#L_ 12GG#_ 12BB#_ 12A	.
+12GGG#_ 12GG#_ 12BB#_ 12G#	.
+12GGG#J_ 12GG#_ 12BB#] 12F#	.
+12GGG#L_ 12GG#_ [12Dn	.
+12GGG#_ 12GG#_ 12D_ 12F#	.
+12GGG#J_ 12GG#_ 12D] 12A	.
+12GGG#L_ 12GG#_ [12C#	.
+12GGG#_ 12GG#_ 12C#_ 12F#	.
+12GGG#J] 12GG#] 12C#] 12A	.
+=40	=40
+!LO:TX:b:i:t=dim.	!
+[12GGG#L [12GG# [12BB#X	.
+12GGG#_ 12GG#_ 12BB#_ 12F#	.
+12GGG#J_ 12GG#_ 12BB#_ 12G#	.
+12GGG#L_ 12GG#_ 12BB#_ 12A	.
+12GGG#_ 12GG#_ 12BB#_ 12G#	.
+12GGG#J] 12GG#] 12BB#] 12F#	.
+[12AAAL [12AA 12C#	.
+12AAA_ 12AA_ 12E	.
+12AAAJ_ 12AA_ 12c#	.
+12AAAL_ 12AA_ 12C#	.
+12AAA_ 12AA_ 12E	.
+12AAAJ] 12AA] 12c#	.
+=41	=41
+[12FFF#L [12FF# 12D#	.
+12FFF#_ 12FF#_ 12A	.
+12FFF#J_ 12FF#_ 12c#	.
+12FFF#L_ 12FF#_ 12D#	.
+12FFF#_ 12FF#_ 12A	.
+12FFF#J] 12FF#] 12c#	.
+[12GGG#L [12GG# 12D#	.
+12GGG#_ 12GG#_ 12G#	.
+12GGG#J_ 12GG#_ 12B#X	.
+12GGG#L_ 12GG#_ 12D#	.
+12GGG#_ 12GG#_ 12F#	.
+12GGG#J] 12GG#] 12B#X	.
+=42	=42
+[12CC#L [12GG# [12C# 12E	.
+12CC#_ 12GG#_ 12C#_ 12G#	.
+12CC#J_ 12GG#_ 12C#_ 12c#	.
+12CC#L_ 12GG#_ 12C#_ 12G#	.
+12CC#_ 12GG#_ 12C#_ 12c#	.
+12CC#J_ 12GG#_ 12C#_ 12e	.
+12CC#L_ 12GG#_ 12C#_ 12G#	.
+12CC#_ 12GG#_ 12C#_ 12c#	.
+12CC#J_ 12GG#_ 12C#_ 12e	.
+!	!LO:DY:a
+12CC#L_ 12GG#_ 12C#_ 12G# [12g#	pp
+12CC#_ 12GG#_ 12C#_ 12c# 12g#_	.
+48CC#KL_ 48GG#_ 48C#_ [48e 48g#]	.
+16CC#JJ] 16GG#] 16C#] 16e] 16g#	.
+=43	=43
+[12BBB#XL [12GG# [12BB#X 12G# [12g#	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12f# 12g#_	.
+12BBB#L_ 12GG#_ 12BB#_ 12G# 12g#_	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12f# 12g#_	.
+12BBB#L_ 12GG#_ 12BB#_ 12G# 12g#_	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12f# 12g#]	.
+12BBB#L_ 12GG#_ 12BB#_ 12G# [12g#	.
+12BBB#_ 12GG#_ 12BB#_ 12d# 12g#_	.
+48BBB#KL_ 48GG#_ 48BB#_ [48f# 48g#]	.
+16BBB#JJ] 16GG#] 16BB#] 16f#] 16g#	.
+=44	=44
+[12CC#L [12C# 12G# [12g#	.
+12CC#_ 12C#_ 12c# 12g#_	.
+12CC#J_ 12C#_ 12e 12g#_	.
+12CC#L_ 12C#_ 12G# 12g#_	.
+12CC#_ 12C#_ 12c# 12g#_	.
+12CC#J] 12C#] 12e 12g#]	.
+[12FFF#L [12FF# 12A [12a	.
+12FFF#_ 12FF#_ 12c# 12a_	.
+12FFF#J_ 12FF#_ 12f# 12a_	.
+12FFF#L_ 12FF#_ 12A 12a_	.
+12FFF#_ 12FF#_ 12c# 12a_	.
+12FFF#J] 12FF#] 12f# 12a]	.
+=45	=45
+[12BBBL [12BB 12G# [12g#	.
+12BBB_ 12BB_ 12B 12g#_	.
+12BBBJ_ 12BB_ 12e 12g#_	.
+12BBBL_ 12BB_ 12G# 12g#_	.
+12BBB_ 12BB_ 12B 12g#_	.
+12BBBJ] 12BB] 12e 12g#]	.
+[12BBBL [12BB 12A [12f#	.
+12BBB_ 12BB_ 12B 12f#_	.
+12BBBJ_ 12BB_ 12d# 12f#]	.
+12BBBL_ 12BB_ 12A [12b	.
+12BBB_ 12BB_ 12B 12b_	.
+12BBBJ] 12BB] 12d# 12b]	.
+=46	=46
+[12EEL [12E 12G# [12e	.
+12EE_ 12E_ 12B 12e_	.
+12EEJ_ 12E_ 12e]	.
+12EEL_ 12E_ 12B	.
+12EE_ 12E_ 12e	.
+12EEJ_ 12E_ 12g#	.
+12EEL_ 12E_ 12B	.
+12EE_ 12E_ 12e	.
+12EEJ_ 12E_ 12g#	.
+12EEL_ 12E_ 12B [12b	.
+12EE_ 12E_ 12e 12b_	.
+48EEKL_ 48E_ [48g# 48b]	.
+16EEJJ] 16E] 16g#] 16b	.
+=47	=47
+[12DD#L [12D# 12B [12b	.
+12DD#_ 12D#_ 12f# 12b_	.
+12DD#J_ 12D#_ 12a 12b_	.
+12DD#L_ 12D#_ 12B 12b_	.
+12DD#_ 12D#_ 12f# 12b_	.
+12DD#J_ 12D#_ 12a 12b_	.
+12DD#L_ 12D#_ 12B 12b_	.
+12DD#_ 12D#_ 12f# 12b_	.
+12DD#J_ 12D#_ 12a 12b]	.
+12DD#L_ 12D#_ 12B [12b	.
+12DD#_ 12D#_ 12f# 12b_	.
+48DD#KL_ 48D#_ [48a 48b]	.
+16DD#JJ] 16D#] 16a] 16b	.
+=48	=48
+!LO:TX:b:i:t=cresc.	!
+[12EEL [12E 12B [12b	.
+12EE_ 12E_ 12e 12b_	.
+12EEJ_ 12E_ 12g# 12b_	.
+12EEL_ 12E_ 12B 12b_	.
+12EE_ 12E_ 12e 12b_	.
+12EEJ] 12E] 12g# 12b]	.
+[12DD#L [12D# 12B#X [12b#X	.
+12DD#_ 12D#_ 12f# 12b#_	.
+12DD#J] 12D#] 12g# 12b#]	.
+[12CC#L [12C# 12c# [12cc#	.
+12CC#_ 12C#_ 12e 12cc#_	.
+12CC#J] 12C#] 12g# 12cc#]	.
+=49	=49
+[12BBB#XL [12GG# [12BB#X 12d# [12dd#	p
+12BBB#_ 12GG#_ 12BB#_ 12f# 12dd#_	.
+12BBB#J_ 12GG#_ 12BB#_ 12g# 12dd#_	.
+12BBB#L_ 12GG#_ 12BB#_ 12d# 12dd#_	.
+12BBB#_ 12GG#_ 12BB#_ 12f# 12dd#_	.
+12BBB#J] 12GG#] 12BB#] 12g# 12dd#]	.
+[12CC#L [12GG# [12C# 12e [12ee	.
+12CC#_ 12GG#_ 12C#_ 12g# 12ee_	.
+12CC#J_ 12GG#_ 12C#_ 12cc# 12ee_	.
+12CC#L_ 12GG#_ 12C#_ 12e 12ee_	.
+12CC#_ 12GG#_ 12C#_ 12g# 12ee_	.
+12CC#J] 12GG#] 12C#] 12cc# 12ee]	.
+=50	=50
+[12FFF#L [12FF# 12dn [12ddn	.
+12FFF#_ 12FF#_ 12f# 12dd_	.
+12FFF#J_ 12FF#_ 12a 12dd_	.
+12FFF#L_ 12FF#_ 12dn 12dd_	.
+12FFF#_ 12FF#_ 12f# 12dd_	.
+12FFF#J] 12FF#] 12a 12dd]	.
+[12GGG#L [12GG# 12B#X [12b#X	.
+12GGG#_ 12GG#_ 12f# 12b#_	.
+12GGG#J_ 12GG#_ 12g# 12b#_	.
+12GGG#L_ 12GG#_ 12B#X 12b#_	.
+12GGG#_ 12GG#_ 12f# 12b#_	.
+12GGG#J] 12GG#] 12g# 12b#]	.
+=51	=51
+[12CC#L [12C# 12c# [12cc#	.
+12CC#_ 12C#_ 12e 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#_	.
+12CC#L_ 12C#_ 12c# 12cc#_	.
+12CC#_ 12C#_ 12e 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#_	.
+12CC#L_ 12C#_ 12c# 12cc#_	.
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#]	.
+12CC#L_ 12C#_ 12c# [12cc#	.
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#]	.
+=52	=52
+12CC#L_ 12C#_ 12c# [12ddn	.
+12CC#_ 12C#_ 12f# 12dd_	.
+12CC#J] 12C#] 12a 12dd_	.
+[12FF#L [12F# 12c# 12dd_	.
+12FF#_ 12F#_ 12f# 12dd_	.
+12FF#J] 12F#] 12a 12dd_	.
+[12AAL [12A 12c# 12dd_	p
+12AA_ 12A_ 12f# 12dd_	.
+12AAJ] 12A] 12a 12dd]	.
+[12FF#L [12F# 12c# [12b#X	.
+12FF#_ 12F#_ 12f# 12b#_	.
+12FF#J] 12F#] 12a 12b#]	.
+=53	=53
+[12CC#L [12C# 12c# [12cc#	p
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#_	.
+12CC#L_ 12C#_ 12c# 12cc#_	.
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#_	.
+12CC#L_ 12C#_ 12c# 12cc#_	.
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#]	.
+12CC#L_ 12C#_ 12c# [12cc#	.
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#]	.
+=54	=54
+12CC#L_ 12C#_ 12c# [12ddn	.
+12CC#_ 12C#_ 12f# 12dd_	.
+12CC#J] 12C#] 12a 12dd_	.
+[12FF#L [12F# 12c# 12dd_	.
+12FF#_ 12F#_ 12f# 12dd_	.
+12FF#J] 12F#] 12a 12dd_	.
+[12AAL [12A 12c# 12dd_	p
+12AA_ 12A_ 12f# 12dd_	.
+12AAJ] 12A] 12a 12dd]	.
+[12FF#L [12F# 12c# [12b#X	.
+12FF#_ 12F#_ 12f# 12b#_	.
+12FF#J] 12F#] 12a 12b#]	.
+=55	=55
+[12CC#L [12C# 12c# [12cc#	p
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J_ 12C#_ 12g# 12cc#_	.
+12CC#L_ 12C#_ 12c# 12cc#_	.
+12CC#_ 12C#_ 12e#X 12cc#_	.
+12CC#J] 12C#] 12g# 12cc#]	.
+[12FFF#L [12FF# 12c# [12cc#	.
+12FFF#_ 12FF#_ 12f# 12cc#_	.
+12FFF#J_ 12FF#_ 12a 12cc#_	.
+12FFF#L_ 12FF#_ 12c# 12cc#_	.
+12FFF#_ 12FF#_ 12f# 12cc#_	.
+12FFF#J] 12FF#] 12a 12cc#]	.
+=56	=56
+[12DD#L [12D# 12Bn [12bn	.
+12DD#_ 12D#_ 12f# 12b_	.
+12DD#J_ 12D#_ 12a 12b_	.
+12DD#L_ 12D#_ 12B 12b_	.
+12DD#_ 12D#_ 12f# 12b_	.
+12DD#J_ 12D#_ 12a 12b_	.
+12DD#L_ 12D#_ 12B 12b_	.
+12DD#_ 12D#_ 12f# 12b_	.
+12DD#J] 12D#] 12a 12b]	.
+[12EEL [12E 12B [12b	.
+12EE_ 12E_ 12e 12b_	.
+12EEJ] 12E] 12g# 12b]	.
+=57	=57
+[12CC#L [12C# 12A [12a	.
+12CC#_ 12C#_ 12e 12a_	.
+12CC#J] 12C#] 12g# 12a]	.
+[12DD#L [12D# 12A [12a	.
+12DD#_ 12D#_ 12d# 12a_	.
+12DD#J] 12D#] 12f# 12a]	.
+[12BBB#XL [12BB#X 12G# [12g#	.
+12BBB#_ 12BB#_ 12d# 12g#_	.
+12BBB#J] 12BB#] 12f# 12g#]	.
+[12CC#L [12C# 12G# [12g#	.
+12CC#_ 12C#_ 12c# 12g#_	.
+12CC#J] 12C#] 12e 12g#]	.
+=58	=58
+!LO:TX:b:i:t=cresc.	!
+[12AAAL [12AA 12F# [12f#	.
+12AAA_ 12AA_ 12c# 12f#_	.
+12AAAJ_ 12AA_ 12d# 12f#_	.
+12AAAL_ 12AA_ 12F# 12f#_	.
+12AAA_ 12AA_ 12c# 12f#_	.
+12AAAJ] 12AA] 12d# 12f#]	.
+[12GGG#L [12GG# 12G# [12g#	.
+12GGG#_ 12GG#_ 12c# 12g#_	.
+12GGG#J] 12GG#] 12d# 12g#]	.
+[12FFF#L [12FF# 12A [12a	.
+12FFF#_ 12FF#_ 12c# 12a_	.
+12FFF#J] 12FF#] 12d# 12a]	.
+=59	=59
+[12GGG#L [12GG# 12G# [12g#	p
+12GGG#_ 12GG#_ 12c# 12g#_	.
+12GGG#J_ 12GG#_ 12e 12g#_	.
+12GGG#L_ 12GG#_ 12G# 12g#_	.
+12GGG#_ 12GG#_ 12c# 12g#_	.
+12GGG#J] 12GG#] 12e 12g#]	.
+[12GGG#L [12GG# 12F# [12g#	.
+12GGG#_ 12GG#_ 12B#X 12g#_	.
+12GGG#J_ 12GG#_ 12d# 12g#_	.
+12GGG#L_ 12GG#_ 12F# 12g#_	.
+12GGG#_ 12GG#_ 12B#X 12g#_	.
+12GGG#J] 12GG#] 12d# 12g#]	.
+=60	=60
+[12CC#L [12GG# 12E [12c#	.
+12CC#_ 12GG#_ 12G# 12c#_	.
+12CC#J_ 12GG#_ 12c#]	.
+12CC#L_ 12GG#_ 12G#	.
+12CC#_ 12GG#_ 12c#	.
+12CC#J_ 12GG#_ 12e	.
+12CC#L_ 12GG#_ 12G#	.
+12CC#_ 12GG#_ 12c#	.
+12CC#J_ 12GG#] 12e	.
+12CC#L_ [12GG# 12G#	.
+12CC#_ 12GG#_ 12c#	.
+48CC#KL_ 48GG#] [48e	.
+16CC#JJ] 16GG# 16e]	.
+=61	=61
+[12BBB#XL [12GG# 12G#	.
+12BBB#_ 12GG#_ 12d#	.
+12BBB#J_ 12GG#_ 12f#	.
+12BBB#L_ 12GG#_ 12G#	.
+12BBB#_ 12GG#_ 12d#	.
+12BBB#J_ 12GG#_ 12f#	.
+12BBB#L_ 12GG#_ 12G#	.
+12BBB#_ 12GG#_ 12d#	.
+12BBB#J_ 12GG#] 12f#	.
+12BBB#L_ [12GG# 12G#	.
+12BBB#_ 12GG#_ 12d#	.
+48BBB#KL_ 48GG#] [48f#	.
+16BBB#JJ] 16GG# 16f#]	.
+=62	=62
+[12CC#L [12GG# 12G#	pp
+12CC#_ 12GG#_ 12en	.
+12CC#J_ 12GG#_ 12c#	.
+12CC#L_ 12GG#_ 12g#	.
+12CC#_ 12GG#_ 12e	.
+12CC#J_ 12GG#_ 12cc#	.
+12CC#L_ 12GG#_ 12g#	.
+12CC#_ 12GG#_ 12ee	.
+12CC#J_ 12GG#] 12cc#	.
+12CC#L_ [12GG# 12gg#	.
+12CC#_ 12GG#_ 12ee	.
+48CC#KL_ 48GG#] [48cc#	.
+16CC#JJ] 16GG# 16cc#]	.
+=63	=63
+[12GGG#L [12GG# 12b#X	p
+12GGG#_ 12GG#_ 12dd#	.
+12GGG#J_ 12GG#_ 12a	.
+12GGG#L_ 12GG#_ 12b#X	.
+12GGG#_ 12GG#_ 12f#	.
+12GGG#J_ 12GG#_ 12a	.
+12GGG#L_ 12GG#_ 12d#	.
+12GGG#_ 12GG#_ 12f#	.
+12GGG#J_ 12GG#] [12A	.
+12GGG#L_ [12GG# 12A] [12B#X	.
+12GGG#_ 12GG#_ 12G# 12B#_	.
+48GGG#KL_ 48GG#] [48F# 48B#_	.
+16GGG#JJ] 16GG# 16F#] 16B#]	.
+=64	=64
+[12CC#L [12GG# 12E 12c#	pp
+12CC#_ 12GG#_ 12e	.
+12CC#J_ 12GG#_ 12c#	.
+12CC#L_ 12GG#_ 12g#	.
+12CC#_ 12GG#_ 12e	.
+12CC#J_ 12GG#_ 12cc#	.
+12CC#L_ 12GG#_ 12g#	.
+12CC#_ 12GG#_ 12ee	.
+12CC#J_ 12GG#] 12cc#	.
+12CC#L_ [12GG# 12gg#	.
+12CC#_ 12GG#_ 12ee	.
+48CC#KL_ 48GG#] [48cc#	.
+16CC#JJ] 16GG# 16cc#]	.
+=65	=65
+[12GGG#L [12GG# 12b#X	p
+12GGG#_ 12GG#_ 12dd#	.
+12GGG#J_ 12GG#_ 12a	.
+12GGG#L_ 12GG#_ 12b#X	.
+12GGG#_ 12GG#_ 12f#	.
+12GGG#J_ 12GG#_ 12a	.
+12GGG#L_ 12GG#_ 12d#	.
+12GGG#_ 12GG#_ 12f#	.
+12GGG#J_ 12GG#] [12A	.
+12GGG#L_ [12GG# 12A] [12B#X	.
+12GGG#_ 12GG#_ 12G# 12B#_	.
+48GGG#KL_ 48GG#] [48F# 48B#_	.
+16GGG#JJ] 16GG# 16F#] 16B#]	.
+=66	=66
+!LO:TX:b:i:t=dim.	!
+[12CC#L [12GG# 12E 12c#	.
+12CC#_ 12GG#_ 12G#	.
+12CC#J_ 12GG#_ 12c#	.
+12CC#L_ 12GG#_ 12e	.
+12CC#_ 12GG#_ 12c#	.
+12CC#J_ 12GG#] 12G#	.
+12CC#L_ [12C#	.
+12CC#_ 12C#_ 12E	.
+12CC#J_ 12C#_ 12G#	.
+12CC#L_ 12C#_ 12c#	.
+12CC#_ 12C#_ 12G#	.
+12CC#J_ 12C#] 12E	.
+=67	=67
+12CC#L_ [12GG#	.
+12CC#_ 12GG#_ 12C#	.
+12CC#J_ 12GG#_ 12E	.
+12CC#L_ 12GG#_ 12G#	.
+12CC#_ 12GG#_ 12E	.
+12CC#J] 12GG#] 12C#	.
+12GG#L	.
+12C#	.
+12GG#J	.
+12EEL	.
+12GG#	.
+12EEJ	.
+=68	=68
+2CC#	.
+2CC# 2GG# 2C# 2E 2G# 2c#	pp
+=69	=69
+1CC#; 1GG# 1C# 1E 1G# 1c#	.
+==	==
+*-	*-

@@ -1,0 +1,471 @@
+!!!COM: Music21
+!!!OTL: score.mxl
+!!!OMV: score.mxl
+**kern
+*I"Score
+*clefG2
+*k[f#]
+*M4/4
+*met(c)
+=1
+[24GLL 24g
+24G_ 24b
+24GJ] 24dd
+[24GGL 24gg
+24GG_ 24dd
+24GGJJ] 24b
+24ddLL
+24b
+24gJ
+[24GL 24b
+24G_ 24g
+24GJJ] 24d
+[24GLL 24e
+24G_ 24g
+24GJ] 24cc
+[24GGL 24ee
+24GG_ 24cc
+24GGJJ] 24g
+24ccLL
+24g
+24eJ
+[24GL 24g
+24G_ 24e
+24GJJ] 24c
+=2
+[24GLL 24A
+24G_ 24c
+24GJ] 24f#
+[24GGL 24a
+24GG_ 24f#
+24GGJJ] 24c
+24f#LL
+24c
+24AJ
+[24GL 24c
+24G_ 24A
+24F#JJ 24G]
+[24GLL
+24G_ 24B
+24GJ] 24d
+[24GGL 24g
+24GG_ 24d
+24GGJJ] 24B
+24dLL
+24B
+24GJ
+[24GL 24B
+24G_
+24EJJ 24G]
+!!linebreak:original
+=3
+[24GLL 24A
+24G_ 24c#X
+24GJ] 24e
+[24GGL 24a
+24GG_ 24e
+24GGJJ] 24c#X
+24eLL
+24c#X
+24AJ
+[24GL 24c#X
+24G_ 24A
+24EJJ 24G]
+24F#LL [24d
+24A 24d_
+24c#XJ 24d]
+24dL
+24A
+24F#JJ
+24ALL
+24F#
+24DJ
+24F#L [24d
+24D 24d_
+24BBJJ 24d]
+=4
+[24ELL 24d
+24E_ 24c#X
+24EJ] 24d
+[24EEL 24e
+24EE_ 24c#X
+24EEJJ] 24d
+24f#LL
+24c#X
+24dJ
+[24EL 24g
+24E_ 24c#X
+24EJJ] 24d
+[24C#XLL 24a
+24C#_ 24c#X
+24C#J] 24d
+[24AAL 24b
+24AA_ 24c#X
+24AAJJ] 24d
+[24BBLL 24a
+24BB_ 24c#X
+24BBJ] 24d
+[24C#XL 24g
+24C#_ 24c#X
+24C#JJ] 24d
+!!linebreak:original
+=5
+24DLL [24f#
+24c#X 24f#_
+24dJ 24f#]
+24EL [24g
+24c#X 24g_
+24dJJ 24g]
+24F#LL [24a
+24c#X 24a_
+24dJ 24a]
+24GL [24b
+24c#X 24b_
+24dJJ 24b]
+24F#LL [24a
+24c#X 24a_
+24dJ 24a]
+24EL [24g
+24c#X 24g_
+24dJJ 24g]
+24DLL [24f#
+24c#X 24f#_
+24dJ 24f#]
+24F#L [24a
+24c#X 24a_
+24dJJ 24a]
+=6
+[24BBLL 24g#X
+24BB_ 24b
+24BBJ] 24dd
+[24BL 24ffn
+24B_ 24dd
+24BJJ] 24b
+24ddLL
+24b
+24g#XJ
+[24AL 24b
+24A_ 24g#X
+24AJJ] 24e
+[24G#XLL 24d
+24G#_ 24fn
+24G#J] 24g#X
+[24GG#XL 24b
+24GG#_ 24g#X
+24GG#JJ] 24fn
+24g#XLL
+24fn
+24dJ
+[24G#XL 24fn
+24G#_ 24d
+24G#JJ] 24B
+!!linebreak:original
+=7
+24ALL [24c
+24c_
+24cJ] 24e
+24aL [24ee
+24e 24ee_
+24cJJ 24ee]
+24eLL [24cc
+24c 24cc_
+24AJ 24cc]
+24cL [24a
+24A 24a_
+24EJJ 24a]
+24CLL [24e
+24E 24e_
+24AJ 24e]
+24cL [24ee
+24A 24ee_
+24EJJ 24ee]
+24ALL [24cc
+24E 24cc_
+24CJ 24cc]
+24EL [24a
+24C 24a_
+24AAJJ 24a]
+=8
+[24FF#LL 24dd#X
+24FF#_ 24ff#
+24FF#J] 24aa
+[24F#L 24ccc
+24F#_ 24aa
+24F#JJ] 24ff#
+24aaLL
+24ff#
+24dd#XJ
+[24EL 24ff#
+24E_ 24dd#X
+24EJJ] 24b
+[24D#XLL 24a
+24D#_ 24cc
+24D#J] 24dd#X
+[24DD#XL 24ff#
+24DD#_ 24dd#X
+24DD#JJ] 24cc
+24dd#XLL
+24cc
+24aJ
+[24D#XL 24cc
+24D#_ 24a
+24D#JJ] 24f#
+!!pagebreak:original
+=9
+24ELL [24g
+24d#X 24g_
+24eJ 24g]
+24F#L [24a
+24d#X 24a_
+24eJJ 24a]
+24GLL [24b
+24d#X 24b_
+24eJ 24b]
+24AL [24cc
+24d#X 24cc_
+24eJJ 24cc]
+24GLL [24b
+24d#X 24b_
+24eJ 24b]
+24F#L [24a
+24d#X 24a_
+24eJJ 24a]
+24ELL [24g
+24d#X 24g_
+24eJ 24g]
+24GL [24b
+24d#X 24b_
+24eJJ 24b]
+=10
+[24C#XLL 24a
+24C#_ 24g#X
+24C#J] 24a
+[24DL 24b
+24D_ 24g#X
+24DJJ] 24a
+[24ELL 24cc#X
+24E_ 24g#X
+24EJ] 24a
+[24F#L 24dd
+24F#_ 24g#X
+24F#JJ] 24a
+[24C#XLL 24ee
+24C#_ 24g#X
+24C#J] 24a
+[24BBL 24ff#
+24BB_ 24g#X
+24BBJJ] 24a
+[24AALL 24ggn
+24AA_ 24ee
+24AAJ] 24cc#X
+[24C#XL 24a
+24C#_ 24cc#X
+24C#JJ] 24ee
+!!linebreak:original
+=11
+24DLL [24ff#
+24F# 24ff#_
+24AJ 24ff#]
+24dL
+24A
+24F#JJ
+[24DLL 24aa
+24D_ 24ff#
+24DJ] 24dd
+[24dL 24ccn
+24d_ 24dd
+24dJJ] 24ff#
+24DLL [24aa
+24G 24aa_
+24BJ 24aa]
+24dL [24gg
+24B 24gg_
+24GJJ 24gg]
+[24DLL 24gg
+24D_ 24ee
+24DJ] 24cc#X
+[24dL 24a
+24d_ 24cc#X
+24dJJ] 24ee
+=12
+24DLL [24gg
+24A 24gg_
+24c#XJ 24gg]
+24dL [24ff#
+24A 24ff#_
+24F#JJ 24ff#]
+[24DLL 24ff#
+24D_ 24dd
+24DJ] 24b
+[24dL 24g
+24d_ 24b
+24dJJ] 24dd
+24DLL [24ff#
+24E 24ff#_
+24GJ 24ff#]
+24BL [24ee
+24G 24ee_
+24EJJ 24ee]
+[24DLL 24ee
+24D_ 24cc#X
+24DJ] 24a
+[24dL 24g
+24d_ 24a
+24dJJ] 24cc#X
+!!linebreak:original
+=13
+24DLL [24ee
+24F# 24ee_
+24AJ 24ee]
+24dL [24dd
+24A 24dd_
+24F#JJ 24dd]
+24ALL
+24F#
+24DJ
+24F#L [24dd
+24D 24dd_
+24CnJJ 24dd]
+24BBLL 24dd
+24D 24cc
+24GJ 24b
+24GL 24b
+24D 24a
+24BBJJ 24g
+24DLL 24g
+24BB 24b
+24GGJ 24dd
+24BBL 24ffn
+24GG 24ee
+24FFnJJ 24dd
+=14
+24EELL 24dd
+24GG 24ee
+24BBJ 24ffn
+24CL [24ee
+24E 24ee_
+24GJJ 24ee]
+24cLL
+24G
+24EJ
+24GL [24ee
+24E 24ee_
+24DJJ 24ee]
+24C#XLL 24ee
+24E 24dd
+24GJ 24cc#X
+24AL 24cc#
+24E 24b
+24C#XJJ 24a
+24ELL 24a
+24C#X 24cc#X
+24AAJ 24ee
+24C#XL 24gg
+24AA 24ff#X
+24GGJJ 24ee
+!!linebreak:original
+=15
+24FF#LL 24ee
+24AA 24ff#
+24C#XJ 24gg
+24DL [24ff#
+24F# 24ff#_
+24AJJ 24ff#]
+24dLL
+24A
+24F#J
+24AL [24aa
+24F# 24aa_
+24DJJ 24aa]
+24F#LL 24aa
+24D 24gg
+24AAJ 24ff#
+24DL 24ff#
+24AA 24ee
+24FF#JJ 24dd
+[24DDLL 24dd
+24DD_ 24ff#
+24DDJ] 24aa
+[24DL 24cccn
+24D_ 24bb
+24DJJ] 24aa
+=16
+[24GGLL 24aa
+24GG_ 24bb
+24GGJ] 24ccc
+24GGL [24bb
+24BB 24bb_
+24DJJ 24bb_
+24GLL 24bb]
+24A 24aa
+24BJ 24gg
+24BL 24ffn
+24c 24ee
+24dJJ 24dd
+[24eLL 24cc
+24e_ 24ee
+24eJ] 24gg
+24cL 24aa
+24A 24ff#X
+24F#XJJ 24dd
+[24dLL 24b
+24d_ 24dd
+24dJ] 24ff#
+24BL 24gg
+24G 24ee
+24EJJ 24cc
+!!linebreak:original
+=17
+[24cLL 24a
+24c_ 24cc
+24cJ] 24ee
+24AL 24ff#
+24F# 24dd
+24DJJ 24b
+[24BLL 24g
+24B_ 24b
+24BJ] 24dd
+24GL 24ee
+24E 24cc
+24CJJ 24a
+[24ALL 24f#
+24A_ 24a
+24AJ] 24cc
+24F#L 24dd
+24D 24b
+24BBJJ 24g
+[24GLL 24e
+24G_ 24g
+24GJ] 24b
+24EL 24cc
+24C 24a
+24AAJJ 24f#
+=18
+[24F#LL 24d
+24F#_ 24f#
+24F#J] 24a
+24DL 24b
+24BB 24g
+24GGJJ 24e
+24ELL 24c
+24C 24e
+24AAJ 24g
+24F#L 24a
+24D 24f#
+24BBJJ 24d
+[24GGLL 24B
+24GG_ 24d
+24GGJ] 24f#
+[24EL 24g
+24E_ 24e
+24EJJ] 24c
+[24CLL 24A
+24C_ 24c
+24CJ] 24e
+[24DL 24f#
+24D_ 24d
+24DJJ] 24c
+=19
+1GG; 1B 1d 1g
+==
+*-

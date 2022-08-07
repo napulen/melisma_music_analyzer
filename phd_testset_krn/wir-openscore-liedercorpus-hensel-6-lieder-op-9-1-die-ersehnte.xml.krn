@@ -1,0 +1,183 @@
+!!!COM: Fanny (Mendelssohn) Hensel
+!!!OTL: 6 Lieder
+!!!OMV: Die Ersehnte
+**kern
+*I"Voice
+*clefG2
+*k[b-e-a-]
+*M12/8
+=1
+!LO:TX:a:B:t=Andante con moto
+[8EE-L [8E- 8G
+8EE-_ 8E-_ 8B-
+8EE-J_ 8E-_ 8e-
+8EE-L_ 8E-_ 8g
+8EE-_ 8E-_ 8e-
+8EE-J_ 8E-_ 8B-
+8EE-L_ 8E-_ 8G
+8EE-_ 8E-_ 8B-
+8EE-J_ 8E-_ 8e-
+8EE-L_ 8E-_ 8g
+8EE-_ 8E-_ 8e-
+8EE-J] 8E-] 8B-
+=2!|:
+[8EE-L [8E- 8G 8B- [8ee-
+8EE-_ 8E-_ 8d-X 8ee-_
+8EE-J_ 8E-_ 8e- 8ee-_
+8EE-L_ 8E-_ 8g 8ee-_
+8EE-_ 8E-_ 8e- 8ee-]
+8EE-J_ 8E-_ 8d-X 8g
+8EE-L_ 8E-_ 8B- [8g
+8EE-_ 8E-_ 8d-X 8g_
+8EE-J_ 8E-_ 8e- 8g]
+8EE-L_ 8E-_ [8f 8g
+8EE-_ 8E-_ 8e- 8f]
+8EE-J] 8E-] 8d-X 8g
+=3
+[8EE-L [8E- 8c [8a-
+8EE-_ 8E-_ 8e- 8a-_
+8EE-J_ 8E-_ 8a-]
+8EE-L_ 8E-_ 8G [8b-
+8EE-_ 8E-_ 8d-X 8b-_
+8EE-J_ 8E-_ 8e- 8b-]
+8EE-L_ 8E-_ 8A- [8cc
+8EE-_ 8E-_ 8c 8cc_
+8EE-J_ 8E-_ 8e- 8cc]
+8EE-L_ 8E-_ 8A- [8ddn
+8EE-_ 8E-_ 8c-X 8dd_
+8EE-J] 8E-] 8f 8dd]
+=4
+[8EE-L [8E- 8G [8ee-
+8EE-_ 8E-_ 8B- 8ee-_
+8EE-J_ 8E-_ 8e- 8ee-_
+8EE-L_ 8E-_ 8F 8ee-]
+8EE-_ 8E-_ 8A- 8dd
+8EE-J_ 8E-_ 8e- 8cc
+8EE-L_ 8E-_ 8G [8b-
+8EE-_ 8E-_ 8B- 8b-_
+8EE-J_ 8E-_ 8e- 8b-]
+8EE-L_ 8E-_ 8g
+8EE-_ 8E-_ 8e-
+8EE-J] 8E-] 8B-
+=5
+[8EE-L [8E- 8G [8d-X [8ee-
+8EE-_ 8E-_ 8B- 8d-_ 8ee-_
+8EE-J_ 8E-_ 8d-_ 8e- 8ee-_
+8EE-L_ 8E-_ 8d-_ 8g 8ee-_
+8EE-_ 8E-_ 8d-_ 8e- 8ee-]
+8EE-J_ 8E-_ 8B- 8d-] 8g
+8EE-L_ 8E-_ [8d-X [8g
+8EE-_ 8E-_ 8B- 8d-_ 8g_
+8EE-J_ 8E-_ 8d-_ 8e- 8g]
+8EE-L_ 8E-_ 8d-_ [8f 8g
+8EE-_ 8E-_ 8d-_ 8e- 8f]
+8EE-J] 8E-] 8B- 8d-] 8g
+=6
+[8EE-L [8E- 8c-X [8a-
+8EE-_ 8E-_ 8e- 8a-_
+8EE-J_ 8E-_ 8a-]
+8EE-L_ 8E-_ 8B- [8b-
+8EE-_ 8E-_ 8e- 8b-_
+8EE-J_ 8E-_ 8g 8b-]
+8EE-L_ 8E-_ 8A- [8cc-X
+8EE-_ 8E-_ 8c-X 8cc-_
+8EE-J_ 8E-_ 8f 8cc-]
+8EE-L_ 8E-_ 8A- [8d
+8EE-_ 8E-_ 8c-X 8d_
+8EE-J] 8E-] 8d] 8f
+=7
+[8EE-L [8E- 8G [8e-
+8EE-_ 8E-_ 8B- 8e-_
+8EE-J_ 8E-_ 8e-_
+8EE-L_ 8E-_ 8A- 8e-]
+8EE-_ 8E-_ 8c-X 8g
+8EE-J_ 8E-_ 8e- 8f
+8EE-L_ 8E-_ 8G [8e-
+8EE-_ 8E-_ 8B- 8e-_
+8EE-J_ 8E-_ 8e-]
+8EE-L_ 8E-_ 8g
+8EE-_ 8E-_ 8e-
+8EE-J] 8E-] 8B-
+=8
+[8BB-L 8F [8f
+8BB-_ 8B- 8f_
+8BB-J_ 8d 8f]
+8BB-L_ 8f
+8BB-_ 8d
+8BB-J_ 8B- 8f
+8BB-L_ 8G-X [8g-X
+8BB-_ 8B- 8g-_
+8BB-J_ 8e- 8g-]
+8BB-L_ [8g-X
+8BB-_ 8e- 8g-_
+8BB-J] 8B- 8g-]
+=9
+[8BB-L 8G-X [8an
+8BB-_ 8c 8a_
+8BB-J_ 8e- 8a]
+8BB-L_ 8g-X [8a
+8BB-_ 8e- 8a]
+8BB-J_ 8c 8an
+8BB-L_ [8D 8F [8b-
+8BB-_ 8D_ 8B- 8b-_
+8BB-J_ 8D_ 8d 8b-]
+8BB-L_ 8D_ 8f [8cc
+8BB-_ 8D_ 8d 8cc_
+8BB-J] 8D] 8B- 8cc]
+=10
+[8DDL [8BB- [8D 8A- [8cc
+8DD_ 8BB-_ 8D_ 8B- 8cc_
+8DDJ_ 8BB-_ 8D_ 8f 8cc]
+8DDL_ 8BB-_ 8D_ 8a- [8b-
+8DD_ 8BB-_ 8D_ 8f 8b-_
+8DDJ] 8BB-] 8D] 8d 8b-]
+[8AA-L [8A- 8B- [8cc
+8AA-_ 8A-_ 8d 8cc_
+8AA-J_ 8A-_ 8f 8cc]
+8AA-L_ 8A-_ 8b- [8dd
+8AA-_ 8A-_ 8f 8dd_
+8AA-J] 8A-] 8d 8dd]
+=11
+[8GGL [8G 8B- [8ee-
+8GG_ 8G_ 8e- 8ee-_
+8GGJ_ 8G_ 8b- 8ee-_
+8GGL_ 8G_ 8Bn 8ee-_
+8GG_ 8G_ 8e- 8ee-_
+8GGJ] 8G] 8bn 8ee-_
+[8AA-L [8A- 8c 8ee-]
+8AA-_ 8A-_ 8e- 8aa-
+8AA-J_ 8A-_ 8a- 8gg
+8AA-L_ 8A-_ 8cc 8ff
+8AA-_ 8A-_ 8a- 8dd
+8AA-J] 8A-] 8e- 8ee-
+=12
+[8BB-L 8G 8g [8ee-
+8BB-_ 8B- 8ee-_
+8BB-J_ 8e- 8ee-_
+8BB-L_ 8G-X 8g-X 8ee-_
+8BB-_ 8B- 8ee-_
+8BB-J_ 8e- 8ee-]
+8BB-L_ 8F [8f [8b-
+8BB-_ 8A- 8f_ 8b-_
+8BB-J_ 8e- 8f] 8b-_
+8BB-L_ 8F [8f 8b-_
+8BB-_ 8A- 8f_ 8b-_
+8BB-J] 8d 8f] 8b-]
+=13
+[8EE-L [8E- 8G [8e-
+8EE-_ 8E-_ 8B- 8e-_
+8EE-J_ 8E-_ 8e-]
+8EE-L_ 8E-_ 8g
+8EE-_ 8E-_ 8e-
+8EE-J_ 8E-_ 8B-
+8EE-L_ 8E-_ 8G
+8EE-_ 8E-_ 8B-
+8EE-J_ 8E-_ 8e-
+8EE-L_ 8E-_ 8g
+8EE-_ 8E-_ 8e-
+8EE-J] 8E-] 8B-
+=14
+1.EE- 1.BB- 1.E- 1.G
+==
+*-
+!!!YEM: OpenScore (CC0)

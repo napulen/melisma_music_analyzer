@@ -1,0 +1,51 @@
+!!!COM: Kostka, Payne, and Almén
+!!!OTL: 18-4. Mozart, Viennese Sonatina no.6, II
+!!!OMV: 18-4. Mozart, Viennese Sonatina no.6, II
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+4gg
+=1
+[4c [4g 4ff
+4c_ 4g_ 4ee
+4c] 4g] 4ff
+=2
+[4f [4g 4ee
+4f_ 4g_ 4dd
+4f] 4g] 4b
+=3
+4e 4g
+4d
+4c 4cc
+4b 4ff
+4cc 4ee
+=4
+2g
+4B 4cc 4ee
+4b 4dd
+4dd
+=5
+4c 4ee
+4A 4c 4ff#X
+4B 4d 4gg#X
+=6
+4c 4e [4aa
+[8cL [8e 8aa]
+8cJ] 8e] 8bb
+4ccc
+=7
+4D 4c [4dd
+[8DL [8c 8dd]
+8DJ] 8c] 8ee
+4ff#X
+=8
+8GL 8B [8gg
+8dJ 8gg]
+8GL 8B
+8dJ
+8GL 8B
+8dJ
+==
+*-

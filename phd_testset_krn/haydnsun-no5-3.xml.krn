@@ -1,0 +1,1004 @@
+!!!COM: Haydn, Franz Joseph
+!!!OTL: String Quartet in F Minor
+!!!OMV: Adagio
+**kern
+*clefG2
+*k[b-]
+*M6/8
+=1
+[8.FL [8.c [8.a 8.cc
+16FK] 16c] 16a] 16dd
+8FJ 8c 8a 8cc
+[8FL [8c [8a 8cc
+8F] 8c] 8a] 8dd
+8FJ 8c 8f 8a
+=2
+[8.FL [8.d [8.g 8.b-
+16FK] 16d] 16g] 16cc
+8FJ 8d 8g 8b-
+4F 4d 4g 4b-
+8F 8d 8g
+=3
+[8.EL [8.c [8.g 8.b-
+16EK] 16c] 16g] 16cc
+8EJ 8c 8g 8b-
+[8EL [8c [8g 8b-
+8E] 8c] 8g] 8dd
+8EJ 8c 8g
+=4
+[8.FL [8.c [8.a
+16FK] 16c] 16a] 16b-
+8FJ 8c 8a
+4F 4c 4a
+8E 8c 8g
+=5
+[8.DL [8.d [8.f 8.ff
+16DK] 16d] 16f] 16gg
+8dJ 8a 8ff
+8B-L [8d 8dd 8gg
+8A 8d] 8cc 8aa
+8GJ 8g 8b- 8bb-
+=6
+[8.cL [8.g [8.b- 8.ee
+16cK] 16g] 16b-] 16ff
+8CJ 8g 8b- 8ee
+8FL 8f 8a [8ff
+8ffJ]
+8r
+=7
+8.B-L [8.f 8.dd
+16AK 16f] 16cc#X
+8B-J 8f 8dd
+8B-L 8f 8dd
+8A 8cn 8f#X 8ccn
+8GJ 8d 8g 8b-
+=8
+[8.cL 8.f 8.a
+16cK] 16g 16b-
+8CJ 8B- 8e 8g
+4F 4A 4f
+8r
+=9
+[8.FL [8.a 8.cc
+16FK] 16a] 16dd
+8FJ 8a 8cc
+[32FLLL [32a [32cc 32ccc
+32F_ 32a_ 32cc_ 32bb-
+32F_ 32a_ 32cc_ 32aa
+32F_ 32a_ 32cc] 32gg
+32F_ 32a_ [32dd 32ff
+32F_ 32a_ 32dd_ 32ee
+32F_ 32a_ 32dd_
+32F] 32a] 32cc 32dd]
+[32F [32f [32a 32b-
+32F_ 32f_ 32a_
+32F_ 32f_ 32g 32a_
+32FJJJ] 32f] 32a]
+=10
+[8.GL [8.e 8.b-
+16GK] 16e] 16cc
+8FJ 8f 8b-
+8EL 8g 8b-
+32ccLL
+32ee
+32dd
+32ff
+32ee
+32gg
+32ff
+32aaJJJ
+=11
+[8EL [8c [8b- 8gg
+16EL_ 16c_ 16b-]
+16EJ] 16c] 16cc
+8EJ 8c 8b-
+[32ELLL [32c [32b- 32bb-
+32E_ 32c_ 32b-_ 32ccc
+32E_ 32c_ 32b-_ 32ddd
+32E_ 32c_ 32b-] 32ccc
+32E_ 32c_ [32dd 32bb-
+32E_ 32c_ 32dd_ 32aa
+32E_ 32c_ 32dd_ 32gg
+32E] 32c] 32dd] 32ff
+[32E [32c [32g 32ee
+32E_ 32c_ 32g_ 32dd
+32E_ 32c_ 32g_ 32cc
+32EJJJ] 32c] 32g] 32b-
+=12
+[8FL [8c [8a
+16FL_ 16c_ 16a]
+16FJ] 16c] 16b-
+8FJ 8c 8a
+[32FLLL [32c [32a
+32F_ 32c_ 32f 32a_
+32F_ 32c_ 32e 32a_
+32F] 32c] 32f 32a]
+32g
+32f
+32a
+32f
+32b-
+32f
+32cc
+32fJJJ
+=13
+[8.BB-L [8.f [8.dd
+16BB-K] 16f] 16dd] 16ee-X
+8B-J 8f#X 8dd
+[16B-LL [16g [16dd
+16B-_ 16g_ 16dd] 16ff#X
+16B-_ 16g_ 16gg [16bb-
+16B-] 16g] 16bb-]
+[16B- [16g [16gg 16ddd
+16B-JJ] 16g] 16gg] 16bb-
+=14
+[16B-LL [16g [16ff
+16B-_ 16g_ 16ee 16ff_
+16B-_ 16g_ 16ff_ 16gg
+16B-] 16g] 16ff] 16ccc
+[16B- [16g [16ee 16eee
+16B-JJ] 16g] 16ee] 16ggg
+[32ALLL [32c [32ff
+32A_ 32c_ 32ee 32ff_
+32A_ 32c_ 32ff_
+32A_ 32c_ 32ff] 32gg
+32A_ 32c_ 32aa
+32A_ 32c_ 32gg
+32A_ 32c_ 32ff
+32A] 32c] 32ee
+[32F [32a 32dd
+32F_ 32a_ 32cc
+32F_ 32a_ 32b-
+32FJJJ] 32a]
+=15
+[8.GL [8.d [8.g 8.b-
+16GK] 16d] 16g_ 16cc
+8FJ 8d 8g] 8b-
+[32ELLL [32c [32b-
+32E_ 32c_ 32b-_ 32bb-
+32E_ 32c_ 32b-_ 32gg
+32E] 32c_ 32b-] 32ee
+32c_ [32cc
+32c_ 32b- 32cc_
+32c_ 32g 32cc_
+32cJJ] 32e 32cc]
+8FJ 8c 8f 8a
+=16
+[8.BB-L [8.d 8.g
+16BB-K] 16d] 16b-
+8CJ 8B- 8e
+[32FFLLL [32A [32f
+32FF_ 32A_ 32f_
+32FF_ 32A_ 32e 32f_
+32FF_ 32A_ 32f_
+32FF_ 32A_ 32f_ 32g
+32FF_ 32A_ 32f_
+32FF_ 32A_ 32f_ 32a
+32FF] 32A] 32f] 32g
+32b-
+32a
+32dd
+32ccJJJ
+=17
+[8.FL [8.A [8.a 8.cc
+16FK] 16A] 16a] 16dd
+8FJ 8A 8a 8cc
+[16FLL [16A [16a 16cc
+16F_ 16A_ 16a_ 16aa
+16F_ 16A_ 16a_ 16gg
+16F] 16A] 16a] 16ff
+[16F [16A [16a 16ee
+16FJJ] 16A] 16a] 16dd
+=18
+[24%7E [24%7A [24%7g [24%7cc#X
+48ELLL_ 48A_ 48g_ 48cc#]
+32E_ 32A_ 32g_ 32dd
+32EJJJ] 32A_ 32g] 32ee
+[32FLLL 32A_ [32f 32dd
+32F_ 32A_ 32f_ 32a
+32F_ 32A_ 32f_ 32g
+32F] 32A] 32f] 32a
+32f
+32a
+32e
+32a
+32d
+32a
+32e
+32aJJJ
+=19
+24fLL
+24a
+24b-
+24bn
+24cc
+24cc#X
+24dd
+24ee
+24ffJJ
+24ff#XLL
+24gg
+24gg#XJ
+[8aa
+[16F#XL [16A [16d 16aa]
+16F#JJ] 16A] 16d] 16ccn
+=20
+[8GL [8d 8cc
+32GLL_ 32d_ 32bn
+32G_ 32d_ 32g
+32G_ 32d_ 32f#X
+32G] 32d] 32g
+[32G [32Bn [32d 32a
+32G_ 32B_ 32d_ 32g
+32G_ 32B_ 32d_ 32f#X
+32GJJJ] 32B] 32d] 32g
+[8GL [8Bn [8d
+8G] 8B] 8d]
+8FnJ 8Bn 8d
+=21
+[8.EL [8.c 8.gg
+16EK] 16c] 16aa
+8EJ 8c 8g 8gg
+[16DLL [16c [16a 16gg
+16D_ 16c_ 16a_ 16ff
+16D_ 16c_ 16a_
+32DL_ 32c_ 32a_ 32ee
+32D] 32c] 32a] 32dd
+[32G [32Bn [32d 32cc
+32G_ 32B_ 32d_ 32bn
+32G_ 32B_ 32d_ 32a
+32GJJJ] 32B] 32d] 32g
+=22
+[32CLLL [32c [32e 32f
+32C_ 32c_ 32e_
+32C_ 32c_ 32e_ 32a
+32C_ 32c_ 32e_ 32g
+32C_ 32c_ 32e_ 32cc
+32C_ 32c_ 32e_ 32bn
+32C_ 32c_ 32e_ 32a
+32C] 32c] 32e] 32g
+[32C [32c [32e 32f
+32C_ 32c_ 32e_
+32C_ 32c_ 32d 32e_
+32CJJJ] 32c] 32e]
+[8GL [8Bn [8d
+8G] 8B] 8d]
+8FJ 8Bn 8d
+=23
+[8EL [8c 8gg
+24EL_ 24c_ 24gg
+24E_ 24c_ 24aa
+24E] 24c] 24gg
+[24E [24c [24g 24ccc
+24E_ 24c_ 24g_ 24bbn
+24EJJ] 24c] 24g] 24aa
+[24DLL [24c [24a 24gg
+24D_ 24c_ 24a_ 24ff
+24D_ 24c_ 24a_ 24ee
+24D_ 24c_ 24a_ 24dd
+24D_ 24c_ 24a_ 24cc
+24D] 24c] 24a] 24bn
+[24G [24Bn [24d 24a
+24G_ 24B_ 24d_ 24g
+24GJJ] 24B] 24d] 24f
+=24
+[24CLL [24c [24e
+24C_ 24c_ 24e_ 24a
+24C_ 24c_ 24e_ 24g
+24C_ 24c_ 24e_ 24cc
+24C_ 24c_ 24e_ 24bn
+24C] 24c] 24e] 24a
+[24C [24c [24e 24g
+24C_ 24c_ 24e_ 24f
+24CJJ] 24c] 24e]
+[8GL [8Bn [8d
+8G] 8B] 8d]
+8FJ 8Bn 8d
+=25
+[8.EL [8.c 8.gg
+16EK] 16c] 16aa
+8EJ 8c 8gg
+4E 4c 4ccc
+8E 8B- 8c 8gg#X
+=26
+[32FLLL [32A [32c 32aa
+32F_ 32A_ 32c_ 32bbn
+32F_ 32A_ 32c_ 32ccc
+32F_ 32A_ 32c_ 32bbn
+32F_ 32A_ 32c_ 32aa
+32F_ 32A_ 32c_ 32gg
+32F_ 32A_ 32c_ 32ff
+32F] 32A] 32c] 32ee
+[32F [32A [32d 32gg
+32F_ 32A_ 32d_ 32ff
+32F_ 32A_ 32d_ 32aa
+32FJJJ] 32A] 32d] 32gg
+[32FLLL [32A [32d 32ff
+32F_ 32A_ 32d_ 32ee
+32F_ 32A_ 32d_ 32dd
+32F_ 32A_ 32d_ 32cc#X
+32F_ 32A_ 32d_ 32ee
+32F_ 32A_ 32d_ 32dd
+32F_ 32A_ 32d_ 32ff
+32F] 32A] 32d] 32ee
+[32F [32d 32dd
+32F_ 32d_ 32ccn
+32F_ 32d_ 32bn
+32FJJJ] 32d] 32a
+=27
+[8.GL [8.c [8.e 8.g
+32GLL_ 32c_ 32e_ 32ee
+32G] 32c] 32e] 32cc
+[32G [32c [32e 32gg
+32G_ 32c_ 32e_ 32ee
+32G_ 32c_ 32e_ 32gg
+32GJJJ] 32c] 32e] 32ee
+4G 4c 4e 4cc
+[16GLL [16Bn [16f 16dd
+16GJJ] 16B] 16f] 16cc
+=28
+[16cLL 16e [16cc
+16c_ 16g 16cc]
+16c_ 16e [16cc
+16c] 16g 16cc]
+[16c 16e [16cc
+16cJJ] 16g 16cc]
+[16GLL 16f [16bn [16dd
+16G_ 16g 16b_ 16dd_
+16G_ 16f 16b_ 16dd_
+16G] 16g 16b_ 16dd]
+[16G 16f 16b_
+16GJJ] 16g 16b]
+=29
+[16CLL 16e [16cc
+16C_ 16g 16cc_
+16C_ 16e 16cc_
+16C] 16g 16cc_
+[16c 16e 16cc_
+16cJJ] 16g 16cc]
+[16GLL 16f [16bn [16dd
+16G_ 16g 16b_ 16dd_
+16G_ 16f 16b_ 16dd_
+16G] 16g 16b_ 16dd]
+[16G 16f 16b_
+16GJJ] 16g 16b]
+=30
+8CL 8e 8cc
+8c 8g 8cc 8ee
+8cJ 8g 8cc 8ee
+[8cL [8g 8cc [8ee
+16cL_ 16g_ [16cc 16ee]
+16cJ] 16g] 16cc] 16ff
+8cJ 8g 8cc 8ee
+=31
+8AL 8a 8cc 8ee
+8A 8a 8cc 8ee
+8AJ 8a 8cc 8ee
+[8.AL [8.c [8.ee-X 8.ff#X
+16AK] 16c_ 16ee-_ 16gg
+8AJ 8c] 8ee-] 8ff#X
+=32
+[8GL 8c 8ee 8gg
+8G_ 8d 8dd 8ff
+8GJ_ 8e 8cc 8ee
+4G_ [4f 4a [4dd
+8G] 8f] 8bn 8dd]
+=33
+[8GL 8e 8cc 8ee
+8G_ 8d 8dd 8ff
+8GJ_ 8c 8ee 8gg
+4G_ [4f 4a [4dd
+8G] 8f] 8bn 8dd]
+=34
+[8GL 8e 8cc 8ee
+8G_ 8d 8dd 8ff
+8GJ_ 8c 8ee 8gg
+4G_ [4f 4a [4dd
+8G] 8f] 8bn 8dd]
+=35
+8cL 8e [8cc 8ee
+8A 8c 8cc_ 8ff
+8EJ 8c 8cc_ 8gg
+8FL 8c 8cc] 8aa
+8D 8g 8ff 8bbn
+8CJ 8g 8ee 8ccc
+=36
+[8BBnL [8g [8dd 8ddd
+24BBL_ 24g_ 24dd_
+24BB_ 24g_ 24dd_ 24ddd
+24BB] 24g] 24dd] 24eee
+24fff
+24ddd
+24bbnJJ
+8ggL
+8ff
+8ddJ
+=37
+8bnL
+8BBn 8G 8d 8f
+8CJ 8G 8c 8e
+8aL
+8F 8A 8d
+8ffJ
+=38
+8bnL
+8G 8Bn 8d 8f
+8AJ 8c 8e
+8r
+8F 8c 8f 8a
+8r
+=39
+8r
+8G 8d 8f 8bn
+4r
+8CL 8e 8cc
+8CJ 8e 8g 8cc
+=40
+8C 8e 8g 8cc
+16r
+32eLLL
+32f
+32g
+32e
+32f
+32dJJJ
+32eLLL
+32c
+32Bn
+32c
+32d
+32c
+32e
+32c
+32f
+32c
+32g
+32cJJJ
+=41
+8F 8c 8f 8a
+8r
+8G 8d 8f 8bn
+8C 8c 8e 8cc
+4r
+=42
+[8.FL [8.a 8.cc
+16FK] 16a] 16dd
+8FJ 8a 8cc
+[8FL [8a 8cc
+8F] 8a] 8dd
+8FJ 8f 8a
+=43
+[8.GL [8.d 8.f [8.b-
+16GK] 16d] 16g 16b-_
+8GJ 8d 8f 8b-_
+[8GL [8d 8f 8b-_
+8G] 8d] 8g 8b-_
+8GJ 8d 8g 8b-_
+=44
+[8.CL [8.e [8.g 8.b-]
+16CK] 16e_ 16g] 16cc
+8CJ 8e_ 8g 8b-
+[8CL 8e_ [8g 8b-
+8C] 8e_ 8g] 8dd
+8CJ 8e] 8g
+=45
+[8.FL [8.c 8.e-X [8.a
+16FK] 16c] 16f 16a_
+8FJ 8c 8e-X 8a_
+[8FL [8c 8e-X 8a_
+8F] 8c] 8g 8a_
+8FJ 8c 8a_
+=46
+[8.F#XL [8.A [8.d 8.a]
+16F#K] 16A] 16d_ 16b-
+8F#XJ 8d_ 8a
+[8F#XL 8d_ 8a
+8F#] 8d_ 8dd
+8F#XJ 8d_ 8a 8cc
+=47
+[16GLL 16d_ [16g 16b-
+16G_ 16d_ 16g] 16dd
+16G_ 16d_ 16gg
+16G] 16d] 16bb-
+[16G [16f#X 16aa
+16GJJ] 16f#] 16ccc
+[16GLL [16d [16g 16bb-
+16G_ 16d_ 16g_ 16aa
+16G_ 16d_ 16g_ 16gg
+16G] 16d] 16g] 16ffn
+[16G [16g [16b- 16ee
+16GJJ] 16g] 16b-] 16dd
+=48
+8AL 8e 8a 8cc#X
+8A 8e 8cc# 8aa
+8AJ 8e 8cc#X 8aa
+[16ALL [16e [16cc#X 16aa
+32AL_ 32e_ 32cc#_ 32gg#X
+32A] 32e] 32cc#] 32aa
+32bb-
+32aa
+32bbn
+32aa
+32cccn
+32aa
+32ccc#X
+32aaJJJ
+=49
+8FL 8d 8a 8ddd
+8F 8d 8dd 8aa
+8FJ 8d 8dd [8aa
+[16FLL [16d [16dd 16aa]
+32FL_ 32d_ 32dd_ 32gg#X
+32F] 32d] 32dd] 32aa
+32bbn
+32aa
+32ccc#X
+32aa
+32ddd
+32aa
+32ddd#X
+32aaJJJ
+=50
+8C#XL 8c#X 8a 8eee
+8C#X 8c#X 8ee 8aa
+8C#XJ 8c#X 8ee [8aa
+[16C#XLL [16c#X [16ee 16aa]
+32C#L_ 32c#_ 32ee_ 32gg#X
+32C#] 32c#] 32ee] 32aa
+32bbn
+32aa
+32ccc#X
+32aa
+32ddd
+32aa
+32eee
+32aaJJJ
+=51
+4D 4d 4a 4fff
+8F 8f
+[8GL [8g
+8G] 8g] 8bb-
+8AJ 8e 8g 8cc#X
+=52
+[8B-L [8d [8f 8dd
+8B-] 8d] 8f]
+8FJ 8f
+[8GL [8g
+8G] 8g] 8bb-
+8AJ 8e 8g 8cc#X
+=53
+[32dLLL [32f 32dd
+32d_ 32f_ 32cc#X
+32d_ 32f_ 32ee
+32d_ 32f_ 32dd
+32d_ 32f_ 32ff
+32d_ 32f_ 32ee
+32d_ 32f_ 32gg
+32d] 32f] 32ff
+[32d [32f [32a 32aa
+32d_ 32f_ 32a_ 32gg
+32d_ 32f_ 32a_ 32ff
+32dJJJ] 32f] 32a] 32ee
+[32cnLLL [32f#X [32a 32dd
+32c_ 32f#_ 32a_ 32cc#X
+32c_ 32f#_ 32a_ 32dd
+32c_ 32f#_ 32a_ 32ee
+32c_ 32f#_ 32a_ 32ff#X
+32c_ 32f#_ 32a_ 32gg
+32c_ 32f#_ 32a_ 32aa
+32c] 32f#] 32a] 32bb-
+[32cn [32f#X [32a 32cccn
+32c_ 32f#_ 32a_ 32ddd
+32c_ 32f#_ 32a_ 32ccc
+32cJJJ] 32f#] 32a] 32bb-
+=54
+[32B-LLL [32d [32g 32aa
+32B-_ 32d_ 32g_ 32ccc
+32B-_ 32d_ 32g_ 32bb-
+32B-_ 32d_ 32g_ 32ddd
+32B-_ 32d_ 32g_ 32ccc
+32B-_ 32d_ 32g_ 32bb-
+32B-_ 32d_ 32g_ 32aa
+32B-] 32d] 32g] 32gg
+[32B- [32d [32g 32ff#X
+32B-_ 32d_ 32g_ 32aa
+32B-_ 32d_ 32g_ 32gg
+32B-JJJ] 32d] 32g] 32bb-
+[32B-LLL [32c [32e 32aa
+32B-_ 32c_ 32e_ 32ccc
+32B-_ 32c_ 32e_ 32bb-
+32B-_ 32c_ 32e_ 32aa
+32B-_ 32c_ 32e_ 32gg
+32B-_ 32c_ 32e_ 32ffn
+32B-_ 32c_ 32e_ 32ee
+32B-] 32c] 32e] 32dd
+[32B- [32c [32e 32cc
+32B-_ 32c_ 32e_ 32bn
+32B-_ 32c_ 32e_ 32cc
+32B-JJJ] 32c] 32e] 32dd
+=55
+[32ALLL [32c [32f 32ee
+32A_ 32c_ 32f_ 32ff
+32A_ 32c_ 32f_ 32gg
+32A_ 32c_ 32f_ 32aa
+32A_ 32c_ 32f_ 32bb-
+32A_ 32c_ 32f_ 32ccc
+32A_ 32c_ 32f_ 32bb-
+32A] 32c] 32f] 32aa
+[32A [32c [32f 32gg
+32A_ 32c_ 32f_ 32ff
+32A_ 32c_ 32f_ 32ee
+32AJJJ] 32c] 32f] 32gg
+[32ELLL [32g [32cc 32ff
+32E_ 32g_ 32cc_ 32aa
+32E_ 32g_ 32cc_ 32gg
+32E_ 32g_ 32cc_ 32ff
+32E_ 32g_ 32cc_ 32ee
+32E_ 32g_ 32cc_ 32dd
+32E_ 32g_ 32cc_
+32E] 32g] 32b- 32cc]
+[32F [32f [32a
+32F_ 32f_ 32a_ 32cc
+32F_ 32f_ 32a_ 32b-
+32FJJJ] 32f] 32a] 32gg
+=56
+[32cLLL [32e [32g 32ff
+32c_ 32e_ 32g_ 32ee
+32c_ 32e_ 32g_ 32dd
+32c_ 32e_ 32g_ 32cc
+32c_ 32e_ 32g_ 32b-
+32c_ 32e_ 32g_ 32a
+32c_ 32e_ 32g_ 32b-
+32c] 32e] 32g] 32bn
+[32C [32e [32g 32cc
+32C_ 32e_ 32g_ 32ee
+32C_ 32e_ 32g_
+32CJJJ] 32e] 32g] 32cc
+[8CL 8G [8e [8g
+8CJ] 8e] 8g]
+8r
+=57
+[8.FL [8.a 8.cc
+16FK] 16a] 16dd
+8FJ 8a 8cc
+[8FL [8a 8cc
+8F] 8a] 8dd
+8FJ 8f 8a
+=58
+[8.GL [8.f 8.b-
+16GK] 16f] 16cc
+8GJ 8f 8b-
+[32GLLL [32f [32b-
+32G_ 32f_ 32b-_ 32bb-
+32G_ 32f_ 32b-_ 32aa
+32G_ 32f] 32b-] 32bb-
+32G_ [32g 32ccc
+32G_ 32g_ 32bb-
+32G_ 32g_ 32ddd
+32G] 32g] 32ccc
+[32G [32d 32bb-
+32G_ 32d_ 32aa
+32G_ 32d_ 32ddd
+32GJJJ] 32d] 32ccc
+=59
+[8CL [8e [8b- 8bb-
+16CL_ 16e_ 16b-]
+16CJ] 16e] 16cc
+8CJ 8e 8b-
+[24CLL [24e [24b-
+48CK_ 48e_ 48b-_
+16C_ 16e_ 16b-] 16bb-
+16C_ 16e_ [16dd 16gg
+16C] 16e] 16dd] 16ee
+[16C [16e [16g 16cc
+16CJJ] 16e] 16g] 16b-
+=60
+[8.FL [8.f [8.a
+16FK] 16f] 16a] 16b-
+8FJ 8c 8a
+[48FLLL [48d [48a
+96FK_ 96d_ 96a_
+32F_ 32d_ 32a_ 32ff
+32F_ 32d_ 32a_ 32ee
+32F_ 32d_ 32a] 32ff
+32F_ 32d_ 32gg
+32F_ 32d_ 32ff
+32F_ 32d_ 32aa
+32F] 32d] 32gg
+[32A [32f 32ff
+32A_ 32f_ 32ee
+32A_ 32f_ 32dd
+32AJJJ] 32f] 32cc#X
+=61
+[8.B-L [8.f [8.dd
+16B-K] 16f] 16dd] 16ee-X
+8B-J 8f#X 8dd
+[48B-LLL [48g [48dd
+96B-K_ 96g_ 96dd_
+32B-_ 32g_ 32dd_ 32ddd
+32B-_ 32g_ 32dd_ 32ccc#X
+32B-_ 32g_ 32dd] 32ddd
+32B-_ 32g_ [32bb- 32ccc#X
+32B-_ 32g_ 32bb-_ 32ddd
+32B-_ 32g_ 32bb-_ 32ccc#X
+32B-] 32g] 32bb-] 32ddd
+[32B- [32g [32gg 32cccn
+32B-_ 32g_ 32gg_ 32bb-
+32B-_ 32g_ 32gg_ 32aa
+32B-JJJ] 32g] 32gg]
+=62
+[16B-LL [16g [16ff
+16B-_ 16g_ 16ee 16ff_
+16B-_ 16g_ 16ff_ 16gg
+16B-] 16g] 16ff] 16ccc
+[16B- [16g [16ee 16eee
+16B-JJ] 16g] 16ee] 16ggg
+[32ALLL [32c [32ff
+32A_ 32c_ 32ee 32ff_
+32A_ 32c_ 32ff_
+32A_ 32c_ 32ff] 32gg
+32A_ 32c_ 32aa
+32A_ 32c_ 32gg
+32A_ 32c_ 32ff
+32A] 32c] 32ee
+[32F [32a 32dd
+32F_ 32a_ 32cc
+32F_ 32a_ 32b-
+32FJJJ] 32a]
+=63
+[8.GL [8.d [8.g 8.b-
+16GK] 16d] 16g] 16cc
+8FJ 8d 8b-
+[48ELLL [48c [48b-
+96EK_ 96c_ 96b-_
+32E_ 32c_ 32b-_ 32bb-
+32E_ 32c_ 32b-_ 32gg
+32E] 32c_ 32b-] 32ee
+32c_ [32cc
+32c_ 32b- 32cc_
+32c_ 32g 32cc_
+32cJJ] 32e 32cc]
+8FJ 8c 8f 8a
+=64
+[8.BB-L [8.d 8.g
+16BB-K] 16d] 16dd
+8BBnJ 8d 8f
+[32CLLL [32G [32e
+32C_ 32G_ 32c 32e_
+32C_ 32G_ 32Bn 32e_
+32C] 32G] 32c 32e]
+32d
+32c
+32d
+32e
+32f
+32g
+32a
+32b-XJJJ
+=65
+[8.AAL [8.F [8.f 8.cc
+16AAK] 16F] 16f] 16dd
+8AAJ 8c 8f 8cc
+[16GGLL [16d [16f 16cc
+16GG_ 16d_ 16f_ 16b-
+16GG_ 16d_ 16f_
+32GGL_ 32d_ 32f_ 32aa
+32GG] 32d] 32f] 32gg
+[32C [32G [32e 32ff
+32C_ 32G_ 32e_ 32ee
+32C_ 32G_ 32e_ 32dd
+32CJJJ] 32G] 32e] 32cc
+=66
+[32FFLLL [32A [32f 32b-
+32FF_ 32A_ 32f_ 32a
+32FF_ 32A_ 32f_ 32dd
+32FF_ 32A_ 32f_ 32cc
+32FF_ 32A_ 32f_ 32ff
+32FF_ 32A_ 32f_ 32ee
+32FF_ 32A_ 32f_ 32dd
+32FF] 32A] 32f] 32cc
+[32FF [32F [32a 32b-
+32FF_ 32F_ 32a_
+32FF_ 32F_ 32g 32a_
+32FFJJJ] 32F] 32f 32a]
+4C 4E 4c 4g
+8BB- 8E 8g
+=67
+[8AAL [8F [8f 8cc
+24AAL_ 24F_ 24f_ 24cc
+24AA_ 24F_ 24f_ 24dd
+24AA] 24F] 24f] 24cc
+[24AA [24c [24f 24ff
+24AA_ 24c_ 24f_ 24ee
+24AAJJ] 24c] 24f] 24dd
+[24GGLL [24d [24f 24cc
+24GG_ 24d_ 24f_ 24b-
+24GG_ 24d_ 24f_ 24a
+24GG_ 24d_ 24f_ 24g
+24GG_ 24d_ 24f_
+24GG] 24d] 24e 24f]
+[24C [24G 24d [24e
+24C_ 24G_ 24c 24e_
+24CJJ] 24G] 24B- 24e]
+=68
+[24FFLL [24A [24f
+24FF_ 24A_ 24d 24f_
+24FF_ 24A_ 24c 24f_
+24FF_ 24A_ 24f_
+24FF_ 24A_ 24e 24f_
+24FF] 24A] 24f] 24g
+[24FF [24F 24f [24a
+24FF_ 24F_ 24a_ 24cc
+24FFJJ] 24F] 24a]
+[8CL [8E 8c [8g
+8C] 8E] 8g]
+8BB-J 8E 8g
+=69
+[8.AAL [8.F [8.f 8.cc
+16AAK] 16F] 16f] 16dd
+8AAJ 8F 8f 8cc
+4AA 4F 4f 4ff
+8AA 8E-X 8f 8cc#X
+=70
+[32BB-LLL [32D [32f 32dd
+32BB-_ 32D_ 32f_ 32ee
+32BB-_ 32D_ 32f_ 32ff
+32BB-_ 32D_ 32f_ 32ee
+32BB-_ 32D_ 32f_ 32dd
+32BB-_ 32D_ 32f_ 32cc
+32BB-_ 32D_ 32f_ 32b-
+32BB-] 32D] 32f] 32a
+[32BB- [32d [32g 32cc
+32BB-_ 32d_ 32g_ 32b-
+32BB-_ 32d_ 32g_ 32dd
+32BB-JJJ] 32d] 32g] 32cc
+[32BB-LLL [32d [32g 32b-
+32BB-_ 32d_ 32g_ 32a
+32BB-_ 32d_ 32g_
+32BB-_ 32d_ 32f#X 32g_
+32BB-_ 32d_ 32g_ 32a
+32BB-_ 32d_ 32g_
+32BB-_ 32d_ 32g_ 32b-
+32BB-] 32d] 32g] 32a
+[32BB- [32g
+32BB-_ 32fn 32g_
+32BB-_ 32e 32g_
+32BB-JJJ] 32d 32g]
+=71
+[8CL [8c [8f [8a
+16CL_ 16c] 16f_ 16a_
+32CL_ 32f_ 32a_
+32C] 32f] 32a]
+[32C [32A [32f 32cc
+32C_ 32A_ 32f_ 32a
+32C_ 32A_ 32f_ 32cc
+32CJJJ] 32A] 32f] 32a
+4C 4A 4f
+[16CLL [16B- [16e 16g
+16CJJ] 16B-] 16e] 16f
+=72
+[16FLL [16A [16f
+16F_ 16A] 16c 16f]
+16F_ 16A [16f
+16F] 16c 16f]
+[16F 16A [16f
+16FJJ] 16c 16f]
+[16CLL 16B- [16e [16g
+16C_ 16c 16e_ 16g_
+16C_ 16B- 16e_ 16g_
+16C] 16c 16e_ 16g]
+[16C 16B- 16e_
+16CJJ] 16c 16e]
+=73
+[16FFLL [16A [16f
+16FF_ 16A] 16c 16f]
+16FF_ 16A [16f
+16FF] 16c 16f]
+[16F 16A [16f
+16FJJ] 16c 16f]
+[16CLL 16B- [16e [16g
+16C_ 16c 16e_ 16g_
+16C_ 16B- 16e_ 16g_
+16C] 16c 16e_ 16g]
+[16C 16B- 16e_
+16CJJ] 16c 16e]
+=74
+8FFL 8A 8f
+8F 8c 8f 8a
+8FJ 8c 8f 8a
+[8.FL [8.c 8.f 8.a
+16FK] 16c] 16g 16b-
+8FJ 8c 8f 8a
+=75
+8DL 8d 8f 8a
+8D 8d 8f 8a
+8DJ 8d 8f 8a
+[8.DL [8.F [8.a-X 8.bn
+16DK] 16F_ 16a-_ 16cc
+8DJ 8F] 8a-] 8bn
+=76
+[8CL 8F 8a 8cc
+8C_ 8G 8g 8b-
+8CJ_ 8A 8f 8a
+4C_ [4B- 4d [4g
+8C] 8B-] 8e 8g]
+=77
+[8CL 8A 8f 8a
+8C_ 8G 8g 8b-
+8CJ_ 8F 8a 8cc
+4C_ [4B- 4d [4g
+8C] 8B-] 8e 8g]
+=78
+[8CL 8A 8f 8a
+8C_ 8G 8g 8b-
+8CJ_ 8F 8a 8cc
+4C_ [4B- 4d [4g
+8C] 8B-] 8e 8g]
+=79
+8FL 8A [8f 8a
+8D 8F 8f_ 8b-
+8AAJ 8F 8f_ 8cc
+8BB-L 8F 8f] 8dd
+8GG 8c 8b- 8ee
+8FFJ 8c 8a 8ff
+=80
+[8EEL [8c [8g 8gg
+24EEL_ 24c_ 24g_
+24EE_ 24c_ 24g_ 24gg
+24EE] 24c] 24g] 24aa
+24bb-
+24gg
+24eeJJ
+8ccL
+8b-
+8gJ
+=81
+8eL
+8E 8c 8g 8b-
+8FJ 8c 8f 8a
+8ddL
+8B- 8d 8g
+8bb-J
+=82
+8eeL
+8c 8e 8g 8b-
+8dJ 8f 8a
+8r
+8B- 8f 8b- 8dd
+8r
+=83
+8r
+8B- 8c 8g 8ee
+4r
+8FL 8A 8a 8ff
+8FJ 8c 8a 8ff
+=84
+8F 8c 8a 8ff
+16r
+32aLLL
+32b-
+32cc
+32a
+32b-
+32gJJJ
+32aLLL
+32f
+32e
+32f
+32g
+32f
+32a
+32f
+32b-
+32f
+32cc
+32fJJJ
+=85
+8BB- 8B- 8f 8dd
+8r
+8C 8G 8B- 8e
+8FF 8F 8A 8f
+4r
+=||
+*-
+!!!YEM: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities

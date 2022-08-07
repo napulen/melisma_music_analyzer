@@ -1,0 +1,463 @@
+!!!COM: Music21
+!!!OTL: score.mxl
+!!!OMV: score.mxl
+**kern
+*I"Score
+*clefG2
+*k[b-e-a-d-g-c-]
+*M3/2
+=1
+2e- 2g- 2b-
+[4e- [4g-
+8e-L_ 8g-_
+8e-J] 8g-] 8b-
+[4.e- [4.g- 4.ee-
+8e-] 8g-] 8gg-
+=2
+2e- 2a- 2cc-
+[4e- [4a- [4cc-
+8e-L_ 8a-_ 8cc-_
+8e-J] 8a-] 8cc-] 8ee-
+[4.e- [4.a- [4.cc- 4.aa-
+8e-] 8a-] 8cc-] 8ccc-
+=3
+2e- 2f 2a- 2ddn
+[4dn [4f [4a-
+8dL_ 8f_ 8a-_
+8dJ] 8f] 8a-] 8ff
+[4dnm [4f [4a-
+16dLL_ 16f_ 16a-]
+16d_ 16f_ 16g-
+16d_ 16f_ 16a-
+16dJJ] 16f] 16b-
+=4
+[4.e-M 4.g-
+16e-LL_ 16f
+16e-JJ]
+[4gg-
+8gg-L_
+8B-J 8gg-]
+4.G- [4.g- [4.b- [4.ee- [4.gg-
+8E- 8g-] 8b-] 8ee-] 8gg-]
+!!linebreak:original
+=5
+2BB- 2g- 2b- 2dd- 2gg-
+[4BB- [4D- [4G- [4B-
+16BB-LL_ 16D-_ 16G-_ 16B-_
+16BB-_ 16D-_ 16G-_ 16B-_ 16gg-
+16BB-_ 16D-_ 16G-_ 16B-_ 16ff-X
+16BB-JJ] 16D-] 16G-] 16B-] 16ee-
+[4.BB- [4.D- [4.G- [4.B- 4.ff-X
+8BB-] 8D-] 8G-] 8B-] 8dd-
+=6
+2C- 2E- 2G- 2c- 2e- 2g- 2cc- 2ee-
+[4g- [4cc- [4ee-
+8g-L_ 8cc-_ 8ee-_
+8G-J 8g-] 8cc-] 8ee-]
+4.E- [4.g- [4.cc- [4.ee-
+8C- 8g-] 8cc-] 8ee-]
+=7
+2GGn 2b- 2ee- 2bb-
+[4GGn [4BB- [4E- [4Gn
+16GGLL_ 16BB-_ 16E-_ 16G_
+16GG_ 16BB-_ 16E-_ 16G_ 16ee-
+16GG_ 16BB-_ 16E-_ 16G_ 16dd-
+16GGJJ] 16BB-] 16E-] 16G] 16cc-
+[4.GGn [4.BB- [4.E- [4.Gn 4.dd-
+8GG] 8BB-] 8E-] 8G] 8b-
+=8
+[4.AA- [4.C- [4.E- [4.A- 4.cc-
+16AA-LL_ 16C-_ 16E-_ 16A-_ 16b-
+16AA-JJ] 16C-] 16E-] 16A-] 16a-
+[4ee- [4aa- [4ccc-
+8ee-L_ 8aa-_ 8ccc-_
+8cc-J 8ee-] 8aa-] 8ccc-]
+4.a- [4.ee- [4.aa- [4.ccc-
+8f 8ee-] 8aa-] 8ccc-]
+!!linebreak:original
+=9
+2dn 2ff 2aa- 2ccc-
+[4dn [4f [4b-
+16dLL_ 16f_ 16b-_
+16d_ 16f_ 16b-_ 16bb-
+16d_ 16f_ 16b-_ 16aa-
+16dJJ] 16f] 16b-] 16gg-
+[16dnLL [16f [16b- 16ff
+16d_ 16f_ 16b-_ 16gg-
+16d_ 16f_ 16b-_ 16ff
+16d_ 16f_ 16b-_ 16gg-
+16d_ 16f_ 16b-_ 16aa-
+16d_ 16f_ 16b-_ 16gg-
+16d_ 16f_ 16b-_ 16aa-
+16dJJ] 16f] 16b-] 16ff
+=10
+[4.e- [4.g- [4.b- 4.gg-
+16e-LL_ 16g-_ 16b-_ 16ff
+16e-JJ] 16g-] 16b-] 16ee-
+[4b- [4ee- [4gg- [4bb-
+8b-L_ 8ee-_ 8gg-_ 8bb-_
+8g-J 8b-] 8ee-] 8gg-] 8bb-]
+4.e- [4.dd- [4.ee- [4.gg- [4.bb-
+8cn 8dd-] 8ee-] 8gg-] 8bb-]
+=11
+2An 2ccn 2ee- 2gg- 2cccn
+[4An [4cn [4f
+16ALL_ 16c_ 16f_
+16A_ 16c_ 16f_ 16ff
+16A_ 16c_ 16f_ 16ee-
+16AJJ] 16c] 16f] 16dd-
+[16AnLL [16cn [16f 16ccn
+16A_ 16c_ 16f_ 16dd-
+16A_ 16c_ 16f_ 16ccn
+16A_ 16c_ 16f_ 16dd-
+16A_ 16c_ 16f_ 16ee-
+16A_ 16c_ 16f_ 16dd-
+16A_ 16c_ 16f_ 16ee-
+16AJJ] 16c] 16f] 16ccn
+!!linebreak:original
+=12
+[4.B- [4.d- [4.f 4.dd-
+16B-LL_ 16d-_ 16f_ 16ccn
+16B-JJ] 16d-] 16f] 16b-
+[4B- [4d- [4f 4b- 4dd- [4ff
+16B-LL_ 16d-_ 16f_ 16ff]
+16B-_ 16d-_ 16f_ 16gg-
+16B-_ 16d-_ 16f_ 16ff
+16B-JJ] 16d-] 16f] 16ee-
+[16B-LL [16d- [16f 16dd-
+16B-_ 16d-_ 16f_ 16cc-X
+16B-_ 16d-_ 16f_ 16b-
+16B-J_ 16d-_ 16f_ 16a-
+8B-_ 8d-_ 8f_ 8g-
+16B-L_ 16d-_ 16f_ 16a-
+16B-JJ] 16d-] 16f]
+=13
+[4E- [4B- [4d- 4e- [4g-
+8E-L_ 8B-_ 8d-_ 8g-]
+16E-L_ 16B-_ 16d-_ 16b-
+16E-JJ] 16B-] 16d-] 16dd-
+[4E- [4B- [4cn [4gg-
+16E-LL_ 16B-_ 16c_ 16gg-]
+16E-_ 16B-_ 16c_ 16ff
+16E-_ 16B-_ 16c_ 16ee-
+16E-JJ] 16B-] 16c] 16dd-
+[8.E-L [8.B- [8.cn 8.ccn
+32E-LL_ 32B-_ 32c_ 32ee-
+32E-J_ 32B-_ 32c_ 32dd-
+16E-_ 16B-_ 16c_ 16ccn
+16E-J_ 16B-_ 16c_ 16dd-
+8E-J] 8B-] 8c] 8ee-
+=14
+[8.E-L [8.An [8.cn 8.f
+32E-LL_ 32A_ 32c_ 32gn
+32E-JJ_ 32A_ 32c_ 32an
+8.E-M_ 8.A_ 8.c_ 8.a
+32E-LL_ 32A_ 32c_ 32gn
+32E-JJJ] 32A] 32c] 32an
+[4D- [4F [4B- [4b-
+8D-L_ 8F_ 8B-_ 8b-_
+8D-J] 8F] 8B-] 8f 8b-_
+[4.BB- [4.E- 4.g-X 4.b-_
+8BB-] 8E-] 8e- 8b-_
+!!pagebreak:original
+=15
+[4F [4cn 4b-_
+16FLL_ 16c] 16b-_
+16F_ 16d- 16b-_
+16F_ 16cn 16b-_
+16FJJ] 16d- 16b-_
+[16FFLL [16F 16e- 16b-_
+16FF_ 16F_ 16d- 16b-_
+16FF_ 16F_ 16cn 16b-_
+16FF_ 16F_ 16d- 16b-_
+16FF_ 16F_ 16e- 16b-_
+16FF_ 16F_ 16f 16b-_
+16FF_ 16F_ 16e- 16b-_
+16FFJJ] 16F] 16f 16b-]
+[4FF [4F [4cn 4g- [4ccn
+8.FFtL_ 8.F_ 8.c_ 8.f 8.cc_
+16FFJk] 16F] 16c] 16e- 16cc]
+=16
+[4.BB- [4.F [4.B- 4.d- 4.b-
+8BB-] 8F] 8B-] 8e- 8ccn
+[4f [4b- [4dd-
+8fL_ 8b-_ 8dd-_
+8BB-J 8f] 8b-] 8dd-]
+4.D- [4.f [4.b- [4.dd-
+8F 8f] 8b-] 8dd-]
+=17
+[4.GGn 4.f-X 4.b- 4.dd-
+16GGLL_ 16cc-
+16GGJJ_ 16b-
+4GG_ [4b- [4dd- [4ff-X
+16GGLL] 16b-_ 16dd-_ 16ff-_
+16BB- 16b-_ 16dd-_ 16ff-_
+16AA- 16b-_ 16dd-_ 16ff-_
+16GGnJJ 16b-_ 16dd-_ 16ff-_
+[4.D- 4.b-] 4.dd-] 4.ff-]
+16D-LL_ 16ee-
+16D-JJ_ 16dd-
+!!linebreak:original
+=18
+4.D-] [4.b- [4.dd- [4.ggn
+16C-LL 16b-_ 16dd-_ 16gg_
+16BB-JJ 16b-_ 16dd-_ 16gg_
+8F-XL 8b-_ 8dd-_ 8gg_
+8E- 8b-_ 8dd-_ 8gg_
+8F-X 8b-] 8dd-] 8gg]
+[16D-L 16ffn
+16D-JJ] 16ee-
+16C-LL [16cc- [16ee- [16aa-
+16BB- 16cc-_ 16ee-_ 16aa-_
+16AA- 16cc-_ 16ee-_ 16aa-_
+16BB- 16cc-_ 16ee-_ 16aa-_
+16C- 16cc-_ 16ee-_ 16aa-_
+16AA- 16cc-_ 16ee-_ 16aa-_
+16BB- 16cc-_ 16ee-_ 16aa-_
+16C-JJ 16cc-] 16ee-] 16aa-_
+=19
+[8FF-XL 8aa-]
+8FF-_ 8ggn
+16FF-L] [16aa-
+16F-X 16aa-]
+16E- [16bb-
+16D-JJ 16bb-]
+4.E-t [4.ee- [4.ggn [4.bb-
+8D-T 8ee-] 8gg_ 8bb-_
+[4E-t [4dd- 4gg_ 4bb-]
+8E-L] 8dd-_ 8gg_ [8aa-
+8EE-J 8dd-] 8gg] 8aa-]
+=20
+[4.AA- 4.cc- 4.ee- 4.aa-
+8AA-] 8ccc-
+[4ff
+8ffL]
+[16c-L 16gg-
+16c-JJ] 16aa-
+4.F 4.ddn
+16G-LL 16ee-
+16A-JJ 16ff
+!!linebreak:original
+=21
+4.Dn 4.b-
+16E-LL [16aa-
+16FJJ 16aa-]
+4.BB- 4.ddn
+[16A-LL 16ee-
+16A-JJ] 16ff
+4.Dn 4.b-
+16E-LL 16ccn
+16FJJ 16ddn
+=22
+[4.GG- 4.ee-
+16GG-LL_ 16dd-
+16GG-JJ] 16cc-
+4.GGn [4.dd-
+8B- 8dd-]
+4.Gn [4.e- [4.b- [4.dd-
+8E- 8e-] 8b-] 8dd-]
+=23
+[4.AA- 4.e- 4.b- 4.dd-
+16AA-LL_ 16cc-
+16AA-JJ] 16b-
+[4cc-
+8cc-L_
+8c-J 8cc-]
+4.A- [4.e- [4.a- [4.cc-
+8E- 8e-] 8a-] 8cc-]
+=24
+[4.Dn [4.F [4.A- 4.f 4.a- 4.cc-
+16DLL_ 16F_ 16A-_ 16b-
+16DJJ] 16F] 16A-] 16a-
+[4.Dn [4.F [4.B- 4.a- 4.ff
+8D] 8F] 8B-] 8cc-
+[4.Dnt [4.F [4.B- 4.b-
+16DLL_ 16F_ 16B-_ 16cc-
+16DJJ] 16F] 16B-] 16a-
+!!linebreak:original
+=25
+2E- 2G- 2B- 2e- [2g-
+[16E-LL [16G- [16B- 16g-]
+16E-_ 16G-_ 16B-_ 16e-
+16E-_ 16G-_ 16B-_ 16f
+16E-_ 16G-_ 16B-_ 16g-
+16E-_ 16G-_ 16B-_ 16a-
+16E-_ 16G-_ 16B-_ 16b-
+16E-_ 16G-_ 16B-_ 16ccn
+16E-JJ] 16G-] 16B-] 16ddn
+[16E-LL [16G- [16B- 16ee-
+16E-_ 16G-_ 16B-_ 16ff
+16E-_ 16G-_ 16B-_ 16gg-
+16E-_ 16G-_ 16B-_ 16aa-
+16E-_ 16G-_ 16B-_ 16gg-
+16E-_ 16G-_ 16B-_ 16ff
+16E-_ 16G-_ 16B-_ 16gg-
+16E-JJ] 16G-] 16B-] 16ee-
+=26
+[4.AA- [4.C- [4.F-X [4.A- 4.f-X 4.a- 4.cc- 4.ff-X
+16AA-LL_ 16C-_ 16F-_ 16A-_ 16cc-
+16AA-JJ] 16C-] 16F-] 16A-] 16b--
+4.a-
+16b--LL
+16cc-JJ
+4.f-X
+16g-LL
+16a-JJ
+=27
+[4.AA- [4.Fn [4.B- 4.dn
+16AA-LL_ 16F_ 16B-_ 16f
+16AA-JJ] 16F] 16B-] 16a-
+4.cc-
+16b-LL
+16a-JJ
+4.ff
+16ee-LL
+16ddnJJ
+!!pagebreak:original
+=28
+8ccc-
+4aan
+8bb-
+2BB- 2E- 2G- 2B- 2g- 2b- 2ee-
+[4.BB-t [4.F [4.A-X [4.B- [4.f [4.b- 4.ddn
+8BB-] 8F] 8A-] 8B-] 8f] 8b-] 8ee-
+=29
+[4C- [4c- [4e- [4b- [4ee-
+16C-LL_ 16c-_ 16e-_ 16b-] 16ee-_
+16C-_ 16c-_ 16e-_ 16a- 16ee-_
+16C-_ 16c-_ 16e-_ 16gn 16ee-_
+16C-JJ] 16c-] 16e-] 16a- 16ee-_
+2c-T 2e- [2a- 2ee-_
+[4.c- [4.e- 4.a-] 4.ee-_
+16c-LL_ 16e-_ 16gn 16ee-_
+16c-JJ] 16e-] 16a- 16ee-_
+=30
+2Gn 2B- 2e- [2b- 2ee-_
+[4Gn [4B- [4e- 4b-_ 4ee-_
+16GLL_ 16B-_ 16e-_ 16b-_ 16ee-]
+16G_ 16B-_ 16e-_ 16b-_ 16ee-
+16G_ 16B-_ 16e-_ 16b-_ 16dd-
+16GJJ] 16B-] 16e-] 16b-_ 16cc-
+[4.Gn [4.B- [4.e- 4.b-_ 4.dd-
+8G] 8B-] 8e-] 8b-]
+!!linebreak:original
+=31
+2A- 2c- [2e- 2a- [2cc-
+[4F-X 4e-_ 4cc-_
+16F-LL_ 16e-] 16cc-]
+16F-_ 16e- 16cc-
+16F-_ 16d- 16b-
+16F-JJ] 16c- 16a-
+[4.F-X 4.d- 4.b-
+8F-] 8B- 8gn
+=32
+2Fn 2c- 2dn 2a-
+[4F [4c- [4dn [4a-
+16FLL] 16c-_ 16d_ 16a-_
+16G- 16c-_ 16d_ 16a-_
+16F 16c-_ 16d_ 16a-_
+16E-JJ 16c-] 16d] 16a-]
+8.FL [8.c- [8.dn [8.a-
+16G-L 16c-_ 16d_ 16a-_
+16A- 16c-_ 16d_ 16a-_
+16F 16c-_ 16d_ 16a-_
+16G- 16c-_ 16d_ 16a-_
+16A-JJ 16c-] 16d] 16a-]
+=33
+[2Dn 2c- 2f 2a-
+4D_ [4c- [4f [4a-
+16DLL] 16c-_ 16f_ 16a-_
+16E- 16c-_ 16f_ 16a-_
+16Dn 16c-_ 16f_ 16a-_
+16CnJJ 16c-] 16f] 16a-]
+8.DnL [8.c- [8.f [8.a-
+16E-L 16c-_ 16f_ 16a-_
+16F 16c-_ 16f_ 16a-_
+16Dn 16c-_ 16f_ 16a-_
+16E- 16c-_ 16f_ 16a-_
+16FJJ 16c-] 16f] 16a-]
+!!linebreak:original
+=34
+[2C- 2dn 2f 2a-
+4C-_ [4dn [4f [4a-
+16C-LL] 16d_ 16f_ 16a-_
+16D-X 16d_ 16f_ 16a-_
+16C- 16d_ 16f_ 16a-_
+16BB-JJ 16d] 16f] 16a-]
+16C-LL [16dn [16f [16a-
+16BB- 16d_ 16f_ 16a-_
+16AA- 16d_ 16f_ 16a-_
+16BB- 16d_ 16f_ 16a-_
+16C- 16d_ 16f_ 16a-_
+16AA- 16d_ 16f_ 16a-_
+16BB- 16d_ 16f_ 16a-_
+16C-JJ 16d] 16f] 16a-]
+=35
+2DDn 2dn 2f 2a- [2cc-
+16cc-LL]
+16b-
+16a-
+16g-
+16f
+16e-
+16dn
+16fJJ
+16a-LL
+16cc-
+16ddn
+16ff
+16aa-
+16ccc-
+16bb-
+16ddnJJ
+=36
+[4ee-
+8ee-L]
+8EE-J 8E- 8g- 8b-
+2BB- 2E- 2G- 2e- 2f 2g- 2a-
+[8BB-mL [8F [8A- [8dn 8f
+8BB-J_ 8F_ 8A-_ 8d_ 8e-
+4BB-] 4F] 4A-] 4d] 4f
+!!linebreak:original
+=37
+2E- 2Gn 2B- 2d- [2e-
+[4E- [4Gn [4B- [4d- 4e-_
+16E-LL_ 16G_ 16B-_ 16d-_ 16e-]
+16E-_ 16G_ 16B-_ 16d-_ 16f
+16E-_ 16G_ 16B-_ 16d-_ 16gn
+16E-JJ] 16G] 16B-] 16d-] 16a-
+[4E- [4Gn [4B- [4d- [4b-
+16E-LL_ 16G_ 16B-_ 16d-_ 16b-]
+16E-_ 16G_ 16B-_ 16d-_ 16f-X
+16E-_ 16G_ 16B-_ 16d-_ 16e-
+16E-JJ] 16G] 16B-] 16d-]
+=38
+2E- 2A- [2c- 2d-
+[8.E-L [8.A- 8.c-]
+16E-L_ 16A-_ 16e-
+16E-_ 16A-_ 16fn
+16E-_ 16A-_ 16gn
+16E-_ 16A-_ 16a-
+16E-JJ] 16A-] 16b-
+[8E-L [8A- [8cc-
+32E-LL_ 32A-_ 32cc-]
+32E-_ 32A-_ 32b-
+32E-_ 32A-_ 32a-
+32E-J_ 32A-_ 32g-X
+16E-_ 16A-_ 16f
+16E-_ 16A-_ 16g-
+16E-_ 16A-_ 16a-
+16E-JJ] 16A-] 16f
+=39
+[4E- [4F [4dn
+8E-L_ 8F_ 8d_
+16E-L_ 16F_ 16c- 16d_
+16E-JJ] 16F] 16B- 16d_
+[4.E- [4.F 4.c- 4.d_
+8E-] 8F] 8A- 8d_
+[4.E- [4.F 4.d]
+8E-] 8F] 8dn
+=40
+1.EE- 1.BB- 1.E- 1.Gn 1.B- 1.e-
+==
+*-

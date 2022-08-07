@@ -1,0 +1,1409 @@
+!!!COM: Music21
+!!!OTL: bps_25_01.mxl
+!!!OMV: bps_25_01.mxl
+**kern	**dynam
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:B:t=Presto alla tedesca	!
+8GL 8B [8g [8gg	f
+8d'`J 8g] 8gg]	.
+8GL 8B [8b [8bb	.
+8d'`J 8b] 8bb]	.
+8GL 8B [8g [8gg	.
+8d'`J 8g] 8gg]	.
+=2	=2
+!LO:TX:b:t=[sf]	!
+8GL 8B [8dd [8ddd	.
+8dJ 8dd_ 8ddd_	.
+8GL 8B 8dd_ 8ddd_	.
+8dJ 8dd] 8ddd]	.
+8GL 8B 8ccc	.
+8dJ 8bb	.
+=3	=3
+8GL 8B 8aa	.
+8dJ 8gg	.
+8GL 8B 8ff#	.
+8dJ 8gg	.
+8GL 8B 8bb	.
+8dJ 8gg	.
+=4	=4
+8GL 8c [8ff#	.
+8eJ 8ff#]	.
+8GL 8c [8ee	.
+8eJ 8ee]	.
+8GL 8c 8dd	.
+8eJ 8cc	.
+=5	=5
+8GL 8c 8b	.
+8eJ 8a	.
+8GL 8c 8g#X	.
+8eJ 8a	.
+8GnL 8A 8c 8cc	.
+8dJ 8a	.
+=6	=6
+8GL 8A 8c [8f#	.
+8dJ 8f#_	.
+8GL 8A 8c 8f#_	.
+8dJ 8f#]	.
+8GL 8A 8c [8a	.
+8d'`J 8a]	.
+=7	=7
+8GL 8A 8c [8cc	.
+8d'`J 8cc]	.
+8GL 8A 8c [8a	.
+8d'`J 8a]	.
+8GL 8A 8c [8f#	.
+8d'`J 8f#]	.
+=8	=8
+[8GL [8B 8g	f
+8GJ_ 8B_ 8d	.
+8GL_ 8B_ 8c#X	.
+8GJ_ 8B_ 8d	.
+8GL_ 8B_ 8f#	.
+8GJ] 8B] 8g	.
+=9	=9
+[8FF#L [8D [8F# 8g	.
+8FF#J_ 8D_ 8F#_ 8d	.
+8FF#L_ 8D_ 8F#_ 8c#X	.
+8FF#J_ 8D_ 8F#_ 8d	.
+8FF#L_ 8D_ 8F#_ 8g	.
+8FF#J] 8D] 8F#] 8a	.
+=10	=10
+[8GGL [8D [8G 8b	.
+8GGJ_ 8D_ 8G_ 8g	.
+8GGL_ 8D_ 8G_ 8f#	.
+8GGJ] 8D] 8G] 8g	.
+8AAL 8A 8cc	.
+8BBJ 8B 8dd	.
+=11	=11
+[8CL [8c 8ee	.
+8CJ] 8c] 8dd	.
+[8CL [8c 8cc	.
+8CJ] 8c] 8b	.
+[8C#XL [8c#X 8a	.
+8C#J] 8c#] 8g	.
+=12	=12
+8DL 8d [8f#	p
+8DJ 8f#]	.
+8F#L	.
+!LO:TX:b:t=leggiermente	!
+8AJ 8d	.
+8f#L	.
+8aJ	.
+=13	=13
+8ddL	.
+8f#J	.
+8aL	.
+8ddJ	.
+8ff#L	.
+8aJ	.
+=14	=14
+8ddL	.
+8ff#J	.
+8aaL	.
+8ddJ	.
+8ff#L	.
+8aaJ	.
+=15	=15
+8dddL	.
+8ff#J	.
+8aaL	.
+8dddJ	.
+8fff#L	.
+8eeeJ	.
+=16	=16
+8BBL [8ddd	.
+8DJ 8ddd]	.
+8F#L	.
+8BJ 8d	.
+8f#L	.
+8bJ	.
+=17	=17
+8ddL	.
+8f#J	.
+8bL	.
+8ddJ	.
+8ff#L	.
+8bJ	.
+=18	=18
+8ddL	.
+8ff#J	.
+8bbL	.
+8ddJ	.
+8ff#L	.
+8bbJ	.
+=19	=19
+8dddL	.
+8ff#J	.
+8bbL	.
+8dddJ	.
+8fff#L	.
+8eeeJ	.
+=20	=20
+8GG#XL [8ddd	.
+8BBJ 8ddd]	.
+8DL	.
+8EJ 8d	.
+[8G#XL 8e	.
+8G#J] 8g#X	.
+=21	=21
+8bL	.
+8eJ	.
+8g#XL	.
+8bJ	.
+8ddL	.
+8g#XJ	.
+=22	=22
+8bL	.
+8ddJ	.
+8gg#XL	.
+8bJ	.
+8ddL	.
+8gg#XJ	.
+=23	=23
+8bbL	.
+8gg#XJ	.
+[8G#XL [8B 8ee	.
+8G#J] 8B] 8ff#	.
+[8G#XL [8B [8d 8ee	.
+8G#J] 8B] 8d] 8ff#	.
+=24	=24
+!LO:TX:b:t=cresc.	!
+[8AL 8c#X [8cc#X [8ee	.
+8AJ] 8d 8cc#_ 8ee_	.
+8eL 8cc#_ 8ee_	.
+8f#J 8cc#_ 8ee_	.
+8g#XL 8cc#_ 8ee_	.
+8aJ 8cc#] 8ee]	.
+=25	=25
+8g#XL [8dd [8ee	.
+8f#J 8dd_ 8ee_	.
+8eL 8dd_ 8ee_	.
+8dJ 8dd_ 8ee_	.
+8c#XL 8dd_ 8ee_	.
+8BJ 8dd] 8ee]	.
+=26	=26
+8AL [8ee [8ggn	sf
+8GJ 8ee_ 8gg_	.
+8F#L 8ee_ 8gg_	.
+8EJ 8ee_ 8gg_	.
+8DL 8ee_ 8gg_	.
+8C#XJ 8ee] 8gg]	.
+=27	=27
+8DL [8dd [8ff#	p
+8EJ 8dd] 8ff#]	.
+8F#L [8dd [8ff#	.
+8G#XJ 8dd] 8ff#]	.
+8AL [8dd [8ff#	.
+8BJ 8dd] 8ff#]	.
+=28	=28
+[8AL 8c#X [8cc#X [8ee	.
+8AJ] 8d 8cc#_ 8ee_	.
+8eL 8cc#_ 8ee_	.
+8f#J 8cc#_ 8ee_	.
+8g#XL 8cc#_ 8ee_	.
+8aJ 8cc#] 8ee]	.
+=29	=29
+8g#XL [8dd [8ee	.
+8f#J 8dd_ 8ee_	.
+8eL 8dd_ 8ee_	.
+8dJ 8dd_ 8ee_	.
+8c#XL 8dd_ 8ee_	.
+8BJ 8dd] 8ee]	.
+=30	=30
+8AL [8ee [8ggn	sf
+8GJ 8ee_ 8gg_	.
+8F#L 8ee_ 8gg_	.
+8EJ 8ee_ 8gg_	.
+8DL 8ee_ 8gg_	.
+8C#XJ 8ee] 8gg]	.
+=31	=31
+8DL [8dd [8ff#	p
+8EJ 8dd] 8ff#]	.
+8F#L [8dd [8ff#	.
+8G#XJ 8dd] 8ff#]	.
+8AL [8dd [8ff#	.
+8BJ 8dd] 8ff#]	.
+=32	=32
+[8AL [8c#X [8e 8cc#X 8ee	p
+8AJ_ 8c#_ 8e_ 8dd	.
+8AL_ 8c#_ 8e_ 8ee	.
+8AJ_ 8c#_ 8e_ 8ff#	.
+8AL_ 8c#_ 8e_ 8gg#X	.
+8AJ_ 8c#] 8e] 8aa	.
+=33	=33
+8AL_ [8B [8d 8gg#X	.
+8AJ_ 8B_ 8d_ 8ff#	.
+8AL_ 8B_ 8d_ 8ee	.
+8AJ_ 8B_ 8d_ 8dd	.
+8AL_ 8B_ 8d_ 8cc#X	.
+8AJ] 8B] 8d] 8b	.
+=34	=34
+[8AL [8d [8g#X 8dd	.
+8AJ_ 8d_ 8g#_ 8ee	.
+8AL_ 8d_ 8g#_ 8ff#	.
+8AJ_ 8d_ 8g#_ 8gg#X	.
+8AL_ 8d_ 8g#_ 8aa	.
+8AJ_ 8d] 8g#] 8bb	.
+=35	=35
+8AL_ [8c#X [8e 8aa	.
+8AJ_ 8c#_ 8e_ 8ggn	.
+8AL_ 8c#_ 8e_ 8ff#	.
+8AJ_ 8c#_ 8e_ 8ee	.
+8AL_ 8c#_ 8e_ 8dd	.
+8AJ] 8c#] 8e] 8cc#X	.
+=36	=36
+[8AL [8c#X [8e [8g 8ee	.
+8AJ_ 8c#_ 8e_ 8g_ 8gg	.
+8AL_ 8c#_ 8e_ 8g_ 8ccc#X	.
+!LO:TX:b:t=cresc.	!
+8AJ_ 8c#_ 8e_ 8g_ 8gg	.
+8AL_ 8c#_ 8e_ 8g_ 8eee	.
+8AJ] 8c#] 8e] 8g] 8ccc#X	.
+=37	=37
+[8B-XL [8c#X [8e [8g 8eee	sf
+8B-J_ 8c#_ 8e_ 8g_ 8ccc#X	.
+8B-L_ 8c#_ 8e_ 8g_ 8eee	.
+8B-J_ 8c#_ 8e_ 8g_ 8ccc#X	.
+8B-L_ 8c#_ 8e_ 8g_ 8eee	.
+8B-J] 8c#] 8e] 8g] 8ccc#X	.
+=38	=38
+[8AL [8c#X [8e [8g 8eee	sf
+8AJ_ 8c#_ 8e_ 8g_ 8ccc#X	.
+8AL_ 8c#_ 8e_ 8g_ 8aa	.
+8AJ] 8c#] 8e] 8g] 8bb	.
+[8GL [8c#X [8e 8ccc#X	.
+8GJ] 8c#] 8e] 8aa	.
+=39	=39
+!LO:TX:b:t=dim.	!
+[8F#L [8A [8d 8ddd	.
+8F#J_ 8A_ 8d_ 8aa	.
+8F#L_ 8A_ 8d_ 8ddd	.
+8F#J] 8A] 8d] 8aa	.
+[8DL [8A [8d 8ff#	.
+8DJ] 8A] 8d] 8dd	.
+=40	=40
+!LO:TX:b:t=cresc.	!
+[8AL [8c#X [8e [8g 8ee	.
+8AJ_ 8c#_ 8e_ 8g_ 8gg	.
+8AL_ 8c#_ 8e_ 8g_ 8ccc#X	.
+8AJ_ 8c#_ 8e_ 8g_ 8gg	.
+8AL_ 8c#_ 8e_ 8g_ 8eee	.
+8AJ] 8c#] 8e] 8g] 8ccc#X	.
+=41	=41
+[8B-XL [8c#X [8e [8g 8eee	.
+8B-J_ 8c#_ 8e_ 8g_ 8ccc#X	.
+8B-L_ 8c#_ 8e_ 8g_ 8eee	.
+8B-J_ 8c#_ 8e_ 8g_ 8ccc#X	.
+8B-L_ 8c#_ 8e_ 8g_ 8eee	.
+8B-J] 8c#] 8e] 8g] 8ccc#X	.
+=42	=42
+[8AL [8c#X [8e [8g 8eee	sf
+8AJ_ 8c#_ 8e_ 8g_ 8ccc#X	.
+8AL_ 8c#_ 8e_ 8g_ 8aa	.
+8AJ] 8c#] 8e] 8g] 8bb	.
+[8GL [8c#X [8e 8ccc#X	.
+8GJ] 8c#] 8e] 8aa	.
+=43	=43
+!LO:TX:b:t=dim.	!
+[8F#L [8A [8d 8ddd	.
+8F#J_ 8A_ 8d_ 8aa	.
+8F#L_ 8A_ 8d_ 8ddd	.
+8F#J] 8A] 8d] 8aa	.
+[8DL [8A [8d 8ff#	.
+8DJ] 8A] 8d] 8dd	.
+=44	=44
+[8GL [8B [8d 8bb	p
+8GJ] 8B] 8d] 8gg	.
+8bbL	.
+8ggJ	.
+[8GL [8B [8e 8dd	.
+8GJ] 8B] 8e] 8b	.
+=45	=45
+4A 4d 4f# [4a	.
+4a]	.
+[16ATLL [16c#X [16g [16ee 16ff#	.
+16ATJ_ 16c#_ 16g_ 16ee_	.
+16ATL_ 16c#_ 16g_ 16dd 16ee_	.
+16ATJJ] 16c#] 16g] 16ee]	.
+=46	=46
+8DL 8F# [8dd	f
+8AJ 8dd]	.
+8DL 8F# [8a [8aa	.
+8A'`J 8a] 8aa]	.
+8DL 8F# [8d [8dd	.
+8A'`J 8d] 8dd]	.
+=47	=47
+8DL 8E 8A	.
+8AJ	.
+8DL 8E 8G [8g [8gg	.
+8A'`J 8g] 8gg]	.
+8DL 8E 8G [8c#X [8cc#X	.
+8A'`J 8c#] 8cc#]	.
+=48	=48
+4r	p
+4D'` 4d 4dd	.
+4BB'` 4B 4b	.
+=49	=49
+4r	.
+4Cn'` 4cn 4ccn	.
+4AA'` 4A 4a	.
+=50	=50
+4r	.
+4BB'` 4B 4b 4bb	f
+4GG#X'` 4G#X 4g#X 4gg#X	.
+=51	=51
+4r	.
+4AA'` 4A 4a 4aa	.
+4FF#'` 4F# 4f# 4ff#	.
+=52	=52
+8EL 8G#X [8e [8ee	f
+8B'`J 8e] 8ee]	.
+8EL 8G#X [8g#X [8gg#X	.
+8B'`J 8g#] 8gg#]	.
+8EL 8G#X [8e [8ee	.
+8B'`J 8e] 8ee]	.
+=53	=53
+8EL 8G#X [8b [8bb	sf
+8BJ 8b_ 8bb_	.
+8EL 8G#X 8b_ 8bb_	.
+8BJ 8b] 8bb]	.
+8EL 8G#X 8aa	.
+8BJ 8gg#X	.
+=54	=54
+8EL 8G#X 8ff#	.
+8BJ 8ee	.
+8EL 8G#X 8dd#X	.
+8BJ 8ee	.
+8EL 8G#X 8gg#X	.
+8BJ 8ee	.
+=55	=55
+8EL 8A [8dd#X	.
+8c#XJ 8dd#]	.
+8EL 8A [8cc#X	.
+8c#XJ 8cc#]	.
+8EL 8A 8b	.
+8c#XJ 8a	.
+=56	=56
+8EL 8F# 8A 8g#X	.
+8BJ 8f#	.
+8EL 8F# 8A 8e#X	.
+8BJ 8f#	.
+8EnL 8F# 8A 8a	.
+8BJ 8f#	.
+=57	=57
+8EL 8F# 8A [8d#X	.
+8BJ 8d#_	.
+8EL 8F# 8A 8d#_	.
+8BJ 8d#]	.
+8EL 8F# 8A [8f#	.
+8B'`J 8f#]	.
+=58	=58
+8EL 8F# 8A [8a	.
+8B'`J 8a]	.
+8EL 8F# 8A [8f#	.
+8B'`J 8f#]	.
+8EL 8F# 8A [8d#X	.
+8B'`J 8d#]	.
+=59	=59
+[8EL 8e	.
+8EJ] 8B	.
+8g#XL [8b	.
+8BJ 8b]	.
+8eL [8g#X	.
+8BJ 8g#]	.
+=60	=60
+[8EL 8e	.
+8EJ] 8B	.
+8g#XL [8b	.
+8BJ 8b]	.
+8eL [8g#X	.
+8BJ 8g#]	.
+=61	=61
+[8EL 8e	.
+8EJ] 8B	.
+8g#XL [8b	.
+8BJ 8b]	.
+8eL [8g#X	.
+8BJ 8g#]	.
+=62	=62
+[8BBL 8d#X	.
+8BBJ] 8B	.
+8f#L [8a	.
+8BJ 8a]	.
+8d#XL [8f#	.
+8BJ 8f#]	.
+=63	=63
+[8BBL 8d#X	.
+8BBJ] 8B	.
+8f#L [8a	.
+8BJ 8a]	.
+8d#XL [8f#	.
+8BJ 8f#]	.
+=64	=64
+[8BBL 8d#X	.
+8BBJ] 8B	.
+8f#L [8a	.
+8BJ 8a]	.
+8d#XL [8f#	.
+8BJ 8f#]	.
+=65	=65
+[8BBL 8d#X	.
+8BBJ] 8B	.
+8f#L [8a	.
+8BJ 8a]	.
+8d#XL [8f#	.
+8BJ 8f#]	.
+=66	=66
+[8EL 8e	p
+8EJ] 8B	.
+8eL [8gn	.
+8BJ 8g]	.
+8eL [8g	.
+8BJ 8g]	.
+=67	=67
+!LO:TX:b:t=dolce	!
+[8CL 8c	.
+8CJ] 8G	.
+8eL [8g	.
+8GJ 8g]	.
+8cL [8e	.
+8GJ 8e]	.
+=68	=68
+[8CL 8c	.
+8CJ] 8G	.
+8eL [8g	.
+8GJ 8g]	.
+8cL [8e	.
+8GJ 8e]	.
+=69	=69
+[8CL 8c	.
+8CJ] 8G	.
+8eL [8g	.
+8GJ 8g]	.
+8cL [8e	.
+8GJ 8e]	.
+=70	=70
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=71	=71
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=72	=72
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=73	=73
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=74	=74
+[8CL 8c	.
+8CJ] 8G	.
+8cL [8e	.
+8GJ 8e]	.
+8cL [8e	.
+8GJ 8e]	.
+=75	=75
+[8CCL [8GG [8C 8c	f
+8CCJ_ 8GG_ 8C_ 8G	.
+8CCL_ 8GG_ 8C_ 8F#	.
+8CCJ_ 8GG_ 8C_ 8G	.
+8CCL_ 8GG_ 8C_ 8B	.
+8CCJ] 8GG] 8C] 8c	.
+=76	=76
+[8BBBL [8GG [8BB 8d	.
+8BBBJ_ 8GG_ 8BB_ 8G	.
+8BBBL_ 8GG_ 8BB_ 8F#	.
+8BBBJ_ 8GG_ 8BB_ 8G	.
+8BBBL_ 8GG_ 8BB_ 8c	.
+8BBBJ] 8GG] 8BB] 8d	.
+=77	=77
+[8CCL [8GG [8C 8e	.
+8CCJ_ 8GG_ 8C_ 8c	.
+8CCL_ 8GG_ 8C_ 8B	.
+8CCJ] 8GG] 8C] 8c	.
+8AAL 8fn	.
+8EEJ 8g	.
+=78	=78
+[8FFnL 8a	.
+8FF'`J] 8g	.
+[8FFnL 8fn	.
+8FF'`J] 8e	.
+[8FF#XL 8d	.
+8FF#'`J] 8c	.
+=79	=79
+4GG 4B	.
+4r	.
+8dL 8ffn	p
+8eJ 8gg	.
+=80	=80
+[8fnL 8aa	.
+8f'`J] 8gg	.
+[8fnL 8ffn	.
+8f'`J] 8ee	.
+[8f#XL 8dd	.
+8f#'`J] 8cc	.
+=81	=81
+4g 4b	.
+4r	.
+8FnL 8fn	p
+8GJ 8g	.
+=82	=82
+!LO:TX:b:t=cresc.	!
+8A-XL 8a-X	.
+8GJ 8g	.
+8FnL 8fn	.
+8E-XJ 8e-X	.
+8DL 8d	.
+8GJ 8g	.
+=83	=83
+[8CL 8c	f
+8CJ] 8G	.
+8e-XL [8g	.
+8GJ 8g]	.
+8cL [8e-X	.
+8GJ 8e-]	.
+=84	=84
+[8CL 8c	.
+8CJ] 8G	.
+8e-XL [8g	.
+8GJ 8g]	.
+8cL [8e-X	.
+8GJ 8e-]	.
+=85	=85
+[8CL 8c	.
+8CJ] 8G	.
+8e-XL [8g	.
+8GJ 8g]	.
+8cL [8e-X	.
+8GJ 8e-]	.
+=86	=86
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=87	=87
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=88	=88
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=89	=89
+[8GGL 8B	.
+8GGJ] 8G	.
+8dL [8fn	.
+8GJ 8f]	.
+8BL [8d	.
+8GJ 8d]	.
+=90	=90
+[8CL 8c	p
+8CJ] 8G	.
+8cL [8e-X	.
+8GJ 8e-]	.
+8dL [8fn	.
+8B-XJ 8f]	.
+=91	=91
+!LO:TX:b:t=dolce	!
+[8E-XL 8e-X 8g	.
+8E-J] 8B-X	.
+8gL [8b-X	.
+8B-XJ 8b-]	.
+8e-XL [8g	.
+8B-XJ 8g]	.
+=92	=92
+[8E-XL 8e-X	.
+8E-J] 8B-X	.
+8gL [8b-X	.
+8B-XJ 8b-]	.
+8e-XL [8g	.
+8B-XJ 8g]	.
+=93	=93
+[8E-XL 8e-X	.
+8E-J] 8B-X	.
+8gL [8b-X	.
+8B-XJ 8b-]	.
+8e-XL [8g	.
+8B-XJ 8g]	.
+=94	=94
+[8BB-XL 8d	.
+8BB-J] 8B-X	.
+8fnL [8a-X	.
+8B-XJ 8a-]	.
+8dL [8fn	.
+8B-XJ 8f]	.
+=95	=95
+[8BB-XL 8d	.
+8BB-J] 8B-X	.
+8fnL [8a-X	.
+8B-XJ 8a-]	.
+8dL [8fn	.
+8B-XJ 8f]	.
+=96	=96
+[8BB-XL 8d	.
+8BB-J] 8B-X	.
+8fnL [8a-X	.
+8B-XJ 8a-]	.
+8dL [8fn	.
+8B-XJ 8f]	.
+=97	=97
+[8BB-XL 8d	.
+8BB-J] 8B-X	.
+8fnL [8a-X	.
+8B-XJ 8a-]	.
+8dL [8fn	.
+8B-XJ 8f]	.
+=98	=98
+[8E-XL 8e-X	.
+8E-J] 8B-X	.
+8e-XL [8g	.
+8B-XJ 8g]	.
+8e-XL [8g	.
+8B-XJ 8g]	.
+=99	=99
+[8EE-XL [8BB-X [8E-X 8e-X	f
+8EE-J_ 8BB-_ 8E-_ 8B-X	.
+8EE-L_ 8BB-_ 8E-_ 8A	.
+8EE-J_ 8BB-_ 8E-_ 8B-X	.
+8EE-L_ 8BB-_ 8E-_ 8d	.
+8EE-J] 8BB-] 8E-] 8e-X	.
+=100	=100
+[8DDL [8BB-X [8D 8fn	.
+8DDJ_ 8BB-_ 8D_ 8B-X	.
+8DDL_ 8BB-_ 8D_ 8A	.
+8DDJ_ 8BB-_ 8D_ 8B-X	.
+8DDL_ 8BB-_ 8D_ 8e-X	.
+8DDJ] 8BB-] 8D] 8fn	.
+=101	=101
+[8EE-XL [8BB-X [8E-X 8g	.
+8EE-J_ 8BB-_ 8E-_ 8e-X	.
+8EE-L_ 8BB-_ 8E-_ 8d	.
+8EE-J] 8BB-] 8E-] 8e-X	.
+8CL 8a-X	.
+8GGJ 8b-X	.
+=102	=102
+[8AA-XL 8cc	.
+8AA-'`J] 8b-X	.
+[8AA-XL 8a-X	.
+8AA-'`J] 8g	.
+[8AAnL 8fn	.
+8AA'`J] 8e-X	.
+=103	=103
+4BB-X 4d	.
+4r	.
+8ccL 8aa-X	p
+8b-XJ 8bb-X	.
+=104	=104
+[8a-XL 8ccc	.
+8a-'`J] 8bb-X	.
+[8a-XL 8aa-X	.
+8a-'`J] 8gg	.
+[8anL 8ffn	.
+8a'`J] 8ee-X	.
+=105	=105
+4b-X 4dd	.
+4r	.
+8CL 8c	f
+8DJ 8d	.
+=106	=106
+8E-XL 8e-X	.
+8DJ 8d	.
+8CL 8c	.
+8BB-XJ 8B-X	.
+8AAnL 8An	.
+8GGJ 8G	.
+=107	=107
+4FF# 4F#	.
+4r	.
+8ccL 8ccc	p
+8ddJ 8ddd	.
+=108	=108
+!LO:TX:b:t=cresc.	!
+8ee-XL 8eee-X	.
+8ddJ 8ddd	.
+8ccL 8ccc	.
+8b-XJ 8bb-X	.
+8aL 8aa	.
+8gJ 8gg	.
+=109	=109
+8f#L 8ff#	.
+8e-XJ 8ee-X	.
+8dL 8dd	.
+8cJ 8cc	.
+8B-XL 8b-X	.
+8AJ 8a	.
+=110	=110
+[8GL 8g	p
+8GJ] 8f#	.
+[8E-XL 8g	.
+8E-J] 8a	.
+[8C#XL 8b-X	.
+8C#J] 8g	.
+=111	=111
+!LO:TX:b:t=dolce	!
+4D 4f#	.
+8f#L [8a	.
+8AJ 8a]	.
+8dL [8f#	.
+8AJ 8f#]	.
+=112	=112
+[8DL 8d	.
+8DJ] 8A	.
+8f#L [8a	.
+8AJ 8a]	.
+8dL [8f#	.
+8AJ 8f#]	.
+=113	=113
+[8DL 8d	.
+8DJ] 8A	.
+8f#L [8a	.
+8AJ 8a]	.
+8dL [8f#	.
+8AJ 8f#]	.
+=114	=114
+[8AAL 8c#X	.
+8AAJ] 8A	.
+8eL [8g	.
+8AJ 8g]	.
+8c#XL [8e	.
+8AJ 8e]	.
+=115	=115
+[8AAL 8c#X	.
+8AAJ] 8A	.
+8eL [8g	.
+8AJ 8g]	.
+8c#XL [8e	.
+8AJ 8e]	.
+=116	=116
+[8AAL 8c#X	.
+8AAJ] 8A	.
+8eL [8g	.
+8AJ 8g]	.
+8c#XL [8e	.
+8AJ 8e]	.
+=117	=117
+[8AAL 8c#X	.
+8AAJ] 8A	.
+8eL [8g	.
+8AJ 8g]	.
+8c#XL [8e	.
+8AJ 8e]	.
+=118	=118
+[8DL 8d	.
+8DJ] 8A	.
+[8f#L 8a	.
+8dJ 8f#]	.
+[8cL 8a	.
+8cJ] 8f#	.
+=119	=119
+!LO:TX:b:t=cresc.	!
+[8F#L 8a 8dd	.
+8F#'`J] 8d	.
+[8DL 8a 8dd	.
+8D'`J] 8d	.
+[8FF#L 8a 8dd	.
+8FF#'`J] 8d	.
+=120	=120
+[8DDL 8a 8dd	.
+8DD'`J] 8d	.
+[8F#L 8a 8dd	.
+8F#'`J] 8d	.
+[8DL 8a 8dd	.
+8D'`J] 8d	.
+=121	=121
+[8FF#L 8a 8ccn	.
+8FF#'`J] 8d	.
+[8DDL 8a 8cc	.
+8DD'`J] 8d	.
+[8F#L 8a 8cc	.
+8F#'`J] 8d	.
+=122	=122
+[8DL 8a 8cc	.
+8D'`J] 8d	.
+[8FF#L 8a 8cc	.
+8FF#'`J] 8d	.
+[8DDL 8a 8cc	.
+8DD'`J] 8d	.
+=123	=123
+4GG'` 4g 4gg	f
+8GL 8B [8b [8bb	.
+8d'`J 8b] 8bb]	.
+8GL 8B [8g [8gg	.
+8d'`J 8g] 8gg]	.
+=124	=124
+8GL 8B [8dd [8ddd	sf
+8dJ 8dd_ 8ddd_	.
+8GL 8B 8dd_ 8ddd_	.
+8dJ 8dd] 8ddd]	.
+8GL 8B 8ccc	.
+8dJ 8bb	.
+=125	=125
+8GL 8B 8aa	.
+8dJ 8gg	.
+8GL 8B 8ff#	.
+8dJ 8gg	.
+8GL 8B 8bb	.
+8dJ 8gg	.
+=126	=126
+8GL 8c [8ff#	.
+8eJ 8ff#]	.
+8GL 8c [8ee	.
+8eJ 8ee]	.
+8GL 8c 8dd	.
+8eJ 8cc	.
+=127	=127
+8GL 8c 8b	.
+8eJ 8a	.
+8GL 8A 8c 8g#X	.
+8dJ 8a	.
+8GnL 8A 8c 8cc	.
+8dJ 8a	.
+=128	=128
+8GL 8c [8f#	.
+8eJ 8f#_	.
+8GL 8A 8c 8f#_	.
+8dJ 8f#]	.
+8GL 8A 8c 8g#X [8a 8b	.
+8dJ 8a]	.
+=129	=129
+8GL 8c [8cc	.
+8e'`J 8cc]	.
+8GL 8A 8c [8a	.
+8d'`J 8a]	.
+8GL 8A 8c [8f#	.
+8d'`J 8f#]	.
+=130	=130
+[8GL [8B 8g	.
+8GJ_ 8B_ 8d	.
+8GL_ 8B_ 8c#X	.
+8GJ_ 8B_ 8d	.
+8GL_ 8B_ 8f#	.
+8GJ] 8B] 8g	.
+=131	=131
+[8F#L [8A 8a	.
+8F#J_ 8A_ 8d	.
+8F#L_ 8A_ 8c#X	.
+8F#J_ 8A_ 8d	.
+8F#L_ 8A_ 8g	.
+8F#J] 8A] 8a	.
+=132	=132
+[8GL [8B 8b	.
+8GJ_ 8B_ 8g	.
+8GL_ 8B_ 8f#	.
+8GJ_ 8B_ 8g	.
+8GL_ 8B_ 8a	.
+8GJ] 8B] 8b	.
+=133	=133
+[8AL [8c 8cc	.
+8AJ_ 8c_ 8g	.
+8AL_ 8c_ 8f#	.
+8AJ_ 8c_ 8g	.
+8AL_ 8c_ 8b	.
+8AJ] 8c] 8cc	.
+=134	=134
+8BBL [8dd	p
+8DJ 8dd]	.
+8GL	.
+!LO:TX:b:t=leggiermente	!
+8BJ 8d	.
+8gL	.
+8bJ	.
+=135	=135
+8ddL	.
+8gJ	.
+8bL	.
+8ddJ	.
+8ggL	.
+8bJ	.
+=136	=136
+8aL	.
+8ggJ	.
+8bbL	.
+8ddJ	.
+8ggL	.
+8bbJ	.
+=137	=137
+8dddL	.
+8cccJ	.
+8bbL	.
+8aaJ	.
+8ggL	.
+8ffnJ	.
+=138	=138
+8CL [8ee	.
+8EJ 8ee]	.
+8GL	.
+8cJ 8e	.
+8gL	.
+8ccJ	.
+=139	=139
+8eeL	.
+8eJ	.
+8gL	.
+8ccJ	.
+8eeL	.
+8gJ	.
+=140	=140
+8ccL	.
+8eeJ	.
+8ggL	.
+8ccJ	.
+8eeL	.
+8ggJ	.
+=141	=141
+8cccL	.
+8eeJ	.
+8ggL	.
+8cccJ	.
+8eeeL	.
+8dddJ	.
+=142	=142
+8AAL [8ccc#X	.
+8C#XJ 8ccc#]	.
+8EL	.
+8GJ 8c#X	.
+8eL	.
+8gJ	.
+=143	=143
+8cc#XL	.
+8eJ	.
+8gL	.
+8cc#XJ	.
+8eeL	.
+8gJ	.
+=144	=144
+8cc#XL	.
+8eeJ	.
+8ggL	.
+8cc#XJ	.
+8eeL	.
+8ggJ	.
+=145	=145
+8ccc#XL	.
+8eeeJ	.
+[8c#XL [8e 8aa	.
+8c#J] 8e] 8bb	.
+[8eL [8g 8aa	.
+8eJ] 8g] 8bb	.
+=146	=146
+!LO:TX:b:t=cresc.	!
+[8dL 8f# [8ff# [8aa	.
+8dJ] 8g 8ff#_ 8aa_	.
+8aL 8ff#_ 8aa_	.
+8bJ 8ff#_ 8aa_	.
+8cc#XL 8ff#_ 8aa_	.
+8ddJ 8ff#] 8aa]	.
+=147	=147
+8cc#XL [8gg [8aa	.
+8bJ 8gg_ 8aa_	.
+8aL 8gg_ 8aa_	.
+8gJ 8gg_ 8aa_	.
+8f#L 8gg_ 8aa_	.
+8eJ 8gg] 8aa]	.
+=148	=148
+8dL [8aa [8cccn	sf
+8cJ 8aa_ 8ccc_	.
+8BL 8aa_ 8ccc_	.
+8AJ 8aa_ 8ccc_	.
+8GL 8aa_ 8ccc_	.
+8F#J 8aa] 8ccc]	.
+=149	=149
+8GL [8gg [8bb	p
+8AJ 8gg] 8bb]	.
+8BL [8gg [8bb	.
+8c#XJ 8gg] 8bb]	.
+8dL [8gg [8bb	.
+8eJ 8gg] 8bb]	.
+=150	=150
+!LO:TX:b:t=cresc.	!
+[8dL 8f# [8ff# [8aa	.
+8dJ] 8g 8ff#_ 8aa_	.
+8aL 8ff#_ 8aa_	.
+8bJ 8ff#_ 8aa_	.
+8cc#XL 8ff#_ 8aa_	.
+8ddJ 8ff#] 8aa]	.
+=151	=151
+8cc#XL [8gg [8aa	.
+8bJ 8gg_ 8aa_	.
+8aL 8gg_ 8aa_	.
+8gJ 8gg_ 8aa_	.
+8f#L 8gg_ 8aa_	.
+8eJ 8gg] 8aa]	.
+=152	=152
+8dL [8aa [8cccn	sf
+8cJ 8aa_ 8ccc_	.
+8BL 8aa_ 8ccc_	.
+8AJ 8aa_ 8ccc_	.
+8GL 8aa_ 8ccc_	.
+8F#J 8aa] 8ccc]	.
+=153	=153
+8GL [8gg [8bb	p
+8AJ 8gg] 8bb]	.
+8BL [8gg [8bb	.
+8c#XJ 8gg] 8bb]	.
+8dL [8gg [8bb	.
+8eJ 8gg] 8bb]	.
+=154	=154
+[8dL [8f# [8a 8ff# 8aa	.
+8dJ_ 8f#_ 8a_ 8gg	.
+8dL_ 8f#_ 8a_ 8aa	.
+8dJ_ 8f#_ 8a_ 8bb	.
+8dL_ 8f#_ 8a_ 8ccc#X	.
+8dJ_ 8f#] 8a] 8ddd	.
+=155	=155
+8dL_ [8e [8g 8ccc#X	.
+8dJ_ 8e_ 8g_ 8bb	.
+8dL_ 8e_ 8g_ 8aa	.
+8dJ_ 8e_ 8g_ 8gg	.
+8dL_ 8e_ 8g_ 8ff#	.
+8dJ] 8e] 8g] 8ee	.
+=156	=156
+[8dL [8g [8cc#X 8gg	.
+8dJ_ 8g_ 8cc#_ 8aa	.
+8dL_ 8g_ 8cc#_ 8bb	.
+8dJ_ 8g_ 8cc#_ 8ccc#X	.
+8dL_ 8g_ 8cc#_ 8ddd	.
+8dJ_ 8g] 8cc#] 8eee	.
+=157	=157
+8dL_ [8f# [8a 8ddd	.
+8dJ_ 8f#_ 8a_ 8cccn	.
+8dL_ 8f#_ 8a_ 8bb	.
+8dJ_ 8f#_ 8a_ 8aa	.
+8dL_ 8f#_ 8a_ 8gg	.
+8dJ] 8f#] 8a] 8ff#	.
+=158	=158
+!LO:TX:b:t=cresc.	!
+[8dL [8f# [8a [8ccn 8aa	.
+8dJ_ 8f#_ 8a_ 8cc_ 8ccc	.
+8dL_ 8f#_ 8a_ 8cc_ 8fff#	.
+8dJ_ 8f#_ 8a_ 8cc_ 8ccc	.
+8dL_ 8f#_ 8a_ 8cc_ 8aaa	.
+8dJ] 8f#] 8a] 8cc] 8fff#	.
+=159	=159
+[8e-XL [8f# [8a [8cc 8aaa	sf
+8e-J_ 8f#_ 8a_ 8cc_ 8fff#	.
+8e-L_ 8f#_ 8a_ 8cc_ 8aaa	.
+8e-J_ 8f#_ 8a_ 8cc_ 8fff#	.
+8e-L_ 8f#_ 8a_ 8cc_ 8aaa	.
+8e-J] 8f#] 8a] 8cc] 8fff#	.
+=160	=160
+[8dL [8f# [8a [8cc 8aaa	sf
+8dJ_ 8f#_ 8a_ 8cc_ 8fff#	.
+8dL_ 8f#_ 8a_ 8cc_ 8ddd	.
+8dJ] 8f#] 8a] 8cc] 8eee	.
+[8cL [8f# [8a 8fff#	.
+8cJ] 8f#] 8a] 8ddd	.
+=161	=161
+!LO:TX:b:t=dim.	!
+[8BL [8d [8g 8ggg	.
+8BJ_ 8d_ 8g_ 8ddd	.
+8BL_ 8d_ 8g_ 8ggg	.
+8BJ] 8d] 8g] 8ddd	.
+[8GL [8d [8g 8bb	.
+8GJ] 8d] 8g] 8gg	.
+=162	=162
+[8dL [8f# [8a [8cc 8aa	.
+8dJ_ 8f#_ 8a_ 8cc_ 8ccc	.
+8dL_ 8f#_ 8a_ 8cc_ 8fff#	.
+8dJ_ 8f#_ 8a_ 8cc_ 8ccc	.
+8dL_ 8f#_ 8a_ 8cc_ 8aaa	.
+8dJ] 8f#] 8a] 8cc] 8fff#	.
+=163	=163
+[8e-XL [8f# [8a [8cc 8aaa	sf
+8e-J_ 8f#_ 8a_ 8cc_ 8fff#	.
+8e-L_ 8f#_ 8a_ 8cc_ 8aaa	.
+8e-J_ 8f#_ 8a_ 8cc_ 8fff#	.
+8e-L_ 8f#_ 8a_ 8cc_ 8aaa	.
+8e-J] 8f#] 8a] 8cc] 8fff#	.
+=164	=164
+[8dL [8f# [8a [8cc 8aaa	sf
+8dJ_ 8f#_ 8a_ 8cc_ 8fff#	.
+8dL_ 8f#_ 8a_ 8cc_ 8ddd	.
+8dJ] 8f#] 8a] 8cc] 8eee	.
+[8cL [8f# [8a 8fff#	.
+8cJ] 8f#] 8a] 8ddd	.
+=165	=165
+!LO:TX:b:t=dim.	!
+[8BL [8d [8g 8ggg	.
+8BJ_ 8d_ 8g_ 8ddd	.
+8BL_ 8d_ 8g_ 8ggg	.
+8BJ] 8d] 8g] 8ddd	.
+[8GL [8d [8g 8bb	.
+8GJ] 8d] 8g] 8gg	.
+=166	=166
+[8cL [8e [8g 8eee	p
+8cJ] 8e] 8g] 8ccc	.
+8eeeL	.
+8cccJ	.
+[8cL [8e [8a 8gg	.
+8cJ] 8e] 8a] 8ee	.
+=167	=167
+4d 4g 4b [4dd	.
+4dd]	.
+[16dTLL [16f# [16cc [16aa 16bb	.
+16dTJ_ 16f#_ 16cc_ 16aa_	.
+16dTL_ 16f#_ 16cc_ 16gg 16aa_	.
+16dTJJ] 16f#] 16cc] 16aa]	.
+=168	=168
+8GL 8B [8gg	f
+8dJ 8gg]	.
+8GL 8B [8dd [8ddd	.
+8d'`J 8dd] 8ddd]	.
+8GL 8B [8g [8gg	.
+8d'`J 8g] 8gg]	.
+=169	=169
+8GL 8A 8c	.
+8dJ	.
+8GL 8A 8c [8cc [8ccc	.
+8d'`J 8cc] 8ccc]	.
+8GL 8A 8c [8f# [8ff#	.
+8d'`J 8f#] 8ff#]	.
+=170	=170
+8BBL	p
+8DJ	.
+8BBL [8d [8dd	.
+8D'`J 8d] 8dd]	.
+8BBL [8G [8g	.
+8D'`J 8G] 8g]	.
+=171	=171
+8AAL	.
+8DJ	.
+8AAL [8c [8cc	.
+8D'`J 8c] 8cc]	.
+8DDL [8F# [8f#	.
+8D'`J 8F#] 8f#]	.
+=172	=172
+8GL 8B	f
+8dJ	.
+8GL 8B [8dd [8ddd	.
+8dJ 8dd] 8ddd]	.
+8GL 8B [8g [8gg	.
+8dJ 8g] 8gg]	.
+=173	=173
+8GL 8A 8c	.
+8dJ	.
+8GL 8A 8c [8cc [8ccc	.
+8dJ 8cc] 8ccc]	.
+8GL 8A 8c [8f# [8ff#	.
+8dJ 8f#] 8ff#]	.
+=174	=174
+8BBL	p
+8DJ	.
+8BBL [8d [8dd	.
+8DJ 8d] 8dd]	.
+8BBL [8G [8g	.
+8DJ 8G] 8g]	.
+=175	=175
+8AAL	.
+8DJ	.
+8AAL [8c [8cc	.
+8DJ 8c] 8cc]	.
+8DDL [8F# [8f#	.
+8DJ 8F#] 8f#]	.
+=176	=176
+[8GGL 8g 8b	f
+8GG'`J] 8d	.
+[8BBL 8g 8b	.
+8BB'`J] 8d	.
+[8GGL 8g 8b	.
+8GG'`J] 8d	.
+=177	=177
+[8DL 8g 8b	.
+8DJ_ 8d	.
+8DL_ 8g 8b	.
+8DJ] 8d	.
+8CL 8g 8b	.
+8BBJ 8d	.
+=178	=178
+8AAL 8g 8b	.
+8GGJ 8d	.
+8FF#L 8g 8b	.
+8GGJ 8d	.
+8BBL 8g 8b	.
+8GGJ 8d	.
+=179	=179
+[8FF#L 8g 8cc	.
+8FF#J] 8c	.
+[8EEL 8g 8cc	.
+8EEJ] 8c	.
+[8EEL 8g 8cc	.
+8EEJ] 8c	.
+=180	=180
+8CL 8E [8a	f
+8A'`J 8a]	.
+8CL 8E [8cc	.
+8A'`J 8cc]	.
+8CL 8E [8a	.
+8A'`J 8a]	.
+=181	=181
+8CL 8E [8ee	sf
+8AJ 8ee_	.
+8CL 8E 8ee_	.
+8AJ 8ee]	.
+8CL 8E 8dd	.
+8AJ 8cc	.
+=182	=182
+8DL 8A 8b	.
+8cJ 8a	.
+8DL 8A 8cc	.
+8cJ 8a	.
+8DL 8A 8f#	.
+8cJ 8a	.
+=183	=183
+8GL 8B [8a	.
+8dJ 8a]	.
+8GL 8B [8g	.
+8dJ 8g]	.
+8GL 8B [8g	.
+8dJ 8g]	.
+=184	=184
+8F#L [8G 8b 8dd	f
+8G'`J] 8g	.
+8A#XL [8B 8b 8dd	.
+8B'`J] 8g	.
+8F#L [8G 8b 8dd	.
+8G'`J] 8g	.
+=185	=185
+8c#XL [8d 8b 8dd	.
+8dJ_ 8g	.
+8dL_ 8b 8dd	.
+8dJ] 8g	.
+8cnL 8b 8dd	.
+8BJ 8g	.
+=186	=186
+8AL 8b 8dd	.
+8GJ 8g	.
+8F#L 8b 8dd	.
+8GJ 8g	.
+8BL 8b 8dd	.
+8GJ 8g	.
+=187	=187
+[8F#L 8cc 8gg	.
+8F#J] 8g	.
+[8EL 8cc 8gg	.
+8EJ] 8g	.
+[8EL 8cc 8gg	.
+8EJ] 8b	.
+=188	=188
+8CL 8E 8gg#X [8aa	f
+8A'`J 8aa]	.
+8CL 8E 8aa [8ccc	.
+8A'`J 8ccc]	.
+8CL 8E 8gg#X [8aa	.
+8A'`J 8aa]	.
+=189	=189
+8CL 8E 8ddd#X [8eee	sf
+8AJ 8eee_	.
+8CL 8E 8eee_	.
+8AJ 8eee]	.
+8CL 8E 8dddn	.
+8AJ 8ccc	.
+=190	=190
+8DL 8A 8bb	.
+8cJ 8aa	.
+8DL 8A 8ccc	.
+8cJ 8aa	.
+8DL 8A 8ff#	.
+8cJ 8aa	.
+=191	=191
+[8GGL 8gg	.
+8GGJ] 8dd	.
+[8BL [8d 8bb	.
+8BJ] 8d] 8gg	.
+[8GL [8B 8dd	.
+8GJ] 8B] 8b	.
+=192	=192
+[8GGL 8gg	.
+8GGJ] 8dd	.
+[8BL [8d 8bb	.
+8BJ] 8d] 8gg	.
+[8GL [8B 8dd	.
+8GJ] 8B] 8b	.
+=193	=193
+[8GGL 8gg	.
+8GGJ] 8dd	.
+[8BL [8d 8bb	.
+8BJ] 8d] 8gg	.
+[8GL [8B 8dd	.
+8GJ] 8B] 8b	.
+=194	=194
+[8DL 8ff#	.
+8DJ] 8dd	.
+[8AL [8c 8aa	.
+8AJ] 8c] 8ff#	.
+[8F#L [8A 8dd	.
+8F#J] 8A] 8cc	.
+=195	=195
+[8GGL 8dd	.
+8GGJ] 8b	.
+[8BL [8d 8gg	.
+8BJ] 8d] 8dd	.
+[8GL [8B 8b	.
+8GJ] 8B] 8g	.
+=196	=196
+[8GGL 8dd	.
+8GGJ] 8b	.
+[8BL [8d 8gg	.
+8BJ] 8d] 8dd	.
+[8GL [8B 8b	.
+8GJ] 8B] 8g	.
+=197	=197
+[8GGL 8dd	.
+8GGJ] 8b	.
+[8BL [8d 8gg	.
+8BJ] 8d] 8dd	.
+[8GL [8B 8b	.
+8GJ] 8B] 8g	.
+=198	=198
+[8DL 8cc	.
+8DJ] 8a	.
+[8AL [8c 8dd	.
+8AJ] 8c] 8cc	.
+[8DL [8A 8a	.
+8DJ] 8A] 8f#	.
+=199	=199
+8GGGL [8g	.
+8BBBJ 8g]	.
+8DDL	.
+8GGJ 8G	.
+8BBL 8B	.
+8DJ 8d	.
+=200	=200
+[8GGL 8g	.
+8GGJ] 8b	.
+8ddL	.
+8ggJ	.
+8bbL	.
+8dddJ	.
+=201	=201
+4ggg	.
+2r	.
+==	==
+*-	*-

@@ -1,0 +1,114 @@
+!!!COM: Robert Schumann
+!!!OTL: Dichterliebe, Op.48
+!!!OMV: Aus meinen Tränen spriessen
+**kern	**dynam
+*I"Voice	*
+*clefG2	*
+*k[f#c#g#]	*
+*M2/4	*
+!LO:TX:a:B:t=Nicht schnell	!LO:DY:a
+[8a [8cc#	p
+=1	=1
+8aL] 8cc#_	.
+[16g#L [16a 16cc#_	.
+16g#'JJ] 16a] 16cc#]	.
+8f#'L 8a 8cc#	.
+8e'J 8a 8cc#	.
+=2	=2
+4d^ 4f# 4a 4dd	.
+8A 8e 8a 8cc#	.
+16r	.
+16cc#	.
+=3	=3
+[8d^L [8e [8g# [8b	.
+16dL] 16e_ 16g#] 16b]	.
+16EJJ 16e] 16cc#	.
+[8AL [8c# [8e [8a	.
+16AL_ 16c#_ 16e_ 16a_	.
+16AJJ] 16c#] 16e] 16a] 16cc#	.
+=4	=4
+[8dL [8e [8g# [8b	.
+16d;L] 16e_ 16g#] 16b]	.
+16EJJ 16e] 16cc#	.
+8AL 8c# 8e 8a	.
+[8aJ [8cc#	.
+=5	=5
+8aL] 8cc#_	.
+[16g#L [16a 16cc#_	.
+16g#'JJ] 16a] 16cc#]	.
+8f#'L 8a 8cc#	.
+8e'J 8a 8cc#	.
+=6	=6
+4d^ 4f# 4a 4dd	.
+8A 8e 8a 8cc#	.
+16r	.
+16cc#	.
+=7	=7
+8.d^L [8.e 8.g# 8.b	.
+16EJk 16e] 16cc#	.
+[8.AL [8.c# [8.e [8.a	.
+16AJk] 16c#] 16e] 16a] 16cc#	.
+=8	=8
+[8dL [8e [8g# [8b	.
+16d;L] 16e_ 16g#] 16b]	.
+16EJJ 16e] 16cc#	.
+8AL 8c# 8e 8a	.
+[8eJ [8g# [8b	.
+=9	=9
+8eL_ 8g#_ 8b_	.
+[16d#XL 16e_ 16g#_ 16b_	.
+16d#JJ] 16e_ 16g#_ 16b_	.
+8c#L 8e_ 8g#_ 8b_	.
+8BJ 8e_ 8g#_ 8b]	.
+=10	=10
+[8A#XL 8e_ 8g#] [8cc#	.
+8A#J_ 8e_ 8gn 8cc#_	.
+8A#L_ 8e_ 8f# 8cc#_	.
+8A#J] 8e] 8cc#]	.
+=11	=11
+[16BLL [16dn [16f#	.
+16BJ] 16d] 16f#]	.
+16f#L	.
+16f#JJ	.
+8G#'L 8d 8f# [8b	.
+16bL]	.
+16bJJ	.
+=12	=12
+8c#'L 8e#X [8g#	.
+16g#L_	.
+16G#JJ 16d 16f# 16g#] 16b	.
+8c#L 8e#X 8g#	.
+16A'L 16en 16gn 16a 16cc#	.
+16A'JJ 16e 16gn 16a 16cc#	.
+=13	=13
+8.AL 8.e 8.gn 8.a 8.cc#	.
+16AJk 16e 16gn 16a 16cc#	.
+[12AL [12e [12gn [12a [12cc#	.
+12A_ 12e_ 12g_ 12a_ 12b 12cc#_	.
+48AKL] 48e] 48g] 48a] 48cc#_	.
+16AJJ 16e 16gn 16a 16cc#]	.
+=14	=14
+[8DL [8A 8f# [8a [8dd	.
+8DJ] 8A_ 8fn 8a_ 8dd]	.
+8A] 8e 8a] 8cc#	.
+16r	.
+16cc#	.
+=15	=15
+8.d^L [8.e 8.g# 8.b	.
+16EJk 16e_ 16cc#	.
+!LO:TX:a:i:t=dim.	!
+!LO:TX:a:B:t=T	!
+[8.AL [8.c# 8.e_ [8.a	.
+!LO:TX:a:B:t=T	!
+16AJk] 16c#] 16e] 16a] 16cc#	.
+=16	=16
+[4d [4e [4g# [4b	.
+8dL_ 8e_ 8g#_ 8b_	.
+16dL] 16e_ 16g#] 16b]	.
+16EJJ 16e] 16cc#	.
+=17	=17
+4A 4c# 4e 4a	.
+8r	.
+==	==
+*-	*-
+!!!YEM: OpenScore (CC0)

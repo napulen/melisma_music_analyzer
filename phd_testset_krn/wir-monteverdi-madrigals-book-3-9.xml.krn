@@ -1,0 +1,307 @@
+!!!OTL: score.mxl
+!!!OMV: score.mxl
+**kern
+*I"Canto
+*I'C.
+*clefG2
+*k[]
+*C:
+*M4/4
+*met(c)
+=1
+!LO:TX:b:t=eÎ
+!LO:TX:b:t=se
+!LO:TX:b:t=su-
+!LO:TX:b:t=to
+!LO:TX:b:t=chiu
+!LO:TX:b:t=lu- mi
+!LO:TX:b:t=di ge- la-
+!LO:TX:b:t=dor
+!LO:TX:b:t=ti-
+!LO:TX:b:t=te,
+!LO:TX:b:t=la
+!LO:TX:b:t=do-
+!LO:TX:b:t=len-
+!LO:TX:b:t=st'ul
+!LO:TX:b:t=que
+!LO:TX:b:t=man-
+!LO:TX:b:t=spir
+!LO:TX:b:t=qui
+!LO:TX:b:t=cò
+!LO:TX:b:t=Or
+!LO:TX:b:t=lo
+!LO:TX:b:t=mi-
+!LO:TX:b:t=mi
+!LO:TX:b:t=da, Ar-
+!LO:TX:b:t=Per no- meAr
+2.d 2.ff
+4e 4gg
+=2
+[2d 2f [2ff 2aa
+4d] 4f 4ff] 4aa
+4e 4gg
+=3
+[2d 2f [2ff 2aa
+4d_ 4f 4ff_ 4aa
+4d_ 4e 4ff] 4gg
+=4
+[2d 2f [2a [2ff
+[4D 4d_ 4f 4a_ 4ff_
+4D_ 4d_ 4e 4a] 4ff]
+=5
+2D 2d [2f [2a
+[2D 2A [2d 2f_ 2a]
+!!linebreak:original
+=6
+[4D 4A 4d [4f [4a
+4D] 4A 4d 4f] 4a]
+2F 2A 2c 2f
+=7
+1C 1G 1c 1e 1g
+=8
+[2C [2G 2c [2e [2g
+4C_ 4G_ 4e_ 4g_
+4C] 4G] 4e] 4g] 4cc
+=9
+4cc
+4cc 4ee 4gg
+4cc 4ee 4gg
+4cc 4ee 4gg
+=10
+[4cc 4ee 4gg
+4cc] 4ee 4gg
+2cc [2ff [2aa
+=11
+2cc 2ff 2aa
+2cc [2ee [2gg
+!!linebreak:original
+=12
+[4a 4ee 4gg
+2a_ 2ee 2gg
+4a_ 4dd 4ff
+=13
+[4a 4dd 4ff
+[8AL 8a_ 8cc#X 8ee
+8AJ] 8a_ 8b 8dd
+4A 4a_ [4cc#X [4ee
+4A 4a] 4cc#] 4ee]
+=14
+[4f [4a [4dd
+4D 4f] 4a_ 4dd_
+4D 4f 4a_ 4dd_
+[8DL 8f 8a_ 8dd_
+8DJ] 8g 8a] 8dd]
+=15
+[4d [4a [4ff
+4d_ 4a] 4ff]
+4d_ 4a [4ff
+4d] 4a 4ff]
+=16
+4d [4a [4ff
+[8DL 8d 8a_ 8ff_
+8DJ] 8e 8a] 8ff]
+[4d [4f [4a 4ff
+8dL_ 8f_ 8a_ 8ff
+8dJ] 8f] 8a] 8gg
+!!pagebreak:original
+=17
+4d [4ff [4aa
+8dL 8f 8ff_ 8aa_
+8eJ 8g 8ff] 8aa]
+[4f [4a 4ff
+8dL 8f_ 8a_ 8ff
+8eJ 8f] 8a] 8gg
+=18
+[4f [4aa
+[8FL 8f_ 8cc 8aa_
+8FJ] 8f] 8dd 8aa]
+[4c [4ee
+8cL_ 8g 8ee_
+8cJ] 8f 8ee_ 8ff
+=19
+4c 4e 4ee [4gg
+8CL 8g 8cc 8ee 8gg_
+8DJ 8f 8cc 8ff 8gg]
+4E 4e 4cc 4gg
+4F 4c 4cc [4ff 4aa
+=20
+[4C [4c [4cc 4ff [4gg
+4C] 4c] 4cc] 4ee 4gg]
+2F 2c 2a 2ff
+!!linebreak:original
+=21
+4c 4g 4ee 4gg
+2c 2e 2cc 2ee 2gg
+4d 4f 4a 4dd 4ff
+=22
+4A 4c 4a 4cc 4ee
+4B-X 4d 4f 4b-X 4dd
+2F 2A [2f 2a 2cc
+=23
+[4D 4A 4f 4a [4dd
+4D] [4F [4f [4a 4dd]
+4F] 4A 4f] 4a] 4cc
+4F [4d 4a 4dd
+=24
+[4E [4G 4d [4g [4ee
+4E_ 4G_ 4c#X 4g_ 4ee_
+2E] 2G] 2c#X 2g] 2ee]
+=25
+[2D [2A [2d 2f#X [2a
+2D] 2A] 2d] 2a] 2dd
+!!linebreak:original
+=26
+2cc#X [2aa
+2ccn 2aa]
+=27
+2b 2gg#X
+2b-X 2ggn
+=28
+[2d [2a 2ff#X
+2d] 2a] 2ffn
+=29
+2c#X 2a 2ee
+2cn 2ee 2aa
+=30
+2B [2dd 2gg#X
+2B-X 2dd] 2ggn
+=31
+[2A 2cc#X 2ff#X
+2A] [2dd 2ffn
+!!pagebreak:original
+=32
+[2A [2a 2dd [2ee
+2A] 2a] 2cc 2ee_
+=33
+2E 2g#X [2b 2ee
+2Gn 2gn 2b] [2ee
+=34
+[2D 2f#X [2a 2ee
+2D] 2fn 2a] [2dd
+=35
+[2E [2e 2g#X 2dd
+2E_ 2e_ [2a 2cc
+=36
+[2E 2e 2a [2b
+2E] [2e [2g 2b]
+=37
+[2A 2e 2g [2a
+2A_ [2d 2f 2a_
+!!linebreak:original
+=38
+2BB 2D#X 2F#X [2A 2d [2e [2a
+2A] 2c 2e_ 2a]
+=39
+2G#X [2B [2e
+2Gn 2B] 2e]
+=40
+2F#X [2A [2d [2a
+2Fn 2A] 2d] 2a]
+=41
+[2E 2g#X
+2E] [2e 2gn
+=42
+[2A 2e 2f#X
+2A_ [2d 2fn
+=43
+[2A 2d 2e
+2A] 2c [2e
+!!linebreak:original
+=44
+2G [2B 2e
+[4F 4B] [4d
+4F] 4A 4d_
+=45
+[2E 2G#X 2d
+2E] [2A 2c
+=46
+[2E 2A [2B
+2E] 2G#X 2B] [2ee
+=47
+[2A 2c#X [2a 2ee
+2A_ [2cn [2e 2a_ 2ee
+=48
+2A 2c 2e 2a [2ee
+[4A [4c [4e [4a 4ee]
+4A] 4c] 4e] 4a] 4ee
+=49
+[2A [2c [2e [2a 2ee
+4A] 4c] 4e] 4a_
+4A 4c 4e 4a_
+!!pagebreak:original
+=50
+2A 2c 2e 2a
+[2D [2A [2d [2f#X 2a
+=51
+2D 2A 2d 2f#X
+2D 2A 2d 2f# 2a
+=52
+2a
+2D 2A 2d 2f#X 2a
+=53
+2D 2A 2d 2f#X [2dd
+2D 2A 2d 2f#X 2dd]
+=54
+1G 1B 1d 1g 1dd
+=55
+[2G [2B [2d [2g
+4G_ 4B_ 4d_ 4g_
+4G] 4B] 4d] 4g] 4gg
+!!linebreak:original
+=56
+[4g
+4c 4g]
+[4C [4g
+4C] 4c 4g] 4ee
+=57
+[4C 4G 4c 4e [4g
+4C] 4G 4c 4e 4g]
+4C 4G 4c [4e
+4C 4G 4c 4e]
+=58
+[2BB-X 2E [2F 2G#X 2B-X 2B [2d [2f
+2BB-] 2F] 2B-X 2d] 2f]
+=59
+[4BB-X [4F [4d [4f
+4BB-_ 4F] 4d_ 4f_ 4b-X
+4BB-_ 4d_ 4f_ 4b-
+4BB-] 4d] 4f] 4b-X
+=60
+[4f
+4B-X 4d 4f] 4dd
+4B-X 4d [4f 4b-X 4dd
+4B-X 4f] 4b-X 4dd
+=61
+[2F [2c 2a [2cc
+4F_ 4c_ 4f [4a 4cc_
+4F] 4c] 4f 4a] 4cc]
+!!linebreak:original
+=62
+2F [2c [2a 2cc
+4F 4c_ 4a_ 4cc 4ff
+4F 4c] 4a] 4cc 4ff
+=63
+[2A [2a [2cc#X [2ee
+4A_ 4a_ 4cc#_ 4ee_
+4A] 4a] 4cc#] 4ee]
+=64
+2A 2e [2a 2cc#X 2ee
+[4A 4e 4a_ [4cc#X
+4A] 4e 4a] 4cc#]
+=65
+[2D 2d 2f#X 2a 2dd
+4D] [4A [4f#X [4a [4dd
+4D 4A] 4f#] 4a] 4dd]
+=66
+2F 2A 2f [2a 2cc
+[4F [4A [4c 4a_
+4F] 4A] 4c] 4g 4a]
+=67
+!LO:TX:b:t=se.
+1D 1A 1d 1f 1a
+=68
+[1AA [1A [1c#X [1e [1a
+=69
+1AA 1A 1c#X 1e 1a
+=||
+*-

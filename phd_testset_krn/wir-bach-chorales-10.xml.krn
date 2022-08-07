@@ -1,0 +1,84 @@
+!!!COM: J.S. Bach
+!!!OTL: bwv38.6.mxl
+!!!OMV: bwv38.6.mxl
+**kern
+*I"Soprano
+*I'S.
+*clefG2
+*k[]
+*a:
+*M4/4
+*met(c)
+=1
+2D 2G#X 2e 2b
+4C 4A 4e
+4BB 4d 4g#X 4b
+=2
+4AA 4e 4a 4cc
+[8BBL [8d 8gn 8b
+8BBJ] 8d] 8f#X 8a
+8CL [8e [8g
+8BBJ 8d 8e] 8g]
+4AA 4c 4f#X 4a
+=3
+2E; 2B 2g#X 2b
+2E 2e 2g#X 2b
+=4
+4A 4e 4a 4cc
+8GL [8f [8b [8dd
+8FJ 8f] 8b] 8dd]
+[8EL [8g [8cc
+8EJ] 8g] 8b 8cc]
+4F 4c 4f 4a
+=5
+[8CL 8c [8e [8g
+8CJ] 8B 8e] 8g]
+[8DL [8A 8d [8f
+8DJ] 8A] 8c 8f]
+2E; 2G#X 2B 2e
+!!linebreak:original
+=6
+2C 2A 2e 2a
+4BB 4B 4d 4g
+[8AAL [8c 8e [8cc
+8AAJ] 8c] 8f#X 8cc]
+=7
+8GGL [8d [8g [8b
+8GJ 8d] 8g] 8b]
+8FL 8d [8a
+8EJ 8e 8a]
+[8DL [8f 8b 8dd
+8DJ] 8f] 8a 8cc
+4E 4B 4g#X 4b
+=8
+2AA; 2c 2e 2a
+2A 2e 2a 2cc
+=9
+4E 4e 4g 4b
+8DL [8e [8g [8cc
+8CJ 8e] 8g] 8cc]
+[8BBL [8d 8g [8dd
+8BBJ] 8d] 8f 8dd]
+4C 4c 4e 4g
+=10
+[8DL 8F#X [8d [8b
+8DJ] [8G 8d] 8b]
+[8DDL 8G] [8c [8a
+8DDJ] 8F#X 8c] 8a]
+2GG; 2G 2B 2g
+=11
+2C 2G 2e 2g
+4AA 4A 4e 4cc
+[8EL [8G#X 8e [8b
+8EJ] 8G#] 8d 8b]
+=12
+4F 4A 4c 4a
+4C 4Gn 4c 4e
+4BB-X 4G [4d 4g
+4AA 4A 4d_ 4f
+=13
+4GG#X 4Bn 4d] [4e
+4AA 4A 4c 4e_
+2EE; 2G#X 2B 2e]
+==
+*-

@@ -1,0 +1,449 @@
+!!!COM: Franz Schubert
+!!!OTL: Schwanengesang, D.957
+!!!OMV: Das Fischermädchen
+**kern
+*I"Voice
+*clefG2
+*k[b-e-a-d-]
+*M6/8
+=1
+!LO:TX:a:B:t=Etwas geschwind
+4A- 4c 4e-
+8A- 8c 8e-
+4A- 4c 4e-
+8A- 8c 8e-
+=2
+4A- 4c 4e-
+8A- 8c 8e-
+4A- 4c 4e-
+8A- 8c 8e-
+=3
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+=4
+[8E-L [8G [8B- 8f
+8E-] 8G] 8B-] 8e-
+8E-J 8G 8B- 8dn
+[8E-L [8G [8B- 8e-
+8E-] 8G] 8B-] 8f
+8E-J 8G 8B- 8d-X
+=5
+4AA- 4E- 4A- 4c
+8AA- 8E- [8A- 8c
+[8AA-L [8E- 8A-_ [8c
+16AA-L_ 16E-_ 16A-_ 16c]
+16AA-J] 16E-] 16A-] 16d-
+8AA-J 8A- 8c 8e-
+=6
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+[8D-L 8A- [8B- 8f
+8D-] 8G 8B-] 8g
+8DnJ 8F 8B- 8a-
+=7
+[8E-L [8B- [8e- 8a-
+8E-] 8B-] 8e-] 8g
+8E-J 8c 8e- 8f
+4E- 4d- 4e- 4g
+8E- 8B- 8d- 8e- 8g
+=8
+4AA- 4E- 4A- 4c 4e- 4a- 4cc
+8AA- 8E- 8A- 8c 8e- 8cc
+[8AA-L [8E- [8G [8d- [8e- 8cc
+8AA-] 8E-] 8G] 8d-] 8e-] 8b-
+8AA-J 8E- 8B- 8d- 8e- 8g
+=9
+4AA- 4E- 4A- 4c 4e- [4a-
+8AA- 8E- 8A- 8c 8e- 8a-]
+4AA- 4E- 4A- 4c 4e-
+8AA- 8E- 8A- 8c 8e-
+=10
+[8.AA-L [8.E- [8.A- [8.c [8.e-
+16AA-K] 16E-] 16A-] 16c] 16e-]
+8AA-J 8E- 8A- 8c 8e-
+4AA- 4E- 4A- 4c 4e- 4a-
+8AA- 8E- 8A- 8c 8e- 8cc
+=11
+4EE- 4E- 4G 4B- 4e- [4ee-
+8EE- 8E- 8G 8B- 8e- 8ee-_
+4EE- 4E- 4G 4B- 4e- 4ee-]
+8E- 8G 8B- 8e-
+=12
+4E- 4A- 4c
+8E- 8A- 8c 8e-
+4E- 4A- 4c 4e- 4a-
+8E- 8A- 8c 8e- 8a- 8cc
+=13
+4E- 4G 4B- [4e- [4g [4b- [4ee-
+8E- 8B- 8e-_ 8g] 8b-_ 8ee-_
+[8E-L [8B- 8e-_ [8g 8b-_ 8ee-_
+8E-] 8B-] 8e-] 8g] 8b-] 8ee-]
+8E-J 8B- 8e- 8g-X 8b-
+=14
+4BB- 4F 4B- 4d- 4f 4dd-
+8BB- 8F 8B- 8d- 8f 8dd-
+[8BB-L [8F [8An [8e- [8f 8dd-
+8BB-] 8F] 8A] 8e-] 8f] 8cc
+8BB-J 8F 8c 8e- 8f 8an
+=15
+4BB- 4F 4B- 4d- 4f [4b-
+8BB- 8F 8B- 8d- 8f 8b-]
+[8BB-L [8F [8B- [8d- [8f
+8BB-] 8F] 8B-] 8d-] 8f]
+8GGJ 8E- 8B- 8d- 8e- 8b-
+=16
+[8AA-L [8E- [8e- 8cc
+8AA-] 8E-] 8d- 8e-] 8b-
+8CJ 8E- 8c 8e- 8a-
+[8E-L 8d- [8e- 8b-
+8E-] 8c 8e-] 8a-
+8EE-J 8E- 8B- 8e- 8g
+=17
+4AA- 4E- 4c 4e- 4a-
+8AA- 8E- 8c 8e-
+[8CL [8E- [8An [8e- 8g-X
+8C] 8E-] 8A] 8e-] 8f
+8FFJ 8F 8An 8e- 8f
+=18
+4BB- 4F 4B- 4d- 4f 4dd-
+8BB- 8F 8B- 8d- 8f 8dd-
+[8BB-L [8F [8An [8e- [8f 8dd-
+8BB-] 8F] 8A] 8e-] 8f] 8cc
+8BB-J 8F 8c 8e- 8f 8an
+=19
+4BB- 4F 4B- 4d- 4f [4ff
+8BB- 8F 8B- 8d- 8f 8ff]
+[8BB-L [8F [8B- [8d- [8f 8b-
+8BB-] 8F] 8B-] 8d-] 8f]
+8GGJ 8F-X 8B- 8d- 8f-X 8b-
+=20
+[8AA-L [8E- [8e- 8cc
+8AA-] 8E-] 8d- 8e-] 8b-
+8CJ 8E- 8c 8e- 8a-
+[8E-L 8d- [8e- 8b-
+8E-] 8c 8e-] 8a-
+8EE-J 8E- 8B- 8e- 8g
+=21
+4AA- 4E- 4c 4e- [4a-
+8AA- 8E- 8c 8e- 8a-]
+4AAn 4E- 4G-X 4c 4e- 4gg-X
+8AAn 8E- 8G-X 8c 8e- 8gg-
+=22
+[8BB-L [8E- [8F [8d- [8e- 8ff
+8BB-] 8E-] 8F] 8d-] 8e-] 8ee-
+8BB-J 8E- 8F 8d- 8e- 8dd-
+[8EE-ML [8E- [8Gn [8d- [8e- 8dd-
+8EE-] 8E-] 8G] 8d-] 8e-] 8cc
+8EE-J 8E- 8G 8d- 8e- 8b-
+=23
+4AA- 4E- 4A- 4c 4e- 4a-
+8AA- 8E- 8A- 8c 8e-
+4AA- 4E- 4A- 4c 4e-
+8AA- 8A- 8c 8e-
+=24
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+=25
+[8E-L [8G [8B- 8f
+8E-] 8G] 8B-] 8e-
+8E-J 8G 8B- 8dn
+[8E-L [8G [8B- 8e-
+8E-] 8G] 8B-] 8f
+8E-J 8G 8B- 8d-X
+=26
+4AA- 4E- 4A- 4c
+8AA- 8E- 8A- 8c
+4AA- 4E- 4A- 4c
+8AA- 8A- 8c 8e-
+=27
+4D- 4A- 4B- 4f-X
+8D- 8A- 8B- 8f-
+4D- 4A-- 4B- 4f-X
+8D- 8A-- 8B- 8f-
+=28
+[8D-L [8G-X [8B- 8g-X
+8D-] 8G-] 8B-] 8f-X
+8D-J 8G-X 8B- 8e-
+[8GG-XL [8D- [8G-X [8B- 8f-X
+8GG-] 8D-] 8G-] 8B-] 8a-
+8GG-XJ 8D- 8G-X 8B- 8g-X
+=29
+4C-X 4G-X 4c-X 4e- 4ee-
+8C-X 8G-X 8c-X 8e- 8g-X 8ee-
+[8C-XL [8G-X [8B- [8f-X [8g-X 8ee-
+8C-] 8G-] 8B-] 8f-] 8g-] 8dd-
+8C-XJ 8G-X 8d- 8f-X 8g-X 8b-
+=30
+4C-X 4G-X 4c-X 4e- 4g-X [4cc-X
+8C-X 8G-X 8c-X 8e- 8g-X 8cc-]
+4C-X 4G-X 4c-X 4e- 4g-X
+8C-X 8G-X 8c-X 8e- 8g-
+=31
+[8.C-XL [8.G-X [8.c-X [8.e- [8.g-X
+16C-K] 16G-] 16c-] 16e-] 16g-]
+8C-XJ 8G-X 8c-X 8e- 8g-X
+4C-X 4G-X 4c-X 4e- 4g- 4cc-X
+8C-X 8G-X 8c-X 8e- 8g-X 8ee-
+=32
+4GG-X 4G-X 4B- 4d- [4g-X
+8GG-X 8G-X 8B- 8d- 8g-_
+4GG-X 4G-X 4B- 4d- 4g-]
+8G-X 8B- 8d- 8g-X
+=33
+4G-X 4c-X 4e-
+8G-X 8c-X 8e- 8g-X
+4G-X 4c-X 4e- 4g- 4cc-X
+8G-X 8c-X 8e- 8g-X 8cc- 8ee-
+=34
+4G-X 4B- 4d- [4g-X [4b- [4dd- [4gg-X
+8G-X 8d- 8g-_ 8b-_ 8dd-_ 8gg-_
+4G-X 4d- 4g-] 4b-] 4dd-] 4gg-]
+8G-X 8d- 8g-X 8b-- 8dd-
+=35
+4D- 4A- 4d- 4f-X 4a- 4ff-X
+8D- 8A- 8d- 8f-X 8a- 8ff-
+[8D-L [8A- [8cn [8g-X [8a- 8ff-X
+8D-] 8A-] 8c] 8g-] 8a-] 8ee-
+8D-J 8A- 8e- 8g-X 8a- 8cc
+=36
+4D- 4A- 4d- 4f-X 4a- [4dd-
+8D- 8A- 8d- 8f-X 8a- 8dd-]
+4D- 4A- 4d- 4f-X 4a-
+8BB- 8G-X 8d- 8f-X 8g-X
+=37
+[8C-XL [8G-X [8g-X 8ee-
+8C-] 8G-] 8f-X 8g-] 8dd-
+8E-J 8G-X 8e- 8g-X 8cc-X
+[8G-XL 8f-X [8g-X 8dd-
+8G-] 8e- 8g-] 8cc-X
+8GG-XJ 8G-X 8d- 8g-X 8b-
+=38
+4C-X 4G-X 4e- 4g-X 4cc-X
+8C-X 8G-X 8e- 8g-X
+[8E-L [8G-X [8cn [8g- 8b--
+8E-] 8G-] 8c] 8g-] 8a-
+8AA-J 8A- 8c 8g-X 8a-
+=39
+4D- 4A- 4d- 4f-X 4a- 4ff-X
+8D- 8A- 8d- 8f-X 8a- 8ff-
+[8D-L [8A- [8c [8g-X [8a- 8ff-X
+8D-] 8A-] 8c] 8g-] 8a-] 8ee-
+8D-J 8A- 8c 8e- 8a- 8gg-X
+=40
+[8D-L [8A- [8d- 8g-X [8a-
+8D-] 8A-] 8d-] 8f-X 8a-]
+[16D-L [16A- [16d- [16e- [16a- 16b-
+16D-JJ] 16A-] 16d-] 16e-] 16a-] 16cc
+4D- 4A- 4d- 4f-X 4a- 4dd-
+8BB- 8A-- 8d- 8f-X 8a--
+=41
+[8C-XL [8G-X [8g-X 8ee-
+8C-] 8G-] 8f-X 8g-] 8dd-
+8E-J 8G-X 8e- 8g-X 8cc-X
+[8G-XL 8f-X [8g-X 8dd-
+8G-] 8e- 8g-] 8cc-X
+8GG-XJ 8G-X 8d- 8g-X 8b-
+=42
+4C-X 4G-X 4e- 4g-X [4cc-X
+8C-X 8G-X 8e- 8g-X 8cc-]
+4Cn 4G-X 4B-- 4e- 4g-X [4gg-X
+8C 8G-X 8B-- 8e- 8g-X 8gg-]
+=43
+[8D-L [8G-X [8A- [8f-X [8g-X 8gg-X
+8D-] 8G-] 8A-] 8f-] 8g-] 8ff-X
+8D-J 8G-X 8A- 8f-X 8g-X 8ee-
+[8GG-XL [8G-X [8B- [8f-X [8g-X 8ff-X
+8GG-] 8G-] 8B-] 8f-] 8g-] 8ee-
+8GG-XJ 8G-X 8B- 8f-X 8g-X 8dd-
+=44
+4C-X 4G-X 4c-X 4e- 4g-X 4cc-X
+8C-X 8G-X 8c-X 8e- 8g-X
+4C-X 4G-X 4c-X 4e- 4g-
+8C-X 8c-X 8e- 8g-X
+=45
+4F-X 4c-X 4d- 4a-
+8F-X 8c-X 8d- 8a-
+4F-X 4c-X 4d- 4a-
+8F-X 8c-X 8d- 8a-
+=46
+[8G-XL [8B- [8d- 8a-
+8G-] 8B-] 8d-] 8g-X
+8G-XJ 8B- 8d- 8fn
+[8G-XL [8B- [8d- 8g-X
+8G-] 8B-] 8d-] 8a-
+8G-XJ 8B- 8d- 8f-X
+=47
+4C-X 4G-X 4c-X 4e-
+8C-X 8G-X 8c-X 8e-
+4C-X 4G-X 4c-X 4e-
+8AA- 8A- 8c-X 8e-
+=48
+4D- 4A- 4B- 4f-X
+8D- 8A- 8B- 8f-
+4D- 4A- 4B- 4f-X
+8D- 8A- 8B- 8f-
+=49
+[8E-L [8Gn [8B- 8f-X
+8E-] 8G] 8B-] 8e-
+8E-J 8G 8B- 8dn
+[8E-L [8G [8B- 8e-
+8E-] 8G] 8B-] 8fn
+8E-J 8G 8B- 8d-X 8e-
+=50
+4AA- 4E- 4A- 4cn 4cc
+8AA- 8E- 8A- 8c 8e- 8cc
+[8AA-L [8E- [8G [8d- [8e- 8cc
+8AA-] 8E-] 8G] 8d-] 8e-] 8b-
+8AA-J 8E- 8B- 8d- 8e- 8g
+=51
+4AA- 4E- 4A- 4c 4e- [4a-
+8AA- 8E- 8A- 8c 8e- 8a-]
+4AA- 4E- 4A- 4c 4e-
+8AA- 8E- 8A- 8c 8e-
+=52
+4AA- 4E- 4A- 4c 4e-
+8AA- 8E- 8A- 8c 8e-
+4AA- 4E- 4A- 4c 4e- 4a-
+8AA- 8E- 8A- 8c 8e- 8cc
+=53
+4EE- 4E- 4G 4B- 4e- [4ee-
+8EE- 8E- 8G 8B- 8e- 8ee-_
+4EE- 4E- 4G 4B- 4e- 4ee-]
+8E- 8G 8B- 8e-
+=54
+4E- 4A- 4c
+8E- 8A- 8c 8e-
+4E- 4A- 4c 4e- 4a-
+8E- 8A- 8c 8e- 8a- 8cc
+=55
+4E- 4G 4B- [4e- [4g [4b- [4ee-
+8E- 8B- 8e-_ 8g_ 8b-_ 8ee-_
+*MM115
+!LO:TX:t=[quarter]=115
+4E- 4B- 4e-] 4g] 4b-] 4ee-]
+*MM110
+!LO:TX:t=[quarter]=110
+8E- 8B- 8e- 8g-X 8b-
+=56
+4BB- 4F 4B- 4d- 4f 4dd-
+*MM100
+!LO:TX:t=[quarter]=100
+8BB- 8F 8B- 8d- 8f 8dd-
+[8BB-L [8F [8An [8e- [8f 8dd-
+8BB-] 8F] 8A] 8e-] 8f] 8cc
+8BB-J 8F 8c 8e- 8f 8an
+=57
+4BB- 4F 4B- 4d- 4f [4b-
+8BB- 8F 8B- 8d- 8f 8b-]
+4BB- 4F 4B- 4d- 4f
+8GG 8E- 8B- 8d- 8e- 8b-
+=58
+[8AA-L [8E- [8e- 8cc
+8AA-] 8E-] 8d- 8e-] 8b-
+8CJ 8E- 8c 8e- 8a-
+[8E-L 8d- [8e- 8b-
+8E-] 8c 8e-] 8a-
+8EE-J 8E- 8B- 8e- 8g
+=59
+4AA- 4E- 4c 4e- 4a-
+*MM110
+!LO:TX:t=[quarter]=110
+8AA- 8E- 8c 8e-
+[8CL [8E- [8An [8e- 8g-X
+8C] 8E-] 8A] 8e-] 8f
+8FFJ 8F 8An 8e- 8f
+=60
+4BB- 4F 4B- 4d- 4f 4dd-
+*MM105
+!LO:TX:t=[quarter]=105
+8BB- 8F 8B- 8d- 8f 8dd-
+[8BB-L [8F [8An [8e- [8f 8dd-
+8BB-] 8F] 8A] 8e-] 8f] 8cc
+8BB-J 8F 8c 8e- 8f 8an
+=61
+*MM100
+!LO:TX:t=[quarter]=100
+4BB- 4F 4B- 4d- 4f [4ff
+8BB- 8F 8B- 8d- 8f 8ff]
+4BB- 4F 4B- 4d- 4f 4b-
+8GG 8F-X 8B- 8d- 8f-X 8b-
+=62
+[8AA-L [8E- [8e- 8cc
+8AA-] 8E-] 8d- 8e-] 8b-
+8CJ 8E- 8c 8e- 8a-
+[8E-L 8d- [8e- 8b-
+8E-] 8c 8e-] 8a-
+8EE-J 8E- 8B- 8e- 8g
+=63
+4AA- 4E- 4c 4e- [4a-
+8AA- 8E- 8c 8e- 8a-]
+4AAn 4E- 4G-X 4c 4e- 4gg-X
+8AAn 8E- 8G-X 8c 8e- 8gg-
+=64
+[8BB-L [8E- [8F [8d- [8e- 8ff
+8BB-] 8E-] 8F] 8d-] 8e-] 8ee-
+8BB-J 8E- 8F 8d- 8e- 8dd-
+[8EE-ML [8E- [8Gn [8d- [8e- 8dd-
+8EE-] 8E-] 8G] 8d-] 8e-] 8cc
+8EE-J 8E- 8G 8d- 8e- 8b-
+=65
+4AA- 4E- 4A- 4c 4e- [4a-
+8AA- 8E- 8A- 8c 8e- 8a-_
+4AA- 4E- 4A- 4c 4e- 4a-]
+*MM105
+!LO:TX:t=[quarter]=105
+8AA- 8A- 8c 8e-
+=66
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+=67
+[8E-L [8G [8B- 8f
+8E-] 8G] 8B-] 8e-
+8E-J 8G 8B- 8dn
+[8E-L [8G [8B- 8e-
+8E-] 8G] 8B-] 8f
+8E-J 8G 8B- 8d-X
+=68
+*MM103
+!LO:TX:t=[quarter]=103
+4AA- 4E- 4A- 4c
+8AA- 8E- 8A- 8c
+[8.AA-L [8.E- [8.A- 8.c
+16AA-K] 16E-] 16A-] 16d-
+8AA-J 8A- 8c 8e-
+=69
+*MM102
+!LO:TX:t=[quarter]=102
+4D- 4A- 4B- 4f
+8D- 8A- 8B- 8f
+[8D-L 8A- [8B- 8f
+8D-] 8G 8B-] 8g
+8DnJ 8F 8B- 8a-
+=70
+*MM101
+!LO:TX:t=[quarter]=101
+[8E-L [8B- [8e- 8a-
+8E-] 8B-] 8e-] 8g
+8E-J 8c 8e- 8f
+4E- 4d- 4e- 4g
+8E- 8B- 8d- 8e- 8g
+=71
+*MM96
+!LO:TX:t=[quarter]=96
+4AA- 4A- 4c 4e- 4a-
+8AA- 8E- 8A- 8c 8e- 8a-
+*MM90
+!LO:TX:t=[quarter]=90
+4AA- 4E- 4A- 4c 4e- 4a-
+8AA- 8E- 8A- 8c 8e- 8a-
+=72
+2.AA-; 2.E- 2.A- 2.c 2.e- 2.a-
+==
+*-
+!!!YEM: OpenScore (CC0)
